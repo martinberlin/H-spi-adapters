@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "connector-fpc-library")(type "KiCad")(uri "${KIPRJMOD}/parts/connector-fpc-library")(options "")(descr ""))
+  (lib (name "digikey-footprints")(type "KiCad")(uri "${KIPRJMOD}/parts/digikey-kicad-library/digikey-footprints.pretty")(options "")(descr ""))
+  (lib (name "eec")(type "KiCad")(uri "${KIPRJMOD}/parts/eec.pretty")(options "")(descr ""))
+  (lib (name "PLogic")(type "KiCad")(uri "${KIPRJMOD}/parts/footprint")(options "")(descr ""))
+)

@@ -1,0 +1,66 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Infineon BSR315P
+#
+DEF BSR315P Q 0 40 Y Y 1 L N
+F0 "Q" 0 300 50 H V L CNN 
+F1 "BSR315P" 0 400 50 H V L CNN 
+F2 "Infineon-BSR315P-*" 0 500 50 H I L CNN 
+F3 "http://www.infineon.com/dgdl/BSR315P_Rev1.05.pdf?folderId=db3a304412b407950112b408e8c90004&fileId=db3a304412b407950112b42acc6143f0" 0 600 50 H I L CNN 
+F4 "Manufacturer URL" 0 700 50 H I L CNN "Component Link 1 Description"
+F5 "http://www.infineon.com/" 0 800 50 H I L CNN "Component Link 1 URL"
+F6 "Package Specification" 0 900 50 H I L CNN "Component Link 3 Description"
+F7 "http://www.infineon.com/dgdl/SC59-Package_Overview.pdf?folderId=db3a30431936bc4b01194dc0d34440b0&fileId=db3a30431936bc4b01194dd1aa1d40cf" 0 1000 50 H I L CNN "Component Link 3 URL"
+F8 "Rev. 1.05" 0 1100 50 H I L CNN "Datasheet Version"
+F9 "true" 0 1200 50 H I L CNN "Green"
+F10 "-0.62Â A" 0 1300 50 H I L CNN "ID max"
+F11 "-2.48Â A" 0 1400 50 H I L CNN "IDpuls max"
+F12 "Enhancement" 0 1500 50 H I L CNN "Mode"
+F13 "Surface Mount" 0 1600 50 H I L CNN "Mounting Technology"
+F14 "3-Pin Semiconductor Package, 3 x 1.53 mm Body, 0.95 mm Pitch" 0 1700 50 H I L CNN "Package Description"
+F15 "Mar-08" 0 1800 50 H I L CNN "Package Version"
+F16 "Reel" 0 1900 50 H I L CNN "Packing"
+F17 "P" 0 2000 50 H I L CNN "Polarity"
+F18 "0.5Â W" 0 2100 50 H I L CNN "Pto t max"
+F19 "4Â nC" 0 2200 50 H I L CNN "QG"
+F20 "800Â mOhm" 0 2300 50 H I L CNN "RDS on max"
+F21 "1,300Â mOhm" 0 2400 50 H I L CNN "RDS on max 45V"
+F22 "250Â K/W" 0 2500 50 H I L CNN "Rth"
+F23 "SIPMOS" 0 2600 50 H I L CNN "Technology"
+F24 "-60Â V" 0 2700 50 H I L CNN "VDS max"
+F25 "-1Â V" 0 2800 50 H I L CNN "VGSth max"
+F26 "-2Â V" 0 2900 50 H I L CNN "VGSth min"
+F27 "Trans" 0 3000 50 H I L CNN "category"
+F28 "21172953" 0 3100 50 H I L CNN "ciiva ids"
+F29 "2a2260564a131bec" 0 3200 50 H I L CNN "library id"
+F30 "Infineon" 0 3300 50 H I L CNN "manufacturer"
+F31 "PG-SC59" 0 3400 50 H I L CNN "package"
+F32 "1409235206" 0 3500 50 H I L CNN "release date"
+F33 "7C77D9E2-1590-4AF2-9326-B9894AD7D1C9" 0 3600 50 H I L CNN "vault revision"
+F34 "yes" 0 3700 50 H I L CNN "imported"
+DRAW
+X DRAIN 3 300 200 100 D 40 0 1 1 P 
+X GATE 1 0 0 100 R 40 0 1 1 P 
+X SOURCE 2 300 -200 100 U 40 0 1 1 P 
+P 2 1 1 0 300 70 200 70 N
+P 2 1 1 0 300 0 200 0 N
+P 2 1 1 0 300 -70 200 -70 N
+P 2 1 1 0 300 0 300 -100 N
+P 2 1 1 0 180 90 180 -90 N
+P 2 1 1 0 200 90 200 50 N
+P 2 1 1 0 200 -20 200 20 N
+P 2 1 1 0 200 -90 200 -50 N
+P 2 1 1 0 100 0 180 0 N
+P 4 1 1 0 240 20 240 -20 300 0 240 20 N
+P 2 1 1 0 300 70 300 100 N
+P 2 1 1 0 300 100 400 100 N
+P 2 1 1 0 400 100 400 30 N
+P 2 1 1 0 400 -100 400 -20 N
+P 2 1 1 0 300 -100 400 -100 N
+P 2 1 1 0 430 -20 370 -20 N
+P 4 1 1 0 430 30 370 30 400 -20 430 30 N
+ENDDRAW
+ENDDEF
+#
+# End Library

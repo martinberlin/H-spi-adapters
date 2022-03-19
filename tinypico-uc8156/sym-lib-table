@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name "PLogic-SPI-HAT-cache")(type "Legacy")(uri "${KIPRJMOD}/PLogic-SPI-HAT-cache.lib")(options "")(descr ""))
+  (lib (name "XF2M-2615-1A")(type "Legacy")(uri "${KIPRJMOD}/parts/connector-fpc-library/XF2M-2615-1A.lib")(options "")(descr ""))
+  (lib (name "eec")(type "Legacy")(uri "${KIPRJMOD}/parts/eec.lib")(options "")(descr ""))
+  (lib (name "dk_Transistors-FETs-MOSFETs-Single")(type "Legacy")(uri "${KIPRJMOD}/parts/digikey-kicad-library/digikey-symbols/dk_Transistors-FETs-MOSFETs-Single.lib")(options "")(descr ""))
+  (lib (name "connector26_fpcconn")(type "KiCad")(uri "${KIPRJMOD}/parts/Symbols/connector26_fpcconn.kicad_sym")(options "")(descr ""))
+  (lib (name "FET-SOT-323")(type "Legacy")(uri "${KIPRJMOD}/parts/FET_SI1308EDL-SOT-323.lib")(options "")(descr ""))
+  (lib (name "Tinypico")(type "KiCad")(uri "${KIPRJMOD}/parts/Symbols/TinyS3.kicad_sym")(options "")(descr ""))
+  (lib (name "FET-SOT-23-3")(type "Legacy")(uri "${KIPRJMOD}/parts/FET_BSR315PH6327XTSA1.lib")(options "")(descr ""))
+)

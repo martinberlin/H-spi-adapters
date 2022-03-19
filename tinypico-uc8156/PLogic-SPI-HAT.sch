@@ -1,0 +1,490 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "PlasticLogic SPI HAT for \"M5 Stamp C3\""
+Date "2022-01-03"
+Rev "1.0"
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 "M5 Stamp C3 SPI HAT"
+$EndDescr
+$Comp
+L Device:D_Schottky D?
+U 1 1 61D3A1EE
+P 8150 3500
+F 0 "D?" H 8150 3625 50  0000 C CNN
+F 1 "D_Schottky" H 8150 3626 50  0001 C CNN
+F 2 "" H 8150 3500 50  0001 C CNN
+F 3 "~" H 8150 3500 50  0001 C CNN
+	1    8150 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L dk_Fixed-Inductors:82473C L?
+U 1 1 61D3BC2E
+P 8600 3150
+F 0 "L?" V 8547 3238 60  0000 L CNN
+F 1 "47µ" V 8653 3238 60  0000 L CNN
+F 2 "digikey-footprints:1210" H 8800 3350 60  0001 L CNN
+F 3 "https://www.murata-ps.com/data/magnetics/kmp_8200c.pdf" H 8800 3450 60  0001 L CNN
+F 4 "811-2477-1-ND" H 8800 3550 60  0001 L CNN "Digi-Key_PN"
+F 5 "82473C" H 8800 3650 60  0001 L CNN "MPN"
+F 6 "Inductors, Coils, Chokes" H 8800 3750 60  0001 L CNN "Category"
+F 7 "Fixed Inductors" H 8800 3850 60  0001 L CNN "Family"
+F 8 "https://www.murata-ps.com/data/magnetics/kmp_8200c.pdf" H 8800 3950 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/murata-power-solutions-inc/82473C/811-2477-1-ND/3178548" H 8800 4050 60  0001 L CNN "DK_Detail_Page"
+F 10 "FIXED IND 47UH 250MA 1.69 OHM" H 8800 4150 60  0001 L CNN "Description"
+F 11 "Murata Power Solutions Inc." H 8800 4250 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 8800 4350 60  0001 L CNN "Status"
+	1    8600 3150
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D_Schottky D?
+U 1 1 61D39B20
+P 8150 2800
+F 0 "D?" H 8150 2675 50  0000 C CNN
+F 1 "D_Schottky" H 8150 2674 50  0001 C CNN
+F 2 "" H 8150 2800 50  0001 C CNN
+F 3 "~" H 8150 2800 50  0001 C CNN
+	1    8150 2800
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8300 2800 8600 2800
+Wire Wire Line
+	8600 2800 8600 2950
+Wire Wire Line
+	8600 3350 8600 3500
+Wire Wire Line
+	8600 3500 8300 3500
+$Comp
+L dk_Transistors-FETs-MOSFETs-Single:FQP27P06 Q?
+U 1 1 61D4440B
+P 8600 2400
+F 0 "Q?" H 8708 2453 60  0000 L CNN
+F 1 "FET P-CH 60V 620Ma" H 8708 2347 60  0000 L CNN
+F 2 "digikey-footprints:TO-220-3" H 8800 2600 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/FQP27P06-D.PDF" H 8800 2700 60  0001 L CNN
+F 4 "FQP27P06-ND" H 8800 2800 60  0001 L CNN "Digi-Key_PN"
+F 5 "FQP27P06" H 8800 2900 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 8800 3000 60  0001 L CNN "Category"
+F 7 "Transistors - FETs, MOSFETs - Single" H 8800 3100 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/FQP27P06-D.PDF" H 8800 3200 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/FQP27P06/FQP27P06-ND/965349" H 8800 3300 60  0001 L CNN "DK_Detail_Page"
+F 10 "MOSFET P-CH 60V 27A TO-220" H 8800 3400 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 8800 3500 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 8800 3600 60  0001 L CNN "Status"
+	1    8600 2400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8600 2800 8600 2600
+Connection ~ 8600 2800
+$Comp
+L power:GND #PWR?
+U 1 1 61D46E50
+P 8600 4150
+F 0 "#PWR?" H 8600 3900 50  0001 C CNN
+F 1 "GND" H 8605 3977 50  0000 C CNN
+F 2 "" H 8600 4150 50  0001 C CNN
+F 3 "" H 8600 4150 50  0001 C CNN
+	1    8600 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VDDA #PWR?
+U 1 1 61D475C6
+P 8600 2050
+F 0 "#PWR?" H 8600 1900 50  0001 C CNN
+F 1 "VDDA" H 8615 2223 50  0000 C CNN
+F 2 "" H 8600 2050 50  0001 C CNN
+F 3 "" H 8600 2050 50  0001 C CNN
+	1    8600 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:ZXM61N03F Q?
+U 1 1 61D480A6
+P 8500 3800
+F 0 "Q?" H 8705 3846 50  0000 L CNN
+F 1 "FET N-CH 30V 1.4A" H 8705 3755 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 8700 3725 50  0001 L CIN
+F 3 "http://www.diodes.com/assets/Datasheets/ZXM61N03F.pdf" H 8500 3800 50  0001 L CNN
+	1    8500 3800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8600 3500 8600 3600
+Connection ~ 8600 3500
+Wire Wire Line
+	8600 4000 8600 4150
+Text Notes 7250 1800 0    79   ~ 16
+HV Booster
+Wire Wire Line
+	8600 2200 8600 2050
+$Comp
+L Device:C C?
+U 1 1 61D791AC
+P 7650 2950
+F 0 "C?" H 7765 2996 50  0000 L CNN
+F 1 "2µ2 35V" H 7765 2905 50  0000 L CNN
+F 2 "" H 7688 2800 50  0001 C CNN
+F 3 "~" H 7650 2950 50  0001 C CNN
+	1    7650 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 61D7E724
+P 7650 3300
+F 0 "C?" H 7765 3346 50  0000 L CNN
+F 1 "2µ2 35V" H 7765 3255 50  0000 L CNN
+F 2 "" H 7688 3150 50  0001 C CNN
+F 3 "~" H 7650 3300 50  0001 C CNN
+	1    7650 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 61D7F16A
+P 6400 3150
+F 0 "#PWR?" H 6400 2900 50  0001 C CNN
+F 1 "GND" H 6405 2977 50  0000 C CNN
+F 2 "" H 6400 3150 50  0001 C CNN
+F 3 "" H 6400 3150 50  0001 C CNN
+	1    6400 3150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8000 2800 7650 2800
+Wire Wire Line
+	7650 3100 7650 3150
+Wire Wire Line
+	7650 3450 7650 3500
+Wire Wire Line
+	7650 3500 8000 3500
+Connection ~ 7650 2800
+Text Label 6600 2500 0    89   ~ 0
+GDR_P
+Text Label 6600 2750 0    89   ~ 0
+VGL
+Wire Wire Line
+	7650 2800 6600 2800
+Wire Wire Line
+	6600 2800 6600 2750
+Text Label 6600 3450 0    89   ~ 0
+VGH
+Wire Wire Line
+	7650 3500 6600 3500
+Wire Wire Line
+	6600 3500 6600 3450
+Connection ~ 7650 3500
+Text Label 6600 3750 0    89   ~ 0
+GDR_N
+Wire Wire Line
+	8300 3800 6600 3800
+Wire Wire Line
+	6600 3800 6600 3750
+Wire Wire Line
+	6400 3150 7650 3150
+Connection ~ 7650 3150
+Text Notes 5100 1850 0    79   ~ 16
+Display\nConnector
+Text Label 4600 2250 0    50   ~ 0
+VSL
+Wire Wire Line
+	5150 2300 4850 2300
+Wire Wire Line
+	5150 2400 4850 2400
+Wire Wire Line
+	4850 2400 4850 2300
+Connection ~ 4850 2300
+Wire Wire Line
+	4850 2300 4600 2300
+Text Label 4600 2500 0    50   ~ 0
+VSH
+$Comp
+L M5StampC3-cache:Connector2_FPCConn U?
+U 1 1 61D59AEC
+P 5150 2650
+F 0 "U?" H 4622 3696 50  0000 R CNN
+F 1 "Connector2_FPCConn" H 4622 3605 50  0000 R CNN
+F 2 "Connector_FFC-FPC:TE_2-1734839-4_1x24-1MP_P0.5mm_Horizontal" H 5150 2650 50  0001 C CNN
+F 3 "" H 5150 2650 50  0001 C CNN
+	1    5150 2650
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 61D72070
+P 4300 2300
+F 0 "#PWR?" H 4300 2050 50  0001 C CNN
+F 1 "GND" H 4305 2127 50  0000 C CNN
+F 2 "" H 4300 2300 50  0001 C CNN
+F 3 "" H 4300 2300 50  0001 C CNN
+	1    4300 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 61D71178
+P 4450 2300
+F 0 "C?" H 4565 2346 50  0000 L CNN
+F 1 "1µ 25V" H 4565 2255 50  0000 L CNN
+F 2 "" H 4488 2150 50  0001 C CNN
+F 3 "~" H 4450 2300 50  0001 C CNN
+	1    4450 2300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 61D7D469
+P 4300 2600
+F 0 "#PWR?" H 4300 2350 50  0001 C CNN
+F 1 "GND" H 4305 2427 50  0000 C CNN
+F 2 "" H 4300 2600 50  0001 C CNN
+F 3 "" H 4300 2600 50  0001 C CNN
+	1    4300 2600
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 61D7D8ED
+P 4450 2600
+F 0 "C?" H 4565 2646 50  0000 L CNN
+F 1 "1µ 25V" H 4565 2555 50  0000 L CNN
+F 2 "" H 4488 2450 50  0001 C CNN
+F 3 "~" H 4450 2600 50  0001 C CNN
+	1    4450 2600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5150 2600 4850 2600
+Wire Wire Line
+	5150 2500 4850 2500
+Wire Wire Line
+	4850 2500 4850 2600
+Connection ~ 4850 2600
+Wire Wire Line
+	4850 2600 4600 2600
+Text Label 3750 2750 0    50   ~ 0
+VGL
+Wire Wire Line
+	5150 2800 4850 2800
+Wire Wire Line
+	3750 2800 3750 2750
+Wire Wire Line
+	5150 2700 4850 2700
+Wire Wire Line
+	4850 2700 4850 2800
+Connection ~ 4850 2800
+Wire Wire Line
+	4850 2800 3750 2800
+Text Label 3750 2950 0    50   ~ 0
+VGH
+Wire Wire Line
+	5150 3000 4850 3000
+Wire Wire Line
+	3750 3000 3750 2950
+Wire Wire Line
+	5150 2900 4850 2900
+Wire Wire Line
+	4850 2900 4850 3000
+Connection ~ 4850 3000
+Wire Wire Line
+	4850 3000 3750 3000
+Text Label 3450 3050 0    50   ~ 0
+GDR_P
+Wire Wire Line
+	5150 3100 3450 3100
+Wire Wire Line
+	3450 3100 3450 3050
+Text Label 3450 3200 0    50   ~ 0
+GDR_N
+Wire Wire Line
+	5150 3200 3450 3200
+$Comp
+L Device:C C?
+U 1 1 61D923F7
+P 3250 3400
+F 0 "C?" H 3365 3446 50  0000 L CNN
+F 1 "1µ 25V" H 3365 3355 50  0000 L CNN
+F 2 "" H 3288 3250 50  0001 C CNN
+F 3 "~" H 3250 3400 50  0001 C CNN
+	1    3250 3400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 61D92D93
+P 3100 3400
+F 0 "#PWR?" H 3100 3150 50  0001 C CNN
+F 1 "GND" H 3105 3227 50  0000 C CNN
+F 2 "" H 3100 3400 50  0001 C CNN
+F 3 "" H 3100 3400 50  0001 C CNN
+	1    3100 3400
+	0    1    1    0   
+$EndComp
+Text Label 3450 3350 0    50   ~ 0
+VDDA
+Wire Wire Line
+	5150 3400 4850 3400
+Wire Wire Line
+	5150 3300 4850 3300
+Wire Wire Line
+	4850 3300 4850 3400
+Connection ~ 4850 3400
+Wire Wire Line
+	4850 3400 3450 3400
+Wire Wire Line
+	5150 4400 3450 4400
+Text Label 4200 3500 0    50   ~ 0
+SPI_MISO
+Text Label 4200 3600 0    50   ~ 0
+SPI_MOSI
+Wire Wire Line
+	5150 3500 4200 3500
+Wire Wire Line
+	5150 3600 4200 3600
+Text Label 4200 3700 0    50   ~ 0
+SPI_CLK
+Text Label 4200 3800 0    50   ~ 0
+SPI_CS
+Text Label 4200 3900 0    50   ~ 0
+SPI_RST_N
+Wire Wire Line
+	5150 3700 4200 3700
+Wire Wire Line
+	5150 3800 4200 3800
+Wire Wire Line
+	5150 3900 4200 3900
+Text Label 4200 4000 0    50   ~ 0
+SPI_BUSY_N
+Wire Wire Line
+	5150 4000 4200 4000
+$Comp
+L power:GND #PWR?
+U 1 1 61DAFC57
+P 4400 4100
+F 0 "#PWR?" H 4400 3850 50  0001 C CNN
+F 1 "GND" H 4405 3927 50  0000 C CNN
+F 2 "" H 4400 4100 50  0001 C CNN
+F 3 "" H 4400 4100 50  0001 C CNN
+	1    4400 4100
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5150 4100 4400 4100
+$Comp
+L power:GND #PWR?
+U 1 1 61DB17D5
+P 4050 4600
+F 0 "#PWR?" H 4050 4350 50  0001 C CNN
+F 1 "GND" H 4055 4427 50  0000 C CNN
+F 2 "" H 4050 4600 50  0001 C CNN
+F 3 "" H 4050 4600 50  0001 C CNN
+	1    4050 4600
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5150 4600 4850 4600
+Wire Wire Line
+	5150 4500 4850 4500
+Wire Wire Line
+	4850 4500 4850 4600
+Connection ~ 4850 4600
+Wire Wire Line
+	4850 4600 4050 4600
+Wire Wire Line
+	5150 4700 4850 4700
+Wire Wire Line
+	4850 4700 4850 4600
+$Comp
+L Device:C C?
+U 1 1 61DB5D8D
+P 3250 4800
+F 0 "C?" H 3365 4846 50  0000 L CNN
+F 1 "1µ 25V" H 3365 4755 50  0000 L CNN
+F 2 "" H 3288 4650 50  0001 C CNN
+F 3 "~" H 3250 4800 50  0001 C CNN
+	1    3250 4800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5150 4800 3400 4800
+$Comp
+L power:GND #PWR?
+U 1 1 61DB7CC0
+P 3100 4800
+F 0 "#PWR?" H 3100 4550 50  0001 C CNN
+F 1 "GND" H 3105 4627 50  0000 C CNN
+F 2 "" H 3100 4800 50  0001 C CNN
+F 3 "" H 3100 4800 50  0001 C CNN
+	1    3100 4800
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 61DBCE9D
+P 3950 4150
+F 0 "C?" H 4065 4196 50  0000 L CNN
+F 1 "100µ 16V" H 4065 4105 50  0000 L CNN
+F 2 "" H 3988 4000 50  0001 C CNN
+F 3 "~" H 3950 4150 50  0001 C CNN
+	1    3950 4150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 61DBD7CD
+P 3800 4150
+F 0 "#PWR?" H 3800 3900 50  0001 C CNN
+F 1 "GND" H 3805 3977 50  0000 C CNN
+F 2 "" H 3800 4150 50  0001 C CNN
+F 3 "" H 3800 4150 50  0001 C CNN
+	1    3800 4150
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5150 4300 4850 4300
+Wire Wire Line
+	5150 4200 4850 4200
+Wire Wire Line
+	4850 4200 4850 4300
+Connection ~ 4850 4300
+Wire Wire Line
+	4100 4300 4100 4150
+Wire Wire Line
+	4100 4300 4850 4300
+Text Notes 2550 4500 0    79   ~ 0
+Decoupling
+Wire Notes Line
+	3350 4350 2350 4350
+Wire Notes Line
+	2350 4350 2350 4950
+Wire Notes Line
+	2350 4950 3350 4950
+Wire Notes Line
+	3350 4950 3350 4350
+Text Label 3450 4800 0    43   ~ 0
+TPCOM
+Text Label 4200 4300 0    43   ~ 0
+VDD
+Wire Wire Line
+	3450 4400 3450 3400
+Connection ~ 3450 3400
+Wire Wire Line
+	3450 3400 3400 3400
+Wire Wire Line
+	3450 3350 3450 3400
+Text Notes 8150 1800 0    71   Italic 0
+Here VDDA is 3.3v ?
+Wire Wire Line
+	6600 2500 8300 2500
+$EndSCHEMATC
