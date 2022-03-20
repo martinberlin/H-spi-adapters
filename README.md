@@ -27,3 +27,4 @@ Intention to make a mini-parallel epaper driver (Will be super hard design)
 For more information and currect projects please check:
 
 [https://fasani.de/pcb-design-projects](https://fasani.de/pcb-design-projects)
+Most of the PCB's where designed using latest version of KiCAD when writing this lines ( V. 6 )

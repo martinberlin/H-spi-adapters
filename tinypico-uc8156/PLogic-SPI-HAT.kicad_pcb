@@ -8,7 +8,8 @@
   (title_block
     (title "PlasticLogic SPI HAT for tinyPico.com ESP32")
     (date "2022-01-10")
-    (rev "1.0")
+    (rev "1.1")
+    (company "FASANI CORPORATION")
   )
 
   (layers
