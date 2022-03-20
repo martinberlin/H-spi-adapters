@@ -17,7 +17,9 @@ The supported [displays are sold by German company PlasticLogic](https://www.pla
 
 ## Other SPI adapters that might come
 
-Goodisplay Tinypico ESP32 HAT (Idea)
+Goodisplay Tinypico ESP32 HAT (Idea) In Production, needs revisions from a higher hierarchie ;)
+
+![Good display Tinypico HAT](assets/goodisplay-spi.png)
 
 Other epapers.
 
