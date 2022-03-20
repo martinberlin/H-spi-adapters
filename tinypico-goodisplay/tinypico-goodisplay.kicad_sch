@@ -806,6 +806,7 @@
     )
   )
 
+
   (junction (at 119.38 87.63) (diameter 0) (color 0 0 0 0)
     (uuid 20caf6d2-76a7-497e-ac56-f6d31eb9027b)
   )
@@ -1694,7 +1695,7 @@
     (property "Value" "FPCConn" (id 1) (at 45.0342 129.413 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Connector_FFC-FPC:TE_2-1734839-4_1x24-1MP_P0.5mm_Horizontal" (id 2) (at 58.42 153.67 0)
+    (property "Footprint" "" (id 2) (at 58.42 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 58.42 153.67 0)
@@ -1724,8 +1725,8 @@
     (pin "7" (uuid 75d5cd7b-9808-4508-9303-46ee701e7cfb))
     (pin "8" (uuid 62c92189-18b2-4ca3-8f00-998d4a7fe149))
     (pin "9" (uuid f3c4b7c3-0ebe-477d-b1a7-616124e072fe))
-    (pin "MP" (uuid 80510448-b9a3-446c-a3e3-2b453869b84f))
-    (pin "MP" (uuid 80510448-b9a3-446c-a3e3-2b453869b84f))
+    (pin "MP" (uuid 80510448-b9a3-446c-a3e3-2b453869b850))
+    (pin "MP" (uuid 80510448-b9a3-446c-a3e3-2b453869b850))
   )
 
   (symbol (lib_id "power:+3V3") (at 129.54 83.82 0) (unit 1)
@@ -1778,22 +1779,6 @@
     (pin "1" (uuid 04bf424f-7325-4af2-8bdc-3a89bc4f1c4f))
     (pin "2" (uuid ffdfe71e-873d-47e1-9150-e7459986c65f))
     (pin "3" (uuid 27bf8d93-25bd-4354-9600-c34823baa23a))
-  )
-
-  (symbol (lib_id "power:+3V3") (at 243.84 91.44 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
-    (uuid 8e863a4d-74d3-41c7-b4a8-ba78ccdc5b0c)
-    (property "Reference" "#PWR0103" (id 0) (at 243.84 95.25 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+3V3" (id 1) (at 243.84 87.8642 0))
-    (property "Footprint" "" (id 2) (at 243.84 91.44 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (id 3) (at 243.84 91.44 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 6951ba43-1552-4f2c-b381-51807e21347d))
   )
 
   (symbol (lib_id "power:GND") (at 110.49 158.75 0) (unit 1)
@@ -1876,6 +1861,22 @@
     (pin "1" (uuid cb6e4383-36ce-49f6-ac34-8bf59ddc3e6b))
   )
 
+  (symbol (lib_id "power:+3.3VP") (at 243.84 91.44 0) (unit 1)
+    (in_bom yes) (on_board yes)
+    (uuid e450b142-5c2d-4bec-b9c4-1540c3d86e20)
+    (property "Reference" "#PWR0103" (id 0) (at 247.65 92.71 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "" (id 1) (at 244.221 87.0458 0))
+    (property "Footprint" "" (id 2) (at 243.84 91.44 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 243.84 91.44 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 4dd15328-a9e3-4f9a-9193-42fd10db3ce1))
+  )
+
   (symbol (lib_id "Device:R") (at 105.41 158.75 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid e53b8a2b-fe13-4961-be86-41db2a36051d)
@@ -1924,8 +1925,8 @@
     (path "/f30f5c8b-5464-4463-9d5a-5a2eee872fcd"
       (reference "#PWR0102") (unit 1) (value "~") (footprint "")
     )
-    (path "/8e863a4d-74d3-41c7-b4a8-ba78ccdc5b0c"
-      (reference "#PWR0103") (unit 1) (value "+3V3") (footprint "")
+    (path "/e450b142-5c2d-4bec-b9c4-1540c3d86e20"
+      (reference "#PWR0103") (unit 1) (value "+3.3VP") (footprint "")
     )
     (path "/00000000-0000-0000-0000-0000606b9968"
       (reference "#PWR0109") (unit 1) (value "GND") (footprint "")
@@ -2018,7 +2019,7 @@
       (reference "U1") (unit 1) (value "TinypicoESP32_Symbol") (footprint "Tinypico:TinyESP32")
     )
     (path "/00000000-0000-0000-0000-00006072c514"
-      (reference "U2") (unit 1) (value "FPCConn") (footprint "Connector_FFC-FPC:TE_2-1734839-4_1x24-1MP_P0.5mm_Horizontal")
+      (reference "U2") (unit 1) (value "FPCConn") (footprint "footprint:Hirose_FH12-24S-0.5SH_1x24-1MP_P0.50mm_Horizontal")
     )
   )
 )
