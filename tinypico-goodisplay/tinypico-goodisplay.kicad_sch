@@ -1656,8 +1656,8 @@
     (pin "7" (uuid 75d5cd7b-9808-4508-9303-46ee701e7cfb))
     (pin "8" (uuid 62c92189-18b2-4ca3-8f00-998d4a7fe149))
     (pin "9" (uuid f3c4b7c3-0ebe-477d-b1a7-616124e072fe))
-    (pin "MP" (uuid 80510448-b9a3-446c-a3e3-2b453869b851))
-    (pin "MP" (uuid 80510448-b9a3-446c-a3e3-2b453869b851))
+    (pin "MP" (uuid 80510448-b9a3-446c-a3e3-2b453869b853))
+    (pin "MP" (uuid 80510448-b9a3-446c-a3e3-2b453869b853))
   )
 
   (symbol (lib_id "power:+3V3") (at 129.54 83.82 0) (unit 1)
@@ -1698,7 +1698,7 @@
     (property "Reference" "JP1" (id 0) (at 86.7162 151.5653 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "selector" (id 1) (at 86.7162 154.1022 90)
+    (property "Value" "" (id 1) (at 86.7162 154.1022 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 85.09 152.4 0)
@@ -1715,10 +1715,10 @@
   (symbol (lib_id "power:+3V3") (at 243.84 91.44 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5c7197a8-00ce-4670-81cf-d7a0f9d1ac8c)
-    (property "Reference" "#PWR?" (id 0) (at 243.84 95.25 0)
+    (property "Reference" "#PWR0103" (id 0) (at 243.84 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "" (id 1) (at 243.84 87.8642 0))
+    (property "Value" "+3V3" (id 1) (at 243.84 87.8642 0))
     (property "Footprint" "" (id 2) (at 243.84 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1747,10 +1747,10 @@
   (symbol (lib_id "power:+3V3") (at 68.58 121.92 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a375fec6-08d0-4dfb-8c0d-f1c802bcfd9d)
-    (property "Reference" "#PWR?" (id 0) (at 68.58 125.73 0)
+    (property "Reference" "#PWR0104" (id 0) (at 68.58 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "" (id 1) (at 68.58 118.3442 0))
+    (property "Value" "+3V3" (id 1) (at 68.58 118.3442 0))
     (property "Footprint" "" (id 2) (at 68.58 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1872,6 +1872,12 @@
     (path "/f30f5c8b-5464-4463-9d5a-5a2eee872fcd"
       (reference "#PWR0102") (unit 1) (value "~") (footprint "")
     )
+    (path "/5c7197a8-00ce-4670-81cf-d7a0f9d1ac8c"
+      (reference "#PWR0103") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/a375fec6-08d0-4dfb-8c0d-f1c802bcfd9d"
+      (reference "#PWR0104") (unit 1) (value "+3V3") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-0000606b9968"
       (reference "#PWR0109") (unit 1) (value "GND") (footprint "")
     )
@@ -1892,12 +1898,6 @@
     )
     (path "/00000000-0000-0000-0000-000061a87074"
       (reference "#PWR0119") (unit 1) (value "+3V3") (footprint "")
-    )
-    (path "/5c7197a8-00ce-4670-81cf-d7a0f9d1ac8c"
-      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
-    )
-    (path "/a375fec6-08d0-4dfb-8c0d-f1c802bcfd9d"
-      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/00000000-0000-0000-0000-0000606b31f4"
       (reference "C1") (unit 1) (value "105") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
@@ -1945,7 +1945,7 @@
       (reference "D3") (unit 1) (value "MBR0530") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/3a6b8f9d-0005-44a5-95a4-3e58bdf1c3ef"
-      (reference "JP1") (unit 1) (value "selector") (footprint "")
+      (reference "JP1") (unit 1) (value "selector") (footprint "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm")
     )
     (path "/00000000-0000-0000-0000-0000606b755b"
       (reference "L1") (unit 1) (value "68uH1A") (footprint "Inductor_SMD:L_1210_3225Metric")

@@ -15,6 +15,11 @@ My first product in this direction is the [Tinypico SPI adapter for UC8156 displ
 
 The supported [displays are sold by German company PlasticLogic](https://www.plasticlogic.com/sampleshop).
 
+## Goodisplay SPI adapter
+
+This is currently being designed. There is a 3 pad's jumper in the PCB, this is what they called RESE option, different epapers might need either the 4.7 soldered to the center, others the 3. If this is wrong selected the epaper might fail to refresh.
+Please check what is the right choice for your model downloading the [DESPI-co2 datasheet](https://www.good-display.com/companyfile/DESPI-C02-Specification-29.html).
+
 ## Other SPI adapters that might come
 
 Goodisplay Tinypico ESP32 HAT (Idea) In Production, needs revisions from a higher hierarchie ;)
