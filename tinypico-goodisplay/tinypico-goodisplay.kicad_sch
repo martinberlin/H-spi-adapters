@@ -1545,7 +1545,7 @@
     (property "Reference" "C10" (id 0) (at 85.471 82.6516 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "4.7uF50V" (id 1) (at 85.471 84.963 0)
+    (property "Value" "4.7uF 50V" (id 1) (at 85.471 84.963 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (id 2) (at 81.5848 80.01 0)
@@ -1554,7 +1554,7 @@
     (property "Datasheet" "~" (id 3) (at 82.55 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C13967" (id 4) (at 82.55 83.82 0)
+    (property "LCSC" "C1779" (id 4) (at 82.55 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid cdc3b906-03a1-49d1-9555-dc3dde6b0002))
@@ -1963,7 +1963,7 @@
       (reference "C9") (unit 1) (value "105") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-0000606b8743"
-      (reference "C10") (unit 1) (value "4.7uF50V") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C10") (unit 1) (value "4.7uF 50V") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-0000606b4d66"
       (reference "C11") (unit 1) (value "105") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
