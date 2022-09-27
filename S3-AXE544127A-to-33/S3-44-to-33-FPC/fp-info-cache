@@ -1,4 +1,4 @@
-3341030179418117
+3379185394295374
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -9442,244 +9442,6 @@ connector Samtec HLE horizontal
 0
 100
 100
-Connector_Wago
-Wago_734-132_1x02_P3.50mm_Vertical
-Molex 734 Male header (for PCBs); Straight solder pin 1 x 1 mm, 734-132 , 2 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  side entry
-0
-2
-2
-Connector_Wago
-Wago_734-133_1x03_P3.50mm_Vertical
-Molex 734 Male header (for PCBs); Straight solder pin 1 x 1 mm, 734-133 , 3 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  side entry
-0
-3
-3
-Connector_Wago
-Wago_734-134_1x04_P3.50mm_Vertical
-Molex 734 Male header (for PCBs); Straight solder pin 1 x 1 mm, 734-134 , 4 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  side entry
-0
-4
-4
-Connector_Wago
-Wago_734-135_1x05_P3.50mm_Vertical
-Molex 734 Male header (for PCBs); Straight solder pin 1 x 1 mm, 734-135 , 5 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  side entry
-0
-5
-5
-Connector_Wago
-Wago_734-136_1x06_P3.50mm_Vertical
-Molex 734 Male header (for PCBs); Straight solder pin 1 x 1 mm, 734-136 , 6 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  side entry
-0
-6
-6
-Connector_Wago
-Wago_734-137_1x07_P3.50mm_Vertical
-Molex 734 Male header (for PCBs); Straight solder pin 1 x 1 mm, 734-137 , 7 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  side entry
-0
-7
-7
-Connector_Wago
-Wago_734-138_1x08_P3.50mm_Vertical
-Molex 734 Male header (for PCBs); Straight solder pin 1 x 1 mm, 734-138 , 8 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  side entry
-0
-8
-8
-Connector_Wago
-Wago_734-139_1x09_P3.50mm_Vertical
-Molex 734 Male header (for PCBs); Straight solder pin 1 x 1 mm, 734-139 , 9 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  side entry
-0
-9
-9
-Connector_Wago
-Wago_734-140_1x10_P3.50mm_Vertical
-Molex 734 Male header (for PCBs); Straight solder pin 1 x 1 mm, 734-140 , 10 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  side entry
-0
-10
-10
-Connector_Wago
-Wago_734-141_1x11_P3.50mm_Vertical
-Molex 734 Male header (for PCBs); Straight solder pin 1 x 1 mm, 734-141 , 11 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  side entry
-0
-11
-11
-Connector_Wago
-Wago_734-142_1x12_P3.50mm_Vertical
-Molex 734 Male header (for PCBs); Straight solder pin 1 x 1 mm, 734-142 , 12 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  side entry
-0
-12
-12
-Connector_Wago
-Wago_734-143_1x13_P3.50mm_Vertical
-Molex 734 Male header (for PCBs); Straight solder pin 1 x 1 mm, 734-143 , 13 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  side entry
-0
-13
-13
-Connector_Wago
-Wago_734-144_1x14_P3.50mm_Vertical
-Molex 734 Male header (for PCBs); Straight solder pin 1 x 1 mm, 734-144 , 14 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  side entry
-0
-14
-14
-Connector_Wago
-Wago_734-146_1x16_P3.50mm_Vertical
-Molex 734 Male header (for PCBs); Straight solder pin 1 x 1 mm, 734-146 , 16 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  side entry
-0
-16
-16
-Connector_Wago
-Wago_734-148_1x18_P3.50mm_Vertical
-Molex 734 Male header (for PCBs); Straight solder pin 1 x 1 mm, 734-148 , 18 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  side entry
-0
-18
-18
-Connector_Wago
-Wago_734-150_1x20_P3.50mm_Vertical
-Molex 734 Male header (for PCBs); Straight solder pin 1 x 1 mm, 734-150 , 20 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  side entry
-0
-20
-20
-Connector_Wago
-Wago_734-154_1x24_P3.50mm_Vertical
-Molex 734 Male header (for PCBs); Straight solder pin 1 x 1 mm, 734-154 , 24 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  side entry
-0
-24
-24
-Connector_Wago
-Wago_734-162_1x02_P3.50mm_Horizontal
-Molex 734 Male header (for PCBs); Angled solder pin 1 x 1 mm, 734-162 , 2 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  top entry
-0
-2
-2
-Connector_Wago
-Wago_734-163_1x03_P3.50mm_Horizontal
-Molex 734 Male header (for PCBs); Angled solder pin 1 x 1 mm, 734-163 , 3 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  top entry
-0
-3
-3
-Connector_Wago
-Wago_734-164_1x04_P3.50mm_Horizontal
-Molex 734 Male header (for PCBs); Angled solder pin 1 x 1 mm, 734-164 , 4 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  top entry
-0
-4
-4
-Connector_Wago
-Wago_734-165_1x05_P3.50mm_Horizontal
-Molex 734 Male header (for PCBs); Angled solder pin 1 x 1 mm, 734-165 , 5 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  top entry
-0
-5
-5
-Connector_Wago
-Wago_734-166_1x06_P3.50mm_Horizontal
-Molex 734 Male header (for PCBs); Angled solder pin 1 x 1 mm, 734-166 , 6 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  top entry
-0
-6
-6
-Connector_Wago
-Wago_734-167_1x07_P3.50mm_Horizontal
-Molex 734 Male header (for PCBs); Angled solder pin 1 x 1 mm, 734-167 , 7 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  top entry
-0
-7
-7
-Connector_Wago
-Wago_734-168_1x08_P3.50mm_Horizontal
-Molex 734 Male header (for PCBs); Angled solder pin 1 x 1 mm, 734-168 , 8 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  top entry
-0
-8
-8
-Connector_Wago
-Wago_734-169_1x09_P3.50mm_Horizontal
-Molex 734 Male header (for PCBs); Angled solder pin 1 x 1 mm, 734-169 , 9 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  top entry
-0
-9
-9
-Connector_Wago
-Wago_734-170_1x10_P3.50mm_Horizontal
-Molex 734 Male header (for PCBs); Angled solder pin 1 x 1 mm, 734-170 , 10 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  top entry
-0
-10
-10
-Connector_Wago
-Wago_734-171_1x11_P3.50mm_Horizontal
-Molex 734 Male header (for PCBs); Angled solder pin 1 x 1 mm, 734-171 , 11 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  top entry
-0
-11
-11
-Connector_Wago
-Wago_734-172_1x12_P3.50mm_Horizontal
-Molex 734 Male header (for PCBs); Angled solder pin 1 x 1 mm, 734-172 , 12 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  top entry
-0
-12
-12
-Connector_Wago
-Wago_734-173_1x13_P3.50mm_Horizontal
-Molex 734 Male header (for PCBs); Angled solder pin 1 x 1 mm, 734-173 , 13 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  top entry
-0
-13
-13
-Connector_Wago
-Wago_734-174_1x14_P3.50mm_Horizontal
-Molex 734 Male header (for PCBs); Angled solder pin 1 x 1 mm, 734-174 , 14 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  top entry
-0
-14
-14
-Connector_Wago
-Wago_734-176_1x16_P3.50mm_Horizontal
-Molex 734 Male header (for PCBs); Angled solder pin 1 x 1 mm, 734-176 , 16 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  top entry
-0
-16
-16
-Connector_Wago
-Wago_734-178_1x18_P3.50mm_Horizontal
-Molex 734 Male header (for PCBs); Angled solder pin 1 x 1 mm, 734-178 , 18 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  top entry
-0
-18
-18
-Connector_Wago
-Wago_734-180_1x20_P3.50mm_Horizontal
-Molex 734 Male header (for PCBs); Angled solder pin 1 x 1 mm, 734-180 , 20 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  top entry
-0
-20
-20
-Connector_Wago
-Wago_734-184_1x24_P3.50mm_Horizontal
-Molex 734 Male header (for PCBs); Angled solder pin 1 x 1 mm, 734-184 , 24 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
-connector Wago  top entry
-0
-24
-24
 Connector_Wire
 SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm
 Soldered wire connection, for a single 0.1 mm² wire, basic insulation, conductor diameter 0.4mm, outer diameter 1mm, size source Multi-Contact FLEXI-E 0.1 (https://ec.staubli.com/AcroFiles/Catalogues/TM_Cab-Main-11014119_(en)_hi.pdf), bend radius 3 times outer diameter, generated with kicad-footprint-generator
@@ -14097,3 +13859,402 @@ Logo WEEE
 0
 0
 0
+TestPoint
+TestPoint_2Pads_Pitch2.54mm_Drill0.8mm
+Test point with 2 pins, pitch 2.54mm, drill diameter 0.8mm
+CONN DEV
+0
+2
+2
+TestPoint
+TestPoint_2Pads_Pitch5.08mm_Drill1.3mm
+Test point with 2 pads, pitch 5.08mm, hole diameter 1.3mm, wire diameter 1.0mm
+CONN DEV
+0
+2
+2
+TestPoint
+TestPoint_Bridge_Pitch2.0mm_Drill0.7mm
+wire loop as test point, pitch 2.0mm, hole diameter 0.7mm, wire diameter 0.5mm
+test point wire loop
+0
+2
+1
+TestPoint
+TestPoint_Bridge_Pitch2.54mm_Drill0.7mm
+wire loop as test point, pitch 2.0mm, hole diameter 0.7mm, wire diameter 0.5mm
+test point wire loop
+0
+2
+1
+TestPoint
+TestPoint_Bridge_Pitch2.54mm_Drill1.0mm
+wire loop as test point, pitch 2.54mm, hole diameter 1.0mm, wire diameter 0.8mm
+test point wire loop
+0
+2
+1
+TestPoint
+TestPoint_Bridge_Pitch2.54mm_Drill1.3mm
+wire loop as test point, pitch 2.54mm, hole diameter 1.3mm, wire diameter 1.0mm
+test point wire loop
+0
+2
+1
+TestPoint
+TestPoint_Bridge_Pitch3.81mm_Drill1.3mm
+wire loop as test point, pitch 3.81mm, hole diameter 1.3mm, wire diameter 1.0mm
+test point wire loop
+0
+2
+1
+TestPoint
+TestPoint_Bridge_Pitch5.08mm_Drill0.7mm
+wire loop as test point, pitch 5.08mm, hole diameter 0.7mm, wire diameter 1.0mm
+test point wire loop
+0
+2
+1
+TestPoint
+TestPoint_Bridge_Pitch5.08mm_Drill1.3mm
+wire loop as test point, pitch 5.08mm, hole diameter 1.3mm, wire diameter 1.0mm
+test point wire loop
+0
+2
+1
+TestPoint
+TestPoint_Bridge_Pitch6.35mm_Drill1.3mm
+wire loop as test point, pitch 6.35mm, hole diameter 1.3mm, wire diameter 1.0mm
+test point wire loop
+0
+2
+1
+TestPoint
+TestPoint_Bridge_Pitch7.62mm_Drill1.3mm
+wire loop as test point, pitch 7.62mm, hole diameter 1.3mm, wire diameter 1.0mm
+test point wire loop
+0
+2
+1
+TestPoint
+TestPoint_Keystone_5000-5004_Miniature
+Keystone Miniature THM Test Point 5000-5004, http://www.keyelco.com/product-pdf.cfm?p=1309
+Through Hole Mount Test Points
+0
+1
+1
+TestPoint
+TestPoint_Keystone_5005-5009_Compact
+Keystone Miniature THM Test Point 5005-5009, http://www.keyelco.com/product-pdf.cfm?p=1314
+Through Hole Mount Test Points
+0
+1
+1
+TestPoint
+TestPoint_Keystone_5010-5014_Multipurpose
+Keystone Miniature THM Test Point 5010-5014, http://www.keyelco.com/product-pdf.cfm?p=1319
+Through Hole Mount Test Points
+0
+1
+1
+TestPoint
+TestPoint_Keystone_5015_Micro-Minature
+SMT Test Point- Micro Miniature 5015, http://www.keyelco.com/product-pdf.cfm?p=1353
+Test Point
+0
+1
+1
+TestPoint
+TestPoint_Keystone_5019_Minature
+SMT Test Point- Micro Miniature 5019, http://www.keyelco.com/product-pdf.cfm?p=1357
+Test Point
+0
+1
+1
+TestPoint
+TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded
+wire loop with bead as test point, loop diameter 1.8mm, hole diameter 1.0mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D2.50mm_Drill1.0mm
+wire loop as test point, loop diameter 2.5mm, hole diameter 1.0mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile
+low profile wire loop as test point, loop diameter 2.5mm, hole diameter 1.0mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D2.50mm_Drill1.85mm
+wire loop as test point, loop diameter 2.5mm, hole diameter 1.85mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded
+wire loop with bead as test point, loop diameter2.548mm, hole diameter 1.5mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D2.60mm_Drill0.9mm_Beaded
+wire loop with bead as test point, loop diameter2.6mm, hole diameter 0.9mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded
+wire loop with bead as test point, loop diameter2.6mm, hole diameter 1.4mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded
+wire loop with bead as test point, loop diameter2.6mm, hole diameter 1.6mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded
+wire loop with bead as test point, loop diameter2.6mm, hole diameter 0.9mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded
+wire loop with bead as test point, loop diameter 3.5mm, hole diameter 1.4mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D3.80mm_Drill2.0mm
+wire loop as test point, loop diameter 3.8mm, hole diameter 2.0mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D3.80mm_Drill2.5mm
+wire loop as test point, loop diameter 3.8mm, hole diameter 2.5mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Loop_D3.80mm_Drill2.8mm
+wire loop as test point, loop diameter 3.8mm, hole diameter 2.8mm
+test point wire loop bead
+0
+1
+1
+TestPoint
+TestPoint_Pad_1.0x1.0mm
+SMD rectangular pad as test Point, square 1.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_Pad_1.5x1.5mm
+SMD rectangular pad as test Point, square 1.5mm side length
+test point SMD pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_Pad_2.0x2.0mm
+SMD rectangular pad as test Point, square 2.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_Pad_2.5x2.5mm
+SMD rectangular pad as test Point, square 2.5mm side length
+test point SMD pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_Pad_3.0x3.0mm
+SMD rectangular pad as test Point, square 3.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_Pad_4.0x4.0mm
+SMD rectangular pad as test Point, square 4.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_Pad_D1.0mm
+SMD pad as test Point, diameter 1.0mm
+test point SMD pad
+0
+1
+1
+TestPoint
+TestPoint_Pad_D1.5mm
+SMD pad as test Point, diameter 1.5mm
+test point SMD pad
+0
+1
+1
+TestPoint
+TestPoint_Pad_D2.0mm
+SMD pad as test Point, diameter 2.0mm
+test point SMD pad
+0
+1
+1
+TestPoint
+TestPoint_Pad_D2.5mm
+SMD pad as test Point, diameter 2.5mm
+test point SMD pad
+0
+1
+1
+TestPoint
+TestPoint_Pad_D3.0mm
+SMD pad as test Point, diameter 3.0mm
+test point SMD pad
+0
+1
+1
+TestPoint
+TestPoint_Pad_D4.0mm
+SMD pad as test Point, diameter 4.0mm
+test point SMD pad
+0
+1
+1
+TestPoint
+TestPoint_Plated_Hole_D2.0mm
+Plated Hole as test Point, diameter 2.0mm
+test point plated hole
+0
+1
+1
+TestPoint
+TestPoint_Plated_Hole_D3.0mm
+Plated Hole as test Point, diameter 3.0mm
+test point plated hole
+0
+1
+1
+TestPoint
+TestPoint_Plated_Hole_D4.0mm
+Plated Hole as test Point, diameter 4.0mm
+test point plated hole
+0
+1
+1
+TestPoint
+TestPoint_Plated_Hole_D5.0mm
+Plated Hole as test Point, diameter 5.0mm
+test point plated hole
+0
+1
+1
+TestPoint
+TestPoint_THTPad_1.0x1.0mm_Drill0.5mm
+THT rectangular pad as test Point, square 1.0mm side length, hole diameter 0.5mm
+test point THT pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_THTPad_1.5x1.5mm_Drill0.7mm
+THT rectangular pad as test Point, square 1.5mm side length, hole diameter 0.7mm
+test point THT pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_THTPad_2.0x2.0mm_Drill1.0mm
+THT rectangular pad as test Point, square 2.0mm_Drill1.0mm  side length, hole diameter 1.0mm
+test point THT pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_THTPad_2.5x2.5mm_Drill1.2mm
+THT rectangular pad as test Point, square 2.5mm side length, hole diameter 1.2mm
+test point THT pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_THTPad_3.0x3.0mm_Drill1.5mm
+THT rectangular pad as test Point, square 3.0mm side length, hole diameter 1.5mm
+test point THT pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_THTPad_4.0x4.0mm_Drill2.0mm
+THT rectangular pad as test Point, square 4.0mm  side length, hole diameter 2.0mm
+test point THT pad rectangle square
+0
+1
+1
+TestPoint
+TestPoint_THTPad_D1.0mm_Drill0.5mm
+THT pad as test Point, diameter 1.0mm, hole diameter 0.5mm
+test point THT pad
+0
+1
+1
+TestPoint
+TestPoint_THTPad_D1.5mm_Drill0.7mm
+THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm
+test point THT pad
+0
+1
+1
+TestPoint
+TestPoint_THTPad_D2.0mm_Drill1.0mm
+THT pad as test Point, diameter 2.0mm, hole diameter 1.0mm
+test point THT pad
+0
+1
+1
+TestPoint
+TestPoint_THTPad_D2.5mm_Drill1.2mm
+THT pad as test Point, diameter 2.5mm, hole diameter 1.2mm 
+test point THT pad
+0
+1
+1
+TestPoint
+TestPoint_THTPad_D3.0mm_Drill1.5mm
+THT pad as test Point, diameter 3.0mm, hole diameter 1.5mm
+test point THT pad
+0
+1
+1
+TestPoint
+TestPoint_THTPad_D4.0mm_Drill2.0mm
+THT pad as test Point, diameter 4.0mm, hole diameter 2.0mm
+test point THT pad
+0
+1
+1
