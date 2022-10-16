@@ -182,4 +182,9 @@
   (pad "46" smd rect (at 5.1 -1.78) (size 0.3302 0.7112) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 08637d31-b4fb-4395-b0b7-187a5635a8d7))
   (pad "47" smd rect (at -5.1 1.78) (size 0.3302 0.7112) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c98370eb-fa5a-402d-93ec-11b45fe4fb8c))
   (pad "48" smd rect (at 5.1 1.78) (size 0.3302 0.7112) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b922cf96-1a9c-4f66-a5e5-0a4f85dfa862))
+  (model "/home/martin/Documents/kicad/H-spi-adapters/S3-AXE544127A-to-33/component/axe644124.stp"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
