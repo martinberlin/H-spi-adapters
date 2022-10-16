@@ -1,4 +1,4 @@
 (sym_lib_table
   (lib (name "Tinypico")(type "KiCad")(uri "${KIPRJMOD}/parts/Symbols/TinyS3.kicad_sym")(options "")(descr ""))
-  (lib (name "FPC")(type "Legacy")(uri "${KIPRJMOD}/parts/Symbols/FH12-24S-0.5SH_55_.lib")(options "")(descr ""))
+  (lib (name "footprint")(type "KiCad")(uri "${KIPRJMOD}/parts/Symbols/FH12-24S-0.5SH_55_.kicad_sym")(options "")(descr ""))
 )
