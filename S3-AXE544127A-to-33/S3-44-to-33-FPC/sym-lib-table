@@ -1,4 +1,4 @@
 (sym_lib_table
   (lib (name "epd_breakout")(type "Legacy")(uri "/home/martin/Documents/kicad/H-spi-adapters/S3-AXE544127A-to-33/component/epd_breakout.lib")(options "")(descr ""))
-  (lib (name "panasonic_axeH")(type "Legacy")(uri "/home/martin/Documents/kicad/H-spi-adapters/S3-AXE544127A-to-33/component/axe644124.lib")(options "")(descr ""))
+  (lib (name "panasonic_axeH")(type "KiCad")(uri "/home/martin/Documents/kicad/H-spi-adapters/S3-AXE544127A-to-33/component/panasonic_axeH.kicad_sym")(options "")(descr ""))
 )
