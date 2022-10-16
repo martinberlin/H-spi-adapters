@@ -2093,7 +2093,7 @@
   (symbol (lib_id "power:GND") (at 186.69 154.94 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 25903690-1c2d-4c77-89b8-08fec915e992)
-    (property "Reference" "#PWR?" (id 0) (at 186.69 161.29 0)
+    (property "Reference" "#PWR0109" (id 0) (at 186.69 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 186.69 159.3834 0))
@@ -2131,7 +2131,7 @@
     (property "Value" "AXE644224A" (id 1) (at 184.8485 99.8072 0)
       (effects (font (size 1.524 1.524)) (justify left))
     )
-    (property "Footprint" "CONN_AXE644224A_PAN" (id 2) (at 181.61 100.584 0)
+    (property "Footprint" "Footprint:AXE644224A" (id 2) (at 181.61 100.584 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 171.45 43.18 0)
@@ -2294,7 +2294,7 @@
   (symbol (lib_id "power:GND") (at 173.99 154.94 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 94a9ff8f-d01a-412f-97a1-dc35d4252ce6)
-    (property "Reference" "#PWR?" (id 0) (at 173.99 161.29 0)
+    (property "Reference" "#PWR0110" (id 0) (at 173.99 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 173.99 159.3834 0))
@@ -2445,7 +2445,7 @@
   (symbol (lib_id "power:GND") (at 186.69 40.64 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ef1d70fc-6c1f-4e8c-a06e-8dc5a0005c90)
-    (property "Reference" "#PWR?" (id 0) (at 186.69 46.99 0)
+    (property "Reference" "#PWR0108" (id 0) (at 186.69 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 186.69 45.0834 0))
@@ -2490,20 +2490,20 @@
     (path "/986a25a3-743c-46ad-b000-57e58e6be708"
       (reference "#PWR0107") (unit 1) (value "GND") (footprint "")
     )
+    (path "/ef1d70fc-6c1f-4e8c-a06e-8dc5a0005c90"
+      (reference "#PWR0108") (unit 1) (value "GND") (footprint "")
+    )
     (path "/25903690-1c2d-4c77-89b8-08fec915e992"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0109") (unit 1) (value "GND") (footprint "")
     )
     (path "/94a9ff8f-d01a-412f-97a1-dc35d4252ce6"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/ef1d70fc-6c1f-4e8c-a06e-8dc5a0005c90"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0110") (unit 1) (value "GND") (footprint "")
     )
     (path "/da9b6330-2f67-4325-9e32-0cb5fae2db28"
       (reference "J1") (unit 1) (value "XF2M-3315-1A") (footprint "Footprint:CONN_ED097OC4")
     )
     (path "/4f7c2bfc-052a-4904-b458-a106c533be00"
-      (reference "J2") (unit 1) (value "AXE644224A") (footprint "CONN_AXE644224A_PAN")
+      (reference "J2") (unit 1) (value "AXE644224A") (footprint "Footprint:AXE644224A")
     )
     (path "/7e389a74-32d4-4bc5-a8ab-dde4d628fe71"
       (reference "T+15") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
