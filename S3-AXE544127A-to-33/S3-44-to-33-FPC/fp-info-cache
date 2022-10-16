@@ -1,4 +1,4 @@
-3379185394573374
+4628351459370653
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -132,6 +132,1098 @@ Gauge Massstab 100mm SilkScreenTop Type 2
 0
 0
 0
+Capacitor_SMD
+CP_Elec_3x5.3
+SMT capacitor, aluminium electrolytic, 3x5.3, Cornell Dubilier Electronics 
+Capacitor Electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_3x5.4
+SMD capacitor, aluminum electrolytic, Nichicon, 3.0x5.4mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_4x3
+SMD capacitor, aluminum electrolytic, Nichicon, 4.0x3mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_4x3.9
+SMD capacitor, aluminum electrolytic, Nichicon, 4.0x3.9mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_4x4.5
+SMD capacitor, aluminum electrolytic, Nichicon, 4.0x4.5mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_4x5.3
+SMD capacitor, aluminum electrolytic, Vishay, 4.0x5.3mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_4x5.4
+SMD capacitor, aluminum electrolytic, Panasonic A5 / Nichicon, 4.0x5.4mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_4x5.7
+SMD capacitor, aluminum electrolytic, United Chemi-Con, 4.0x5.7mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_4x5.8
+SMD capacitor, aluminum electrolytic, Panasonic, 4.0x5.8mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_5x3
+SMD capacitor, aluminum electrolytic, Nichicon, 5.0x3.0mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_5x3.9
+SMD capacitor, aluminum electrolytic, Nichicon, 5.0x3.9mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_5x4.4
+SMD capacitor, aluminum electrolytic, Panasonic B45, 5.0x4.4mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_5x4.5
+SMD capacitor, aluminum electrolytic, Nichicon, 5.0x4.5mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_5x5.3
+SMD capacitor, aluminum electrolytic, Nichicon, 5.0x5.3mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_5x5.4
+SMD capacitor, aluminum electrolytic, Nichicon, 5.0x5.4mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_5x5.7
+SMD capacitor, aluminum electrolytic, United Chemi-Con, 5.0x5.7mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_5x5.8
+SMD capacitor, aluminum electrolytic, Panasonic, 5.0x5.8mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_5x5.9
+SMD capacitor, aluminum electrolytic, Panasonic B6, 5.0x5.9mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x3
+SMD capacitor, aluminum electrolytic, Nichicon, 6.3x3.0mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x3.9
+SMD capacitor, aluminum electrolytic, Nichicon, 6.3x3.9mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x4.5
+SMD capacitor, aluminum electrolytic, Nichicon, 6.3x4.5mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x4.9
+SMD capacitor, aluminum electrolytic, Panasonic C5, 6.3x4.9mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x5.2
+SMD capacitor, aluminum electrolytic, United Chemi-Con, 6.3x5.2mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x5.3
+SMD capacitor, aluminum electrolytic, Cornell Dubilier, 6.3x5.3mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x5.4
+SMD capacitor, aluminum electrolytic, Panasonic C55, 6.3x5.4mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x5.4_Nichicon
+SMD capacitor, aluminum electrolytic, Nichicon, 6.3x5.4mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x5.7
+SMD capacitor, aluminum electrolytic, United Chemi-Con, 6.3x5.7mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x5.8
+SMD capacitor, aluminum electrolytic, Nichicon, 6.3x5.8mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x5.9
+SMD capacitor, aluminum electrolytic, Panasonic C6, 6.3x5.9mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x7.7
+SMD capacitor, aluminum electrolytic, Nichicon, 6.3x7.7mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x9.9
+SMD capacitor, aluminum electrolytic, Panasonic C10, 6.3x9.9mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_8x5.4
+SMD capacitor, aluminum electrolytic, Nichicon, 8.0x5.4mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_8x6.2
+SMD capacitor, aluminum electrolytic, Nichicon, 8.0x6.2mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_8x6.5
+SMD capacitor, aluminum electrolytic, Rubycon, 8.0x6.5mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_8x6.7
+SMD capacitor, aluminum electrolytic, United Chemi-Con, 8.0x6.7mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_8x6.9
+SMD capacitor, aluminum electrolytic, Panasonic E7, 8.0x6.9mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_8x10
+SMD capacitor, aluminum electrolytic, Nichicon, 8.0x10mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_8x10.5
+SMD capacitor, aluminum electrolytic, Vishay 0810, 8.0x10.5mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_8x11.9
+SMD capacitor, aluminum electrolytic, Panasonic E12, 8.0x11.9mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_10x7.7
+SMD capacitor, aluminum electrolytic, Nichicon, 10.0x7.7mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_10x7.9
+SMD capacitor, aluminum electrolytic, Panasonic F8, 10.0x7.9mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_10x10
+SMD capacitor, aluminum electrolytic, Nichicon, 10.0x10.0mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_10x10.5
+SMD capacitor, aluminum electrolytic, Vishay 1010, 10.0x10.5mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_10x12.5
+SMD capacitor, aluminum electrolytic, Vishay 1012, 10.0x12.5mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_10x12.6
+SMD capacitor, aluminum electrolytic, Panasonic F12, 10.0x12.6mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_10x14.3
+SMD capacitor, aluminum electrolytic, Vishay 1014, 10.0x14.3mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_16x17.5
+SMD capacitor, aluminum electrolytic, Vishay 1616, 16.0x17.5mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_16x22
+SMD capacitor, aluminum electrolytic, Vishay 1621, 16.0x22.0mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_18x17.5
+SMD capacitor, aluminum electrolytic, Vishay 1816, 18.0x17.5mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_18x22
+SMD capacitor, aluminum electrolytic, Vishay 1821, 18.0x22.0mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+C_0201_0603Metric
+Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+capacitor
+0
+4
+2
+Capacitor_SMD
+C_0201_0603Metric_Pad0.64x0.40mm_HandSolder
+Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+4
+2
+Capacitor_SMD
+C_0402_1005Metric
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Capacitor_SMD
+C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+Capacitor_SMD
+C_0504_1310Metric
+Capacitor SMD 0504 (1310 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Capacitor_SMD
+C_0504_1310Metric_Pad0.83x1.28mm_HandSolder
+Capacitor SMD 0504 (1310 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+Capacitor_SMD
+C_0603_1608Metric
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Capacitor_SMD
+C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+Capacitor_SMD
+C_0805_2012Metric
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Capacitor_SMD
+C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+Capacitor_SMD
+C_01005_0402Metric
+Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
+capacitor
+0
+4
+2
+Capacitor_SMD
+C_01005_0402Metric_Pad0.57x0.30mm_HandSolder
+Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+4
+2
+Capacitor_SMD
+C_1206_3216Metric
+Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Capacitor_SMD
+C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
+Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+Capacitor_SMD
+C_1210_3225Metric
+Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Capacitor_SMD
+C_1210_3225Metric_Pad1.33x2.70mm_HandSolder
+Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+Capacitor_SMD
+C_1812_4532Metric
+Capacitor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Capacitor_SMD
+C_1812_4532Metric_Pad1.57x3.40mm_HandSolder
+Capacitor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+Capacitor_SMD
+C_1825_4564Metric
+Capacitor SMD 1825 (4564 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Capacitor_SMD
+C_1825_4564Metric_Pad1.57x6.80mm_HandSolder
+Capacitor SMD 1825 (4564 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+Capacitor_SMD
+C_2220_5650Metric
+Capacitor SMD 2220 (5650 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Capacitor_SMD
+C_2220_5650Metric_Pad1.97x5.40mm_HandSolder
+Capacitor SMD 2220 (5650 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+Capacitor_SMD
+C_2225_5664Metric
+Capacitor SMD 2225 (5664 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Capacitor_SMD
+C_2225_5664Metric_Pad1.80x6.60mm_HandSolder
+Capacitor SMD 2225 (5664 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+Capacitor_SMD
+C_3640_9110Metric
+Capacitor SMD 3640 (9110 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Capacitor_SMD
+C_3640_9110Metric_Pad2.10x10.45mm_HandSolder
+Capacitor SMD 3640 (9110 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+Capacitor_SMD
+C_Elec_3x5.4
+SMD capacitor, aluminum electrolytic nonpolar, 3.0x5.4mm
+capacitor electrolyic nonpolar
+0
+2
+2
+Capacitor_SMD
+C_Elec_4x5.4
+SMD capacitor, aluminum electrolytic nonpolar, 4.0x5.4mm
+capacitor electrolyic nonpolar
+0
+2
+2
+Capacitor_SMD
+C_Elec_4x5.8
+SMD capacitor, aluminum electrolytic nonpolar, 4.0x5.8mm
+capacitor electrolyic nonpolar
+0
+2
+2
+Capacitor_SMD
+C_Elec_5x5.4
+SMD capacitor, aluminum electrolytic nonpolar, 5.0x5.4mm
+capacitor electrolyic nonpolar
+0
+2
+2
+Capacitor_SMD
+C_Elec_5x5.8
+SMD capacitor, aluminum electrolytic nonpolar, 5.0x5.8mm
+capacitor electrolyic nonpolar
+0
+2
+2
+Capacitor_SMD
+C_Elec_6.3x5.4
+SMD capacitor, aluminum electrolytic nonpolar, 6.3x5.4mm
+capacitor electrolyic nonpolar
+0
+2
+2
+Capacitor_SMD
+C_Elec_6.3x5.8
+SMD capacitor, aluminum electrolytic nonpolar, 6.3x5.8mm
+capacitor electrolyic nonpolar
+0
+2
+2
+Capacitor_SMD
+C_Elec_6.3x7.7
+SMD capacitor, aluminum electrolytic nonpolar, 6.3x7.7mm
+capacitor electrolyic nonpolar
+0
+2
+2
+Capacitor_SMD
+C_Elec_8x5.4
+SMD capacitor, aluminum electrolytic nonpolar, 8.0x5.4mm
+capacitor electrolyic nonpolar
+0
+2
+2
+Capacitor_SMD
+C_Elec_8x6.2
+SMD capacitor, aluminum electrolytic nonpolar, 8.0x6.2mm
+capacitor electrolyic nonpolar
+0
+2
+2
+Capacitor_SMD
+C_Elec_8x10.2
+SMD capacitor, aluminum electrolytic nonpolar, 8.0x10.2mm
+capacitor electrolyic nonpolar
+0
+2
+2
+Capacitor_SMD
+C_Elec_10x10.2
+SMD capacitor, aluminum electrolytic nonpolar, 10.0x10.2mm
+capacitor electrolyic nonpolar
+0
+2
+2
+Capacitor_SMD
+C_Trimmer_Murata_TZB4-A
+trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
+ Murata TZB4 TZB4-A
+0
+2
+2
+Capacitor_SMD
+C_Trimmer_Murata_TZB4-B
+trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
+ Murata TZB4 TZB4-A
+0
+2
+2
+Capacitor_SMD
+C_Trimmer_Murata_TZC3
+trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
+ Murata TZC3
+0
+2
+2
+Capacitor_SMD
+C_Trimmer_Murata_TZR1
+trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
+ Murata TZR1
+0
+2
+2
+Capacitor_SMD
+C_Trimmer_Murata_TZW4
+trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
+ Murata TZW4
+0
+2
+2
+Capacitor_SMD
+C_Trimmer_Murata_TZY2
+trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
+ Murata TZY2
+0
+2
+2
+Capacitor_SMD
+C_Trimmer_Sprague-Goodman_SGC3
+trimmer capacitor SMD horizontal, http://media.wix.com/ugd/d86717_38d9821e12823a7aa9cef38c6c2a73cc.pdf
+ Sprague Goodman SGC3
+0
+2
+2
+Capacitor_SMD
+C_Trimmer_Voltronics_JN
+trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
+ Voltronics JN
+0
+2
+2
+Capacitor_SMD
+C_Trimmer_Voltronics_JQ
+trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
+ Voltronics JQ
+0
+2
+2
+Capacitor_SMD
+C_Trimmer_Voltronics_JR
+trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
+ Voltronics JR
+0
+2
+2
+Capacitor_SMD
+C_Trimmer_Voltronics_JV
+trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
+ Voltronics JV
+0
+2
+2
+Capacitor_SMD
+C_Trimmer_Voltronics_JZ
+trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
+ Voltronics JR
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-1608-08_AVX-J
+Tantalum Capacitor SMD AVX-J (1608-08 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/48064/_t58_vmn_pt0471_1601.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-1608-08_AVX-J_Pad1.25x1.05mm_HandSolder
+Tantalum Capacitor SMD AVX-J (1608-08 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/48064/_t58_vmn_pt0471_1601.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-1608-10_AVX-L
+Tantalum Capacitor SMD AVX-L (1608-10 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/48064/_t58_vmn_pt0471_1601.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-1608-10_AVX-L_Pad1.25x1.05mm_HandSolder
+Tantalum Capacitor SMD AVX-L (1608-10 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/48064/_t58_vmn_pt0471_1601.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-2012-12_Kemet-R
+Tantalum Capacitor SMD Kemet-R (2012-12 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/40182/tmch.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-2012-12_Kemet-R_Pad1.30x1.05mm_HandSolder
+Tantalum Capacitor SMD Kemet-R (2012-12 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/40182/tmch.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-2012-15_AVX-P
+Tantalum Capacitor SMD AVX-P (2012-15 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/40182/tmch.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-2012-15_AVX-P_Pad1.30x1.05mm_HandSolder
+Tantalum Capacitor SMD AVX-P (2012-15 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/40182/tmch.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-3216-10_Kemet-I
+Tantalum Capacitor SMD Kemet-I (3216-10 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder
+Tantalum Capacitor SMD Kemet-I (3216-10 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-3216-12_Kemet-S
+Tantalum Capacitor SMD Kemet-S (3216-12 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-3216-12_Kemet-S_Pad1.58x1.35mm_HandSolder
+Tantalum Capacitor SMD Kemet-S (3216-12 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-3216-18_Kemet-A
+Tantalum Capacitor SMD Kemet-A (3216-18 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder
+Tantalum Capacitor SMD Kemet-A (3216-18 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-3528-12_Kemet-T
+Tantalum Capacitor SMD Kemet-T (3528-12 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-3528-12_Kemet-T_Pad1.50x2.35mm_HandSolder
+Tantalum Capacitor SMD Kemet-T (3528-12 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-3528-15_AVX-H
+Tantalum Capacitor SMD AVX-H (3528-15 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-3528-15_AVX-H_Pad1.50x2.35mm_HandSolder
+Tantalum Capacitor SMD AVX-H (3528-15 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-3528-21_Kemet-B
+Tantalum Capacitor SMD Kemet-B (3528-21 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder
+Tantalum Capacitor SMD Kemet-B (3528-21 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-6032-15_Kemet-U
+Tantalum Capacitor SMD Kemet-U (6032-15 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-6032-15_Kemet-U_Pad2.25x2.35mm_HandSolder
+Tantalum Capacitor SMD Kemet-U (6032-15 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-6032-20_AVX-F
+Tantalum Capacitor SMD AVX-F (6032-20 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-6032-20_AVX-F_Pad2.25x2.35mm_HandSolder
+Tantalum Capacitor SMD AVX-F (6032-20 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-6032-28_Kemet-C
+Tantalum Capacitor SMD Kemet-C (6032-28 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-6032-28_Kemet-C_Pad2.25x2.35mm_HandSolder
+Tantalum Capacitor SMD Kemet-C (6032-28 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7132-20_AVX-U
+Tantalum Capacitor SMD AVX-U (7132-20 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7132-20_AVX-U_Pad2.72x3.50mm_HandSolder
+Tantalum Capacitor SMD AVX-U (7132-20 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7132-28_AVX-C
+Tantalum Capacitor SMD AVX-C (7132-28 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7132-28_AVX-C_Pad2.72x3.50mm_HandSolder
+Tantalum Capacitor SMD AVX-C (7132-28 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-15_AVX-R
+Tantalum Capacitor SMD AVX-R (7260-15 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-15_AVX-R_Pad2.68x6.30mm_HandSolder
+Tantalum Capacitor SMD AVX-R (7260-15 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-20_AVX-M
+Tantalum Capacitor SMD AVX-M (7260-20 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-20_AVX-M_Pad2.68x6.30mm_HandSolder
+Tantalum Capacitor SMD AVX-M (7260-20 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-28_AVX-M
+Tantalum Capacitor SMD AVX-M (7260-28 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-28_AVX-M_Pad2.68x6.30mm_HandSolder
+Tantalum Capacitor SMD AVX-M (7260-28 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-38_AVX-R
+Tantalum Capacitor SMD AVX-R (7260-38 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7260-38_AVX-R_Pad2.68x6.30mm_HandSolder
+Tantalum Capacitor SMD AVX-R (7260-38 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7343-15_Kemet-W
+Tantalum Capacitor SMD Kemet-W (7343-15 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7343-15_Kemet-W_Pad2.25x2.55mm_HandSolder
+Tantalum Capacitor SMD Kemet-W (7343-15 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7343-20_Kemet-V
+Tantalum Capacitor SMD Kemet-V (7343-20 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7343-20_Kemet-V_Pad2.25x2.55mm_HandSolder
+Tantalum Capacitor SMD Kemet-V (7343-20 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7343-30_AVX-N
+Tantalum Capacitor SMD AVX-N (7343-30 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7343-30_AVX-N_Pad2.25x2.55mm_HandSolder
+Tantalum Capacitor SMD AVX-N (7343-30 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7343-31_Kemet-D
+Tantalum Capacitor SMD Kemet-D (7343-31 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7343-31_Kemet-D_Pad2.25x2.55mm_HandSolder
+Tantalum Capacitor SMD Kemet-D (7343-31 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7343-40_Kemet-Y
+Tantalum Capacitor SMD Kemet-Y (7343-40 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7343-40_Kemet-Y_Pad2.25x2.55mm_HandSolder
+Tantalum Capacitor SMD Kemet-Y (7343-40 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7343-43_Kemet-X
+Tantalum Capacitor SMD Kemet-X (7343-43 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7343-43_Kemet-X_Pad2.25x2.55mm_HandSolder
+Tantalum Capacitor SMD Kemet-X (7343-43 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7360-38_Kemet-E
+Tantalum Capacitor SMD Kemet-E (7360-38 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7360-38_Kemet-E_Pad2.25x4.25mm_HandSolder
+Tantalum Capacitor SMD Kemet-E (7360-38 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7361-38_AVX-V
+Tantalum Capacitor SMD AVX-V (7361-38 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/NOS.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7361-38_AVX-V_Pad2.18x3.30mm_HandSolder
+Tantalum Capacitor SMD AVX-V (7361-38 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/NOS.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7361-438_AVX-U
+Tantalum Capacitor SMD AVX-U (7361-438 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/NOS.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitor_Tantalum_SMD
+CP_EIA-7361-438_AVX-U_Pad2.18x3.30mm_HandSolder
+Tantalum Capacitor SMD AVX-U (7361-438 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/NOS.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
 Connector
 Banana_Jack_1Pin
 Single banana socket, footprint - 6mm drill
@@ -11535,8 +12627,519 @@ connector Wuerth WR-WTB vertical
 0
 10
 10
+Diode_SMD
+D_0201_0603Metric
+Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+diode
+0
+4
+2
+Diode_SMD
+D_0201_0603Metric_Pad0.64x0.40mm_HandSolder
+Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
+4
+2
+Diode_SMD
+D_0402_1005Metric
+Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+Diode_SMD
+D_0402_1005Metric_Pad0.77x0.64mm_HandSolder
+Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
+Diode_SMD
+D_0603_1608Metric
+Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+Diode_SMD
+D_0603_1608Metric_Pad1.05x0.95mm_HandSolder
+Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
+Diode_SMD
+D_0805_2012Metric
+Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+diode
+0
+2
+2
+Diode_SMD
+D_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
+Diode_SMD
+D_01005_0402Metric
+Diode SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
+diode
+0
+4
+2
+Diode_SMD
+D_01005_0402Metric_Pad0.57x0.30mm_HandSolder
+Diode SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
+4
+2
+Diode_SMD
+D_1206_3216Metric
+Diode SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+Diode_SMD
+D_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+Diode SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
+Diode_SMD
+D_1210_3225Metric
+Diode SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+Diode_SMD
+D_1210_3225Metric_Pad1.42x2.65mm_HandSolder
+Diode SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
+Diode_SMD
+D_1812_4532Metric
+Diode SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+Diode_SMD
+D_1812_4532Metric_Pad1.30x3.40mm_HandSolder
+Diode SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
+Diode_SMD
+D_2010_5025Metric
+Diode SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+Diode_SMD
+D_2010_5025Metric_Pad1.52x2.65mm_HandSolder
+Diode SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
+Diode_SMD
+D_2114_3652Metric
+Diode SMD 2114 (3652 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+Diode_SMD
+D_2114_3652Metric_Pad1.85x3.75mm_HandSolder
+Diode SMD 2114 (3652 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
+Diode_SMD
+D_2512_6332Metric
+Diode SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+Diode_SMD
+D_2512_6332Metric_Pad1.52x3.35mm_HandSolder
+Diode SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
+Diode_SMD
+D_3220_8050Metric
+Diode SMD 3220 (8050 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+Diode_SMD
+D_3220_8050Metric_Pad2.65x5.15mm_HandSolder
+Diode SMD 3220 (8050 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
+Diode_SMD
+D_MELF
+Diode, MELF,,
+Diode MELF 
+0
+2
+2
+Diode_SMD
+D_MELF-RM10_Universal_Handsoldering
+Diode, Universal, MELF, RM10, Handsoldering, SMD, Thruhole,
+Diode Universal MELF RM10 Handsoldering SMD Thruhole 
+0
+2
+2
+Diode_SMD
+D_MELF_Handsoldering
+Diode MELF Handsoldering
+Diode MELF Handsoldering
+0
+2
+2
+Diode_SMD
+D_MicroMELF
+Diode, MicroMELF, Reflow Soldering, http://www.vishay.com/docs/85597/bzm55.pdf
+MicroMELF Diode
+0
+2
+2
+Diode_SMD
+D_MicroMELF_Handsoldering
+Diode, MicroMELF, Hand Soldering, http://www.vishay.com/docs/85597/bzm55.pdf
+MicroMELF Diode
+0
+2
+2
+Diode_SMD
+D_MiniMELF
+Diode Mini-MELF (SOD-80)
+Diode Mini-MELF (SOD-80)
+0
+2
+2
+Diode_SMD
+D_MiniMELF_Handsoldering
+Diode Mini-MELF (SOD-80) Handsoldering
+Diode Mini-MELF (SOD-80) Handsoldering
+0
+2
+2
+Diode_SMD
+D_PowerDI-5
+PowerDI,Diode,Vishay,https://www.diodes.com/assets/Package-Files/PowerDI5.pdf
+PowerDI diode vishay
+0
+3
+2
+Diode_SMD
+D_PowerDI-123
+http://www.diodes.com/_files/datasheets/ds30497.pdf
+PowerDI diode vishay
+0
+2
+2
+Diode_SMD
+D_Powermite2_AK
+Microsemi Powermite 2 SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5341)
+PowerMite2
+0
+2
+2
+Diode_SMD
+D_Powermite2_KA
+Microsemi Powermite 2 SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5341)
+PowerMite2
+0
+2
+2
+Diode_SMD
+D_Powermite3
+Microsemi Powermite 3 SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5340)
+PowerMite3
+0
+3
+3
+Diode_SMD
+D_Powermite_AK
+Microsemi Powermite SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5339, https://www.onsemi.com/pub/Collateral/457-04.PDF)
+Powermite
+0
+2
+2
+Diode_SMD
+D_Powermite_KA
+Microsemi Powermite SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5339, https://www.onsemi.com/pub/Collateral/457-04.PDF)
+Powermite
+0
+2
+2
+Diode_SMD
+D_QFN_3.3x3.3mm_P0.65mm
+QFN, diode, 3.3x3.3x1mm (https://www.wolfspeed.com/media/downloads/846/C3D1P7060Q.pdf)
+diode qfn 3.3
+0
+3
+2
+Diode_SMD
+D_SC-80
+JEITA SC-80
+SC-80
+0
+2
+2
+Diode_SMD
+D_SC-80_HandSoldering
+JEITA SC-80
+SC-80
+0
+2
+2
+Diode_SMD
+D_SMA
+Diode SMA (DO-214AC)
+Diode SMA (DO-214AC)
+0
+2
+2
+Diode_SMD
+D_SMA-SMB_Universal_Handsoldering
+Diode, Universal, SMA (DO-214AC) or SMB (DO-214AA), Handsoldering,
+Diode Universal SMA (DO-214AC) SMB (DO-214AA) Handsoldering 
+0
+2
+2
+Diode_SMD
+D_SMA_Handsoldering
+Diode SMA (DO-214AC) Handsoldering
+Diode SMA (DO-214AC) Handsoldering
+0
+2
+2
+Diode_SMD
+D_SMB
+Diode SMB (DO-214AA)
+Diode SMB (DO-214AA)
+0
+2
+2
+Diode_SMD
+D_SMB-SMC_Universal_Handsoldering
+Diode, Universal, SMB(DO-214AA) or SMC (DO-214AB), Handsoldering,
+Diode Universal SMB(DO-214AA) SMC (DO-214AB) Handsoldering 
+0
+2
+2
+Diode_SMD
+D_SMB_Handsoldering
+Diode SMB (DO-214AA) Handsoldering
+Diode SMB (DO-214AA) Handsoldering
+0
+2
+2
+Diode_SMD
+D_SMB_Modified
+Diode SMB (DO-214AA) Modified (http://www.littelfuse.com/~/media/electronics/datasheets/sidactors/littelfuse_sidactor_battrax_positive_negative_modified_do_214_datasheet.pdf.pdf)
+Diode SMB (DO-214AA)
+0
+3
+3
+Diode_SMD
+D_SMC
+Diode SMC (DO-214AB)
+Diode SMC (DO-214AB)
+0
+2
+2
+Diode_SMD
+D_SMC-RM10_Universal_Handsoldering
+Diode, Universal, SMC (DO-214AB), RM10, Handsoldering, SMD, Thruhole
+Diode Universal SMC (DO-214AB) RM10 Handsoldering SMD Thruhole
+0
+2
+2
+Diode_SMD
+D_SMC_Handsoldering
+Diode SMC (DO-214AB) Handsoldering
+Diode SMC (DO-214AB) Handsoldering
+0
+2
+2
+Diode_SMD
+D_SMF
+Diode SMF (DO-219AB), http://www.vishay.com/docs/95572/smf_do-219ab.pdf
+Diode SMF (DO-214AB)
+0
+2
+2
+Diode_SMD
+D_SOD-110
+SOD-110
+SOD-110
+0
+2
+2
+Diode_SMD
+D_SOD-123
+SOD-123
+SOD-123
+0
+2
+2
+Diode_SMD
+D_SOD-123F
+D_SOD-123F
+D_SOD-123F
+0
+2
+2
+Diode_SMD
+D_SOD-128
+D_SOD-128 (CFP5 SlimSMAW), https://assets.nexperia.com/documents/outline-drawing/SOD128.pdf
+D_SOD-128
+0
+2
+2
+Diode_SMD
+D_SOD-323
+SOD-323
+SOD-323
+0
+2
+2
+Diode_SMD
+D_SOD-323F
+SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf
+SOD-323F
+0
+2
+2
+Diode_SMD
+D_SOD-323_HandSoldering
+SOD-323
+SOD-323
+0
+2
+2
+Diode_SMD
+D_SOD-523
+http://www.diodes.com/datasheets/ap02001.pdf p.144
+Diode SOD523
+0
+2
+2
+Diode_SMD
+D_SOD-923
+https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF#page=4
+Diode SOD923
+0
+2
+2
+Diode_SMD
+D_TUMD2
+ROHM - TUMD2
+TUMD2
+0
+2
+2
+Diode_SMD
+Diode_Bridge_Bourns_CD-DF4xxS
+8.1x10.5mm, 4A, single phase bridge rectifier, https://www.bourns.com/docs/Product-Datasheets/CD-DF4xxSL.pdf
+Surface Mount Bridge Rectifier Diode
+0
+4
+4
+Diode_SMD
+Diode_Bridge_Diotec_ABS
+SMD diode bridge ABS (Diotec), see https://diotec.com/tl_files/diotec/files/pdf/datasheets/abs2.pdf
+ABS MBLS
+0
+4
+4
+Diode_SMD
+Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm
+SMD package Diotec Diotec MicroDil, body 3.0x3.0x1.8mm (e.g. diode bridge), see https://diotec.com/tl_files/diotec/files/pdf/datasheets/mys40.pdf
+Diotec MicroDil diode bridge
+0
+4
+4
+Diode_SMD
+Diode_Bridge_Diotec_SO-DIL-Slim
+SMD diode bridge Diotec SO-DIL Slim, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40fs.pdf
+DFS SO-DIL Slim
+0
+4
+4
+Diode_SMD
+Diode_Bridge_OnSemi_SDIP-4L
+SMD diode bridge OnSemi SDIP-4L, see https://www.onsemi.com/pdf/datasheet/df10s1-d.pdf
+OnSemi Diode Bridge SDIP-4L
+0
+4
+4
+Diode_SMD
+Diode_Bridge_Vishay_DFS
+SMD diode bridge DFS, see http://www.vishay.com/docs/88854/padlayouts.pdf
+DFS
+0
+4
+4
+Diode_SMD
+Diode_Bridge_Vishay_DFSFlat
+SMD diode bridge Low Profile DFS "Flat", see http://www.vishay.com/docs/88874/dfl15005.pdf
+DFS
+0
+4
+4
+Diode_SMD
+Diode_Bridge_Vishay_MBLS
+SMD diode bridge MBLS, see http://www.vishay.com/docs/89959/mbl104s.pdf http://www.vishay.com/docs/88854/padlayouts.pdf
+DFS
+0
+4
+4
+Diode_SMD
+Littelfuse_PolyZen-LS
+http://m.littelfuse.com/~/media/electronics/datasheets/polyzen_devices/littelfuse_polyzen_standard_polyzen_catalog_datasheet.pdf.pdf
+Diode Polymer Protected Zener Diode Littelfuse LS
+0
+3
+3
+Diode_SMD
+Nexperia_CFP3_SOD-123W
+Nexperia CFP3 (SOD-123W), https://assets.nexperia.com/documents/outline-drawing/SOD123W.pdf
+CFP3 SOD-123W
+0
+2
+2
 Footprint
 AXE544127A
+
+
+0
+48
+48
+Footprint
+AXE644224A
 
 
 0
@@ -11549,6 +13152,1581 @@ FPC connector for ED097OC4
 0
 35
 35
+Inductor_SMD
+L_6.3x6.3_H3
+Choke, SMD, 6.3x6.3mm 3mm height
+Choke SMD
+0
+2
+2
+Inductor_SMD
+L_7.3x7.3_H3.5
+Choke, SMD, 7.3x7.3mm 3.5mm height
+Choke SMD
+0
+2
+2
+Inductor_SMD
+L_7.3x7.3_H4.5
+Choke, SMD, 7.3x7.3mm 4.5mm height
+Choke SMD
+0
+2
+2
+Inductor_SMD
+L_10.4x10.4_H4.8
+Choke, SMD, 10.4x10.4mm 4.8mm height
+Choke SMD
+0
+2
+2
+Inductor_SMD
+L_12x12mm_H4.5mm
+Choke, SMD, 12x12mm 4.5mm height
+Choke SMD
+0
+2
+2
+Inductor_SMD
+L_12x12mm_H6mm
+Choke, SMD, 12x12mm 6mm height
+Choke SMD
+0
+2
+2
+Inductor_SMD
+L_12x12mm_H8mm
+Choke, SMD, 12x12mm 8mm height
+Choke SMD
+0
+2
+2
+Inductor_SMD
+L_0201_0603Metric
+Inductor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+inductor
+0
+4
+2
+Inductor_SMD
+L_0201_0603Metric_Pad0.64x0.40mm_HandSolder
+Inductor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+inductor handsolder
+0
+4
+2
+Inductor_SMD
+L_0402_1005Metric
+Inductor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+Inductor_SMD
+L_0402_1005Metric_Pad0.77x0.64mm_HandSolder
+Inductor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor handsolder
+0
+2
+2
+Inductor_SMD
+L_0603_1608Metric
+Inductor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+Inductor_SMD
+L_0603_1608Metric_Pad1.05x0.95mm_HandSolder
+Inductor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor handsolder
+0
+2
+2
+Inductor_SMD
+L_0805_2012Metric
+Inductor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 80, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+Inductor_SMD
+L_0805_2012Metric_Pad1.05x1.20mm_HandSolder
+Inductor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 80, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+inductor handsolder
+0
+2
+2
+Inductor_SMD
+L_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+Inductor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+inductor handsolder
+0
+2
+2
+Inductor_SMD
+L_01005_0402Metric
+Inductor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
+inductor
+0
+4
+2
+Inductor_SMD
+L_01005_0402Metric_Pad0.57x0.30mm_HandSolder
+Inductor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
+inductor handsolder
+0
+4
+2
+Inductor_SMD
+L_1008_2520Metric
+Inductor SMD 1008 (2520 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://ecsxtal.com/store/pdf/ECS-MPI2520-SMD-POWER-INDUCTOR.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+Inductor_SMD
+L_1008_2520Metric_Pad1.43x2.20mm_HandSolder
+Inductor SMD 1008 (2520 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://ecsxtal.com/store/pdf/ECS-MPI2520-SMD-POWER-INDUCTOR.pdf), generated with kicad-footprint-generator
+inductor handsolder
+0
+2
+2
+Inductor_SMD
+L_1206_3216Metric
+Inductor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 80, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+Inductor_SMD
+L_1206_3216Metric_Pad1.22x1.90mm_HandSolder
+Inductor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 80, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+inductor handsolder
+0
+2
+2
+Inductor_SMD
+L_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+Inductor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor handsolder
+0
+2
+2
+Inductor_SMD
+L_1210_3225Metric
+Inductor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+Inductor_SMD
+L_1210_3225Metric_Pad1.42x2.65mm_HandSolder
+Inductor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor handsolder
+0
+2
+2
+Inductor_SMD
+L_1806_4516Metric
+Inductor SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 80, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+Inductor_SMD
+L_1806_4516Metric_Pad1.45x1.90mm_HandSolder
+Inductor SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 80, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+inductor handsolder
+0
+2
+2
+Inductor_SMD
+L_1812_4532Metric
+Inductor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+Inductor_SMD
+L_1812_4532Metric_Pad1.30x3.40mm_HandSolder
+Inductor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
+inductor handsolder
+0
+2
+2
+Inductor_SMD
+L_2010_5025Metric
+Inductor SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+Inductor_SMD
+L_2010_5025Metric_Pad1.52x2.65mm_HandSolder
+Inductor SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor handsolder
+0
+2
+2
+Inductor_SMD
+L_2512_6332Metric
+Inductor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+Inductor_SMD
+L_2512_6332Metric_Pad1.52x3.35mm_HandSolder
+Inductor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor handsolder
+0
+2
+2
+Inductor_SMD
+L_AVX_LMLP07A7
+Inductor, AVX Kyocera, LMLP Series, style D, 6.6mmx7.3mm, 3.0mm height. (Script generated with StandardBox.py) (https://datasheets.avx.com/LMLPD.pdf)
+Inductor LMLP
+0
+2
+2
+Inductor_SMD
+L_Abracon_ASPI-0630LR
+smd shielded power inductor https://abracon.com/Magnetics/power/ASPI-0630LR.pdf
+inductor abracon smd shielded
+0
+2
+2
+Inductor_SMD
+L_Abracon_ASPI-3012S
+smd shielded power inductor http://www.abracon.com/Magnetics/power/ASPI-3012S.pdf
+inductor abracon smd shielded
+0
+2
+2
+Inductor_SMD
+L_Bourns-SRN1060
+Bourns SRN1060 series SMD inductor https://www.bourns.com/docs/Product-Datasheets/SRN1060.pdf
+Bourns SRN1060 SMD inductor
+0
+2
+2
+Inductor_SMD
+L_Bourns-SRN4018
+Bourns SRN4018 series SMD inductor, https://www.bourns.com/docs/Product-Datasheets/SRN4018.pdf
+Bourns SRN4018 SMD inductor
+0
+2
+2
+Inductor_SMD
+L_Bourns-SRN6028
+Bourns SRN6028 series SMD inductor
+Bourns SRN6028 SMD inductor
+0
+2
+2
+Inductor_SMD
+L_Bourns-SRN8040_8x8.15mm
+Bourns SRN8040 series SMD inductor 8x8.15mm, https://www.bourns.com/docs/Product-Datasheets/SRN8040.pdf
+Bourns SRN8040 SMD inductor
+0
+2
+2
+Inductor_SMD
+L_Bourns-SRR1005
+Bourns SRR1005 series SMD inductor
+Bourns SRR1005 SMD inductor
+0
+2
+2
+Inductor_SMD
+L_Bourns-SRU1028_10.0x10.0mm
+Bourns SRU1028 series SMD inductor, https://www.bourns.com/docs/Product-Datasheets/SRU1028.pdf
+Bourns SRU1028 SMD inductor
+0
+2
+2
+Inductor_SMD
+L_Bourns-SRU8028_8.0x8.0mm
+Bourns SRU8028 series SMD inductor
+Bourns SRU8028 SMD inductor
+0
+2
+2
+Inductor_SMD
+L_Bourns-SRU8043
+Bourns SRU8043 series SMD inductor
+Bourns SRU8043 SMD inductor
+0
+2
+2
+Inductor_SMD
+L_Bourns_SDR1806
+https://www.bourns.com/docs/Product-Datasheets/SDR1806.pdf
+Bourns SDR1806
+0
+2
+2
+Inductor_SMD
+L_Bourns_SRF1260
+Inductor, Bourns, SRF1260, 12.5mmx12.5mm (Script generated with StandardBox.py) (https://www.bourns.com/docs/Product-Datasheets/SRF1260.pdf)
+Inductor Bourns_SRF1260
+0
+4
+4
+Inductor_SMD
+L_Bourns_SRN6045TA
+http://www.bourns.com/docs/product-datasheets/srn6045ta.pdf
+Semi-shielded Power Inductor
+0
+2
+2
+Inductor_SMD
+L_Bourns_SRN8040TA
+https://www.bourns.com/docs/product-datasheets/srn8040ta.pdf
+Inductor
+0
+2
+2
+Inductor_SMD
+L_Bourns_SRP1245A
+Bourns SRP1245A series SMD inductor http://www.bourns.com/docs/Product-Datasheets/SRP1245A.pdf
+Bourns SRP1245A SMD inductor
+0
+2
+2
+Inductor_SMD
+L_Bourns_SRP1770TA_16.9x16.9mm
+Bourns SRP1770TA series SMD Inductor http://www.bourns.com/docs/Product-Datasheets/SRP1770TA.pdf
+Bourns SRP1770TA series SMD Inductor 
+0
+2
+2
+Inductor_SMD
+L_Bourns_SRP2313AA
+Bourns SRR1260 series SMD inductor http://www.bourns.com/docs/product-datasheets/srp2313aa.pdf
+Bourns SRR1260 SMD inductor
+0
+4
+2
+Inductor_SMD
+L_Bourns_SRP5030T
+Inductor, Bourns, SRP5030T, 5.7mmx5.2mm (Script generated with StandardBox.py) (https://www.bourns.com/data/global/pdfs/SRP5030T.pdf)
+Inductor Bourns_SRP5030T
+0
+2
+2
+Inductor_SMD
+L_Bourns_SRP7028A_7.3x6.6mm
+Shielded Power Inductors (https://www.bourns.com/docs/product-datasheets/srp7028a.pdf)
+Shielded Inductors Bourns SMD SRP7028A
+0
+2
+2
+Inductor_SMD
+L_Bourns_SRR1208_12.7x12.7mm
+Bourns SRP1208 series SMD inductor https://www.bourns.com/pdfs/SRR1208.pdf
+Bourns SRP1208 SMD inductor
+0
+2
+2
+Inductor_SMD
+L_Bourns_SRR1210A
+Bourns SRR1210A series SMD inductor https://www.bourns.com/docs/Product-Datasheets/SRR1210A.pdf
+Bourns SRR1210A SMD inductor
+0
+2
+2
+Inductor_SMD
+L_Bourns_SRR1260
+Bourns SRR1260 series SMD inductor http://www.bourns.com/docs/Product-Datasheets/SRR1260.pdf
+Bourns SRR1260 SMD inductor
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_LPS4018
+SMD Inductor Coilcraft LPS4018 https://www.coilcraft.com/pdfs/lps4018.pdf
+L Coilcraft LPS4018
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_LPS5030
+Shielded Power Inductor SMD, Coilcraft LPS5030, https://www.coilcraft.com/pdfs/lps5030.pdf, StepUp generated footprint
+inductor
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL60xx_6.36x6.56mm
+Coilcraft XAL60xx series, https://www.coilcraft.com/pdfs/xal60xx.pdf
+L Coilcraft XAL60xx
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL5030
+L_Coilcraft_XAL5030
+L Coilcraft XAL5030
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XxL4020
+L_Coilcraft_XxL4020 https://www.coilcraft.com/pdfs/xfl4020.pdf
+L Coilcraft XxL4020
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XxL4030
+L_Coilcraft_XxL4030 https://www.coilcraft.com/pdfs/xfl4030.pdf
+L Coilcraft XxL4030
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XxL4040
+L_Coilcraft_XxL4040 https://www.coilcraft.com/pdfs/xal4000.pdf
+L Coilcraft XxL4040
+0
+2
+2
+Inductor_SMD
+L_CommonModeChoke_Coilcraft_0603USB
+Coilcraft 0603USB Series Common Mode Choke, https://www.coilcraft.com/pdfs/0603usb.pdf
+surface mount common mode bead
+0
+4
+4
+Inductor_SMD
+L_CommonModeChoke_Coilcraft_0805USB
+Coilcraft 0805USB Series Common Mode Choke, https://www.coilcraft.com/pdfs/0805usb.pdf
+surface mount common mode bead
+0
+4
+4
+Inductor_SMD
+L_CommonModeChoke_Coilcraft_1812CAN
+Coilcraft 1812CAN Series Common Mode Choke, https://www.coilcraft.com/pdfs/1812can.pdf
+surface mount common mode bead
+0
+4
+4
+Inductor_SMD
+L_CommonModeChoke_Wuerth_WE-SL5
+WE-SL5 SMT Common Mode Line Filter, https://www.we-online.de/katalog/en/WE-SL5/, https://www.we-online.de/katalog/datasheet/744272471.pdf
+SMT Common Mode Line Filter
+0
+4
+4
+Inductor_SMD
+L_CommonMode_Delevan_4222
+API Delevan, Surface Mount Common Mode Bead, 4222 4222R, http://www.delevan.com/seriesPDFs/4222.pdf
+surface mount common mode bead
+0
+4
+4
+Inductor_SMD
+L_CommonMode_Wuerth_WE-SL2
+http://katalog.we-online.de/en/pbs/WE-SL2?sid=5fbec16187#vs_t1:c1_ct:1
+Wuerth WE-SL2
+0
+4
+4
+Inductor_SMD
+L_Fastron_PISN
+Choke, Drossel, PISN, SMD, Fastron,
+Choke Drossel PISN SMD Fastron 
+0
+2
+2
+Inductor_SMD
+L_Fastron_PISN_Handsoldering
+Choke, Drossel, PISN, SMD, Fastron,
+Choke Drossel PISN SMD Fastron 
+0
+2
+2
+Inductor_SMD
+L_Fastron_PISR
+Choke, Drossel, PISR, Fastron, SMD,
+Choke Drossel PISR Fastron SMD 
+0
+2
+2
+Inductor_SMD
+L_Fastron_PISR_Handsoldering
+Choke, Drossel, PISR, Fastron, SMD,
+Choke Drossel PISR Fastron SMD 
+0
+2
+2
+Inductor_SMD
+L_Murata_DEM35xxC
+https://www.murata.com/~/media/webrenewal/products/inductor/chip/tokoproducts/wirewoundferritetypeforpl/m_dem3518c.ashx
+Inductor SMD DEM35xxC
+0
+2
+2
+Inductor_SMD
+L_Murata_LQH2MCNxxxx02_2.0x1.6mm
+Inductor, Murata, LQH2MCN_02 series, 1.6x2.0x0.9mm (https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0053.pdf)
+chip coil inductor Murata LQH2MC
+0
+2
+2
+Inductor_SMD
+L_Murata_LQH55DN_5.7x5.0mm
+Inductor, SMD, 5.7x5.0x4.7mm, https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0045.pdf
+inductor smd
+0
+2
+2
+Inductor_SMD
+L_Neosid_Air-Coil_SML_1turn_HDM0131A
+Neosid, Air-Coil, SML, 1turn, HDM0131A,
+Neosid Air-Coil SML 1turn HDM0131A
+0
+2
+2
+Inductor_SMD
+L_Neosid_Air-Coil_SML_2turn_HAM0231A
+Neosid, Air-Coil, SML, 2turn, HAM0231A,
+Neosid Air-Coil SML 2turn HAM0231A
+0
+2
+2
+Inductor_SMD
+L_Neosid_Air-Coil_SML_2turn_HDM0231A
+Neosid, Air-Coil, SML, 2turn, HDM0231A,
+Neosid Air-Coil SML 2turn HDM0231A
+0
+2
+2
+Inductor_SMD
+L_Neosid_Air-Coil_SML_3turn_HAM0331A
+Neosid, Air-Coil, SML, 2turn, HAM0331A,
+Neosid Air-Coil SML 3turn HAM0331A
+0
+2
+2
+Inductor_SMD
+L_Neosid_Air-Coil_SML_3turn_HDM0331A
+Neosid, Air-Coil, SML, 3turn, HDM0331A,
+Neosid Air-Coil SML 3turn HDM0331A
+0
+2
+2
+Inductor_SMD
+L_Neosid_Air-Coil_SML_4turn_HAM0431A
+Neosid, Air-Coil, SML, 4turn, HAM0431A,
+Neosid Air-Coil SML 4turn HAM0431A
+0
+2
+2
+Inductor_SMD
+L_Neosid_Air-Coil_SML_4turn_HDM0431A
+Neosid, Air-Coil, SML, 4turn, HDM0431A,
+Neosid Air-Coil SML 4turn HDM0431A
+0
+2
+2
+Inductor_SMD
+L_Neosid_Air-Coil_SML_5turn_HAM0531A
+Neosid, Air-Coil, SML, 5turn, HAM0531A,
+Neosid Air-Coil SML 5turn HAM0531A
+0
+2
+2
+Inductor_SMD
+L_Neosid_Air-Coil_SML_5turn_HDM0531A
+Neosid, Air-Coil, SML, 5turn, HDM0531A,
+Neosid Air-Coil SML 5turn HDM0531A
+0
+2
+2
+Inductor_SMD
+L_Neosid_Air-Coil_SML_6-10turn_HAM0631A-HAM1031A
+Neosid, Air-Coil, SML, 6-10turn, HAM0631A-HAM1031A,
+Neosid Air-Coil SML 6-10turn HAM0631A-HAM1031A
+0
+2
+2
+Inductor_SMD
+L_Neosid_Air-Coil_SML_6-10turn_HDM0431A-HDM1031A
+Neosid, Air-Coil, SML, 6-10turn, HDM0431A-HDM1031A,
+Neosid Air-Coil SML 6-10turn HDM0431A-HDM1031A
+0
+2
+2
+Inductor_SMD
+L_Neosid_Air-Coil_SML_6turn_HAM0631A
+Neosid, Air-Coil, SML, 6turn, HAM0631A,
+Neosid Air-Coil SML 6turn HAM0631A
+0
+2
+2
+Inductor_SMD
+L_Neosid_MicroCoil_Ms36-L
+Neosid, Micro Coil, Inductor, Ms36-L, SMD, Fixed inductor, anti clockwise, https://neosid.de/en/products/inductors/rod-core-chokes/smd-rod-core-chokes/52026/ms-36/7-h?c=94
+Neosid Micro Coil Inductor Ms36-L SMD Fixed inductor anti clockwise
+0
+2
+2
+Inductor_SMD
+L_Neosid_Ms42
+Neosid, Inductor, SMs42, Fixed inductor, SMD, magneticaly shielded, https://neosid.de/import-data/product-pdf/neoFestind_Ms42.pdf
+Neosid Inductor SMs42 Fixed inductor SMD magneticaly shielded
+0
+2
+2
+Inductor_SMD
+L_Neosid_Ms50
+Neosid, Power Inductor, Ms50, SMD, Fixed inductor, https://neosid.de/import-data/product-pdf/neoFestind_Ms50.pdf
+Neosid Power Inductor Ms50 SMD Fixed inductor
+0
+2
+2
+Inductor_SMD
+L_Neosid_Ms50T
+Neosid, Power Inductor, Ms50T, SMD, Fixed inductor,  high temperature, https://neosid.de/import-data/product-pdf/neoFestind_Ms50T.pdf
+Neosid Power Inductor Ms50T SMD Fixed inductor high temperature
+0
+2
+2
+Inductor_SMD
+L_Neosid_Ms85
+Neosid, Ms85, Ms85T, SMD Inductor, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_Ms85.pdf
+Neosid Ms85 Ms85T SMD Inductor Fixed inductor SMD
+0
+2
+2
+Inductor_SMD
+L_Neosid_Ms85T
+Neosid, Ms85, Ms85T, SMD Inductor, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_Ms85T.pdf
+Neosid Ms85 Ms85T SMD Inductor Fixed inductor SMD
+0
+2
+2
+Inductor_SMD
+L_Neosid_Ms95
+Neosid,Inductor,Ms95, Ms95a, Ms95T, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_Ms95.pdf
+NeosidInductorMs95 Ms95a Ms95T Fixed inductor SMD
+0
+2
+2
+Inductor_SMD
+L_Neosid_Ms95T
+Neosid,Inductor,Ms95, Ms95a, Ms95T, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_Ms95T.pdf
+NeosidInductorMs95 Ms95a Ms95T Fixed inductor SMD
+0
+2
+2
+Inductor_SMD
+L_Neosid_Ms95a
+Neosid,Inductor,Ms95, Ms95a, Ms95T, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_Ms95a.pdf
+NeosidInductorMs95 Ms95a Ms95T Fixed inductor SMD
+0
+2
+2
+Inductor_SMD
+L_Neosid_SM-NE95H
+Neosid, Inductor,SM-NE95H, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMNE95H.pdf
+Neosid Inductor SM-NE95H Fixed inductor SMD
+0
+2
+2
+Inductor_SMD
+L_Neosid_SM-NE127
+Neosid, Inductor, SM-NE127, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMNE127.pdf
+Neosid Inductor SM-NE127 Fixed inductor SMD
+0
+2
+2
+Inductor_SMD
+L_Neosid_SM-NE127_HandSoldering
+Neosid, Inductor, SM-NE127, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMNE127.pdf
+Neosid Inductor SM-NE127 Fixed inductor SMD
+0
+2
+2
+Inductor_SMD
+L_Neosid_SM-NE150
+Neosid, Inductor, SM-NE150, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMNE150.pdf
+Neosid Inductor SM-NE150 Fixed inductor SMD
+0
+2
+2
+Inductor_SMD
+L_Neosid_SM-PIC0512H
+Neosid, Inductor, PIC0512H, Power Inductor, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMPIC0512H.pdf
+Neosid Inductor PIC0512H Power Inductor Fixed inductor SMD
+0
+2
+2
+Inductor_SMD
+L_Neosid_SM-PIC0602H
+Neosid, Power Inductor, SM-PIC0602H, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMPIC0602H.pdf
+Neosid Power Inductor SM-PIC0602H Fixed inductor SMD
+0
+2
+2
+Inductor_SMD
+L_Neosid_SM-PIC0612H
+Neosid, Power Inductor, SM-PIC0612H, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMPIC0612H.pdf
+Neosid Power Inductor SM-PIC0612H Fixed inductor SMD
+0
+2
+2
+Inductor_SMD
+L_Neosid_SM-PIC1004H
+Neosid, Inductor, SM-PIC1004H, Fixed inductor, SMD, https://neosid.de/import-data/product-pdf/neoFestind_SMPIC1004H.pdf
+Neosid Inductor SM-PIC1004H Fixed inductor SMD
+0
+2
+2
+Inductor_SMD
+L_Neosid_SMS-ME3010
+Neosid, Inductor, SMS-ME3010, Fixed inductor, SMD, magnetically shielded, https://neosid.de/import-data/product-pdf/neoFestind_SMSME3010.pdf
+Neosid Inductor SMS-ME3010 Fixed inductor SMD magnetically shielded
+0
+2
+2
+Inductor_SMD
+L_Neosid_SMS-ME3015
+Neosid, Power Inductor, SMS-ME3015, Fixed inductor, SMD, magnetically shielded, https://neosid.de/import-data/product-pdf/neoFestind_SMSME3015.pdf
+Neosid Power Inductor SMS-ME3015 Fixed inductor SMD magnetically shielded
+0
+2
+2
+Inductor_SMD
+L_Neosid_SMs42
+Neosid, Inductor, SMs42, Fixed inductor, SMD, magneticaly shielded, https://neosid.de/import-data/product-pdf/neoFestind_ma_SMs42.pdf
+Neosid Inductor SMs42 Fixed inductor SMD magneticaly shielded
+0
+2
+2
+Inductor_SMD
+L_Neosid_SMs50
+Neosid, Inductor, SMs50, Fixed inductor, SMD, magneticaly shielded, https://neosid.de/import-data/product-pdf/neoFestind_ma_SMs50.pdf
+Neosid Inductor SMs50 Fixed inductor SMD magneticaly shielded
+0
+2
+2
+Inductor_SMD
+L_Neosid_SMs85
+Neosid, Inductor, SMs85, Fixed inductor, SMD, magnetically shielded, https://neosid.de/import-data/product-pdf/neoFestind_ma_SMs85.pdf
+Neosid Inductor SMs85 Fixed inductor SMD magnetically shielded
+0
+2
+2
+Inductor_SMD
+L_Neosid_SMs95_SMs95p
+Neosid, Inductor, SMs95, Fixed inductor, SMD, magnetically shielded, https://neosid.de/import-data/product-pdf/neoFestind_SMs95SMs95p.pdf
+Neosid Inductor SMs95 Fixed inductor SMD magnetically shielded
+0
+2
+2
+Inductor_SMD
+L_Pulse_PA4320
+Inductor SMD Pulse PA4320 http://productfinder.pulseeng.com/products/datasheets/P787.pdf
+Inductor SMD Pulse PA4320
+0
+2
+2
+Inductor_SMD
+L_Pulse_PA4344
+Pulse PA4344 / PM4344 Series SMD Inductors https://productfinder.pulseelectronics.com/api/public/uploads/product-attachments/datasheet_p771_1608107700.pdf
+Pulse PA4344 PM4344 Series SMD Inductors
+0
+2
+2
+Inductor_SMD
+L_Sagami_CER1242B
+Inductor, Sagami, h=4.5mm, http://www.sagami-elec.co.jp/file/CER1242B-CER1257B-CER1277B.pdf
+inductor sagami cer12xxb smd
+0
+2
+2
+Inductor_SMD
+L_Sagami_CER1257B
+Inductor, Sagami, h=6.0mm, http://www.sagami-elec.co.jp/file/CER1242B-CER1257B-CER1277B.pdf
+inductor sagami cer12xxb smd
+0
+2
+2
+Inductor_SMD
+L_Sagami_CER1277B
+Inductor, Sagami, h=8.0mm, http://www.sagami-elec.co.jp/file/CER1242B-CER1257B-CER1277B.pdf
+inductor sagami cer12xxb smd
+0
+2
+2
+Inductor_SMD
+L_Sagami_CWR1242C
+Sagami power inductor, CWR1242C, H=4.5mm (http://www.sagami-elec.co.jp/file/16Car_SMDCwr.pdf)
+inductor sagami cwr12xx smd
+0
+4
+2
+Inductor_SMD
+L_Sagami_CWR1257C
+Sagami power inductor, CWR1242C, H=6.0mm (http://www.sagami-elec.co.jp/file/16Car_SMDCwr.pdf)
+inductor sagami cwr12xx smd
+0
+4
+2
+Inductor_SMD
+L_Sagami_CWR1277C
+Sagami power inductor, CWR1242C, H=7.7mm (http://www.sagami-elec.co.jp/file/16Car_SMDCwr.pdf)
+inductor sagami cwr12xx smd
+0
+4
+2
+Inductor_SMD
+L_SigTra_SC3316F
+http://www.signaltransformer.com/sites/all/pdf/smd/P080_SC3316F.pdf
+Choke 
+0
+2
+2
+Inductor_SMD
+L_Sumida_CDMC6D28_7.25x6.5mm
+SMD Power Inductor (http://products.sumida.com/products/pdf/CDMC6D28.pdf)
+Inductor Sumida SMD CDMC6D28
+0
+2
+2
+Inductor_SMD
+L_Sumida_CR75
+Inductor, Sumida, 8.1mm × 7.3mm × 5.5 mm, Unshielded, http://products.sumida.com/products/pdf/CR75.pdf
+Inductor SMD CR75 Unshielded
+0
+2
+2
+Inductor_SMD
+L_Sunlord_MWSA0518_5.4x5.2mm
+Inductor, Sunlord, MWSA0518, 5.4mmx5.2mm
+inductor Sunlord smd
+0
+2
+2
+Inductor_SMD
+L_TDK_NLV25_2.5x2.0mm
+TDK NLV25, 2.5x2.0x1.8mm, https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_standard_nlv25-ef_en.pdf
+tdk nlv25 nlcv25 nlfv25
+0
+2
+2
+Inductor_SMD
+L_TDK_NLV32_3.2x2.5mm
+TDK NLV32, 3.2x2.5x2.2mm, https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_standard_nlv32-ef_en.pdf
+tdk nlv32 nlcv32 nlfv32
+0
+2
+2
+Inductor_SMD
+L_TDK_SLF6025
+Inductor, TDK, SLF6025, 6.0mmx6.0mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/document/catalog/smd/inductor_commercial_power_slf6025_en.pdf)
+Inductor TDK_SLF6025
+0
+2
+2
+Inductor_SMD
+L_TDK_SLF6028
+Inductor, TDK, SLF6028, 6.0mmx6.0mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/document/catalog/smd/inductor_commercial_power_slf6028_en.pdf)
+Inductor TDK_SLF6028
+0
+2
+2
+Inductor_SMD
+L_TDK_SLF6045
+Inductor, TDK, SLF6045, 6.0mmx6.0mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/document/catalog/smd/inductor_commercial_power_slf6045_en.pdf)
+Inductor TDK_SLF6045
+0
+2
+2
+Inductor_SMD
+L_TDK_SLF7032
+Inductor, TDK, SLF7032, 7.0mmx7.0mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/document/catalog/smd/inductor_commercial_power_slf7032_en.pdf)
+Inductor TDK_SLF7032
+0
+2
+2
+Inductor_SMD
+L_TDK_SLF7045
+Inductor, TDK, SLF7045, 7.0mmx7.0mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/document/catalog/smd/inductor_commercial_power_slf7045_en.pdf)
+Inductor TDK_SLF7045
+0
+2
+2
+Inductor_SMD
+L_TDK_SLF7055
+Inductor, TDK, SLF7055, 7.0mmx7.0mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/document/catalog/smd/inductor_commercial_power_slf7055_en.pdf)
+Inductor TDK_SLF7055
+0
+2
+2
+Inductor_SMD
+L_TDK_SLF10145
+Inductor, TDK, SLF10145, 10.1mmx10.1mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/catalog/datasheets/inductor_automotive_power_slf10145-h_en.pdf)
+Inductor TDK_SLF10145
+0
+2
+2
+Inductor_SMD
+L_TDK_SLF10165
+Inductor, TDK, SLF10165, 10.1mmx10.1mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_power_slf10165_en.pdf)
+Inductor TDK_SLF10165
+0
+2
+2
+Inductor_SMD
+L_TDK_SLF12555
+Inductor, TDK, SLF12555, 12.5mmx12.5mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_power_slf12555_en.pdf)
+Inductor SLF12555
+0
+2
+2
+Inductor_SMD
+L_TDK_SLF12565
+Inductor, TDK, SLF12565, 12.5mmx12.5mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/catalog/datasheets/inductor_automotive_power_slf12565-h_en.pdf)
+Inductor SLF12565
+0
+2
+2
+Inductor_SMD
+L_TDK_SLF12575
+Inductor, TDK, SLF12575, 12.5mmx12.5mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/catalog/datasheets/inductor_automotive_power_slf12575-h_en.pdf)
+Inductor SLF12575
+0
+2
+2
+Inductor_SMD
+L_TDK_VLF10040
+Inductor,TDK, TDK-VLP-8040, 8.6mmx8.6mm
+inductor TDK VLP smd VLF10040
+0
+2
+2
+Inductor_SMD
+L_TDK_VLP8040
+Inductor,TDK, TDK-VLP-8040, 8.6mmx8.6mm
+inductor TDK VLP smd VLP8040
+0
+2
+2
+Inductor_SMD
+L_Taiyo-Yuden_MD-1616
+Inductor, Taiyo Yuden, MD series, Taiyo-Yuden_MD-1616, 1.6mmx1.6mm
+inductor taiyo-yuden md smd
+0
+2
+2
+Inductor_SMD
+L_Taiyo-Yuden_MD-2020
+Inductor, Taiyo Yuden, MD series, Taiyo-Yuden_MD-2020, 2.0mmx2.0mm
+inductor taiyo-yuden md smd
+0
+2
+2
+Inductor_SMD
+L_Taiyo-Yuden_MD-3030
+Inductor, Taiyo Yuden, MD series, Taiyo-Yuden_MD-3030, 3.0mmx3.0mm
+inductor taiyo-yuden md smd
+0
+2
+2
+Inductor_SMD
+L_Taiyo-Yuden_MD-4040
+Inductor, Taiyo Yuden, MD series, Taiyo-Yuden_MD-4040, 4.0mmx4.0mm
+inductor taiyo-yuden md smd
+0
+2
+2
+Inductor_SMD
+L_Taiyo-Yuden_MD-5050
+Inductor, Taiyo Yuden, MD series, Taiyo-Yuden_MD-5050, 5.0mmx5.0mm
+inductor taiyo-yuden md smd
+0
+2
+2
+Inductor_SMD
+L_Taiyo-Yuden_NR-20xx
+Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-20xx, 2.0mmx2.0mm
+inductor taiyo-yuden nr smd
+0
+2
+2
+Inductor_SMD
+L_Taiyo-Yuden_NR-20xx_HandSoldering
+Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-20xx, 2.0mmx2.0mm
+inductor taiyo-yuden nr smd
+0
+2
+2
+Inductor_SMD
+L_Taiyo-Yuden_NR-24xx
+Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-24xx, 2.4mmx2.4mm
+inductor taiyo-yuden nr smd
+0
+2
+2
+Inductor_SMD
+L_Taiyo-Yuden_NR-24xx_HandSoldering
+Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-24xx, 2.4mmx2.4mm
+inductor taiyo-yuden nr smd
+0
+2
+2
+Inductor_SMD
+L_Taiyo-Yuden_NR-30xx
+Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-30xx, 3.0mmx3.0mm
+inductor taiyo-yuden nr smd
+0
+2
+2
+Inductor_SMD
+L_Taiyo-Yuden_NR-30xx_HandSoldering
+Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-30xx, 3.0mmx3.0mm
+inductor taiyo-yuden nr smd
+0
+2
+2
+Inductor_SMD
+L_Taiyo-Yuden_NR-40xx
+Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-40xx, 4.0mmx4.0mm
+inductor taiyo-yuden nr smd
+0
+2
+2
+Inductor_SMD
+L_Taiyo-Yuden_NR-40xx_HandSoldering
+Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-40xx, 4.0mmx4.0mm
+inductor taiyo-yuden nr smd
+0
+2
+2
+Inductor_SMD
+L_Taiyo-Yuden_NR-50xx
+Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-50xx, 4.9mmx4.9mm
+inductor taiyo-yuden nr smd
+0
+2
+2
+Inductor_SMD
+L_Taiyo-Yuden_NR-50xx_HandSoldering
+Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-50xx, 4.9mmx4.9mm
+inductor taiyo-yuden nr smd
+0
+2
+2
+Inductor_SMD
+L_Taiyo-Yuden_NR-60xx
+Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-60xx, 6.0mmx6.0mm
+inductor taiyo-yuden nr smd
+0
+2
+2
+Inductor_SMD
+L_Taiyo-Yuden_NR-60xx_HandSoldering
+Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-60xx, 6.0mmx6.0mm
+inductor taiyo-yuden nr smd
+0
+2
+2
+Inductor_SMD
+L_Taiyo-Yuden_NR-80xx
+Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-80xx, 8.0mmx8.0mm
+inductor taiyo-yuden nr smd
+0
+2
+2
+Inductor_SMD
+L_Taiyo-Yuden_NR-80xx_HandSoldering
+Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-80xx, 8.0mmx8.0mm
+inductor taiyo-yuden nr smd
+0
+2
+2
+Inductor_SMD
+L_Taiyo-Yuden_NR-10050_9.8x10.0mm
+Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-10050, 9.8mmx10.0mm, https://ds.yuden.co.jp/TYCOMPAS/or/specSheet?pn=NR10050T1R3N
+inductor taiyo-yuden nr smd
+0
+2
+2
+Inductor_SMD
+L_Taiyo-Yuden_NR-10050_9.8x10.0mm_HandSoldering
+Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-10050, 9.8mmx10.0mm, https://ds.yuden.co.jp/TYCOMPAS/or/specSheet?pn=NR10050T1R3N
+inductor taiyo-yuden nr smd
+0
+2
+2
+Inductor_SMD
+L_TracoPower_TCK-047_5.2x5.8mm
+Inductor, Traco, TCK-047, 5.2x5.8mm, https://www.tracopower.com/products/tck047.pdf
+inductor smd traco
+0
+2
+2
+Inductor_SMD
+L_TracoPower_TCK-141
+Choke, SMD, 4.0x4.0mm 2.1mm height, https://www.tracopower.com/products/tck141.pdf
+Choke SMD
+0
+2
+2
+Inductor_SMD
+L_Vishay_IFSC-1515AH_4x4x1.8mm
+Low Profile, High Current Inductors (https://www.vishay.com/docs/34295/sc15ah01.pdf)
+SMD Vishay Inductor Low Profile
+0
+2
+2
+Inductor_SMD
+L_Vishay_IHLP-1212
+Inductor, Vishay, IHLP series, 3.0mmx3.0mm
+inductor vishay ihlp smd
+0
+2
+2
+Inductor_SMD
+L_Vishay_IHLP-1616
+Inductor, Vishay, IHLP series, 4.1mmx4.1mm
+inductor vishay ihlp smd
+0
+2
+2
+Inductor_SMD
+L_Vishay_IHLP-2020
+Inductor, Vishay, IHLP series, 5.1mmx5.1mm
+inductor vishay ihlp smd
+0
+2
+2
+Inductor_SMD
+L_Vishay_IHLP-2525
+Inductor, Vishay, IHLP series, 6.3mmx6.3mm
+inductor vishay ihlp smd
+0
+2
+2
+Inductor_SMD
+L_Vishay_IHLP-4040
+Inductor, Vishay, IHLP series, 10.2mmx10.2mm
+inductor vishay ihlp smd
+0
+2
+2
+Inductor_SMD
+L_Vishay_IHLP-5050
+Inductor, Vishay, IHLP series, 12.7mmx12.7mm
+inductor vishay ihlp smd
+0
+2
+2
+Inductor_SMD
+L_Vishay_IHLP-6767
+Inductor, Vishay, IHLP series, 17.0mmx17.0mm
+inductor vishay ihlp smd
+0
+2
+2
+Inductor_SMD
+L_Vishay_IHSM-3825
+Inductor, Vishay, Vishay_IHSM-3825, http://www.vishay.com/docs/34018/ihsm3825.pdf, 11.2mmx6.3mm
+inductor vishay icsm smd
+0
+2
+2
+Inductor_SMD
+L_Vishay_IHSM-4825
+Inductor, Vishay, Vishay_IHSM-4825, http://www.vishay.com/docs/34019/ihsm4825.pdf, 13.7mmx6.3mm
+inductor vishay icsm smd
+0
+2
+2
+Inductor_SMD
+L_Vishay_IHSM-5832
+Inductor, Vishay, Vishay_IHSM-5832, http://www.vishay.com/docs/34020/ihsm5832.pdf, 16.3mmx8.1mm
+inductor vishay icsm smd
+0
+2
+2
+Inductor_SMD
+L_Vishay_IHSM-7832
+Inductor, Vishay, Vishay_IHSM-7832, http://www.vishay.com/docs/34021/ihsm7832.pdf, 19.8mmx8.1mm
+inductor vishay icsm smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_HCF-2013
+7443630070, http://katalog.we-online.de/pbs/datasheet/7443630070.pdf
+inductor shielded wuerth hcf
+0
+3
+2
+Inductor_SMD
+L_Wuerth_HCF-2815
+74436410150, http://katalog.we-online.de/pbs/datasheet/74436410150.pdf
+inductor shielded wuerth hcf
+0
+3
+2
+Inductor_SMD
+L_Wuerth_HCF-2818
+7443640330, http://katalog.we-online.de/pbs/datasheet/7443640330.pdf
+inductor shielded wuerth hcf
+0
+3
+2
+Inductor_SMD
+L_Wuerth_HCI-1030
+Inductor, Wuerth Elektronik, Wuerth_HCI-1030, 10.6mmx10.6mm
+inductor Wuerth hci smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_HCI-1040
+Inductor, Wuerth Elektronik, Wuerth_HCI-1040, 10.2mmx10.2mm
+inductor Wuerth hci smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_HCI-1050
+Inductor, Wuerth Elektronik, Wuerth_HCI-1050, 10.2mmx10.2mm
+inductor Wuerth hci smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_HCI-1335
+Inductor, Wuerth Elektronik, Wuerth_HCI-1335, 12.8mmx12.8mm
+inductor Wuerth hci smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_HCI-1350
+Inductor, Wuerth Elektronik, Wuerth_HCI-1350, 12.8mmx12.8mm
+inductor Wuerth hci smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_HCI-1365
+Inductor, Wuerth Elektronik, Wuerth_HCI-1365, 12.8mmx12.8mm
+inductor Wuerth hci smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_HCI-1890
+Inductor, Wuerth Elektronik, Wuerth_HCI-1890, 18.2mmx18.2mm
+inductor Wuerth hci smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_HCI-2212
+Inductor, Wuerth Elektronik, Wuerth_HCI-2212, 22.5mmx22.0mm
+inductor Wuerth hci smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_HCI-5040
+Inductor, Wuerth Elektronik, Wuerth_HCI-5040, 5.5mmx5.2mm
+inductor Wuerth hci smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_HCI-7030
+Inductor, Wuerth Elektronik, Wuerth_HCI-7030, 6.9mmx6.9mm
+inductor Wuerth hci smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_HCI-7040
+Inductor, Wuerth Elektronik, Wuerth_HCI-7040, 6.9mmx6.9mm
+inductor Wuerth hci smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_HCI-7050
+Inductor, Wuerth Elektronik, Wuerth_HCI-7050, 6.9mmx6.9mm
+inductor Wuerth hci smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_HCM-1050
+Inductor, Wuerth Elektronik, Wuerth_HCM-1050, 10.2mmx7.0mm
+inductor Wuerth hcm smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_HCM-1052
+Inductor, Wuerth Elektronik, Wuerth_HCM-1052, 10.5mmx10.3mm
+inductor Wuerth hcm smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_HCM-1070
+Inductor, Wuerth Elektronik, Wuerth_HCM-1070, 10.1mmx7.0mm
+inductor Wuerth hcm smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_HCM-1078
+Inductor, Wuerth Elektronik, Wuerth_HCM-1078, 9.4mmx6.2mm
+inductor Wuerth hcm smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_HCM-1190
+Inductor, Wuerth Elektronik, Wuerth_HCM-1190, 10.5mmx11.0mm
+inductor Wuerth hcm smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_HCM-1240
+Inductor, Wuerth Elektronik, Wuerth_HCM-1240, 10.0mmx11.8mm
+inductor Wuerth hcm smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_HCM-1350
+Inductor, Wuerth Elektronik, Wuerth_HCM-1350, 13.5mmx13.3mm
+inductor Wuerth hcm smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_HCM-1390
+Inductor, Wuerth Elektronik, Wuerth_HCM-1390, 12.5mmx13.0mm
+inductor Wuerth hcm smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_HCM-7050
+Inductor, Wuerth Elektronik, Wuerth_HCM-7050, 7.2mmx7.0mm
+inductor Wuerth hcm smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_HCM-7070
+Inductor, Wuerth Elektronik, Wuerth_HCM-7070, 7.4mmx7.2mm
+inductor Wuerth hcm smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_MAPI-1610
+Inductor, Wuerth Elektronik, Wuerth_MAPI-1610, 1.6mmx1.6mm
+inductor Wuerth smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_MAPI-2010
+Inductor, Wuerth Elektronik, Wuerth_MAPI-2010, 2.0mmx1.6mm
+inductor Wuerth smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_MAPI-2506
+Inductor, Wuerth Elektronik, Wuerth_MAPI-2506, 2.5mmx2.0mm
+inductor Wuerth smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_MAPI-2508
+Inductor, Wuerth Elektronik, Wuerth_MAPI-2508, 2.5mmx2.0mm
+inductor Wuerth smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_MAPI-2510
+Inductor, Wuerth Elektronik, Wuerth_MAPI-2510, 2.5mmx2.0mm
+inductor Wuerth smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_MAPI-2512
+Inductor, Wuerth Elektronik, Wuerth_MAPI-2512, 2.5mmx2.0mm
+inductor Wuerth smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_MAPI-3010
+Inductor, Wuerth Elektronik, Wuerth_MAPI-3010, 3.0mmx3.0mm
+inductor Wuerth smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_MAPI-3012
+Inductor, Wuerth Elektronik, Wuerth_MAPI-3012, 3.0mmx3.0mm
+inductor Wuerth smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_MAPI-3015
+Inductor, Wuerth Elektronik, Wuerth_MAPI-3015, 3.0mmx3.0mm
+inductor Wuerth smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_MAPI-3020
+Inductor, Wuerth Elektronik, Wuerth_MAPI-3020, 3.0mmx3.0mm
+inductor Wuerth smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_MAPI-4020
+Inductor, Wuerth Elektronik, Wuerth_MAPI-4020, 4.0mmx4.0mm
+inductor Wuerth smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_MAPI-4030
+Inductor, Wuerth Elektronik, Wuerth_MAPI-4030, 4.0mmx4.0mm
+inductor Wuerth smd
+0
+2
+2
+Inductor_SMD
+L_Wuerth_WE-DD-Typ-L-Typ-XL-Typ-XXL
+Shielded Coupled Inductor, Wuerth Elektronik, WE-DD, SMD, Typ L, Typ XL, Typ XXL, https://katalog.we-online.com/pbs/datasheet/744874001.pdf
+Choke Coupled Double Inductor SMD Wuerth WE-DD TypL TypXL TypXXL 
+0
+4
+4
+Inductor_SMD
+L_Wuerth_WE-DD-Typ-M-Typ-S
+Shielded Coupled Inductor, Wuerth Elektronik, WE-DD, SMD, Typ M, Typ S, https://katalog.we-online.com/pbs/datasheet/744878001.pdf, https://katalog.we-online.de/pbs/datasheet/744877001.pdf
+Choke Coupled Double Inductor SMD Wuerth WE-DD TypM TypS
+0
+4
+4
+Inductor_SMD
+L_Wuerth_WE-GF-1210
+Unshielded Inductor, Wuerth Elektronik, WE-GF, SMD, 1210, https://www.we-online.de/katalog/datasheet/74476401.pdf
+Unshielded Inductor WE-GF 1210 Wuerth
+0
+2
+2
+Inductor_SMD
+L_Wuerth_WE-PD-Typ-7345
+Shielded Power Inductor, Wuerth Elektronik, WE-PD, SMD, 7345, https://katalog.we-online.com/pbs/datasheet/744777001.pdf
+Choke Shielded Power Inductor WE-PD 7345 Wuerth
+0
+2
+2
+Inductor_SMD
+L_Wuerth_WE-PD-Typ-LS
+Shielded Power Inductor, Wuerth Elektronik, WE-PD, SMD, Typ LS, https://katalog.we-online.com/pbs/datasheet/7447715906.pdf
+Choke Shielded Power Inductor WE-PD TypLS Wuerth
+0
+2
+2
+Inductor_SMD
+L_Wuerth_WE-PD-Typ-LS_Handsoldering
+Shielded Power Inductor, Wuerth Elektronik, WE-PD, SMD, Typ LS, Handsoldering, https://katalog.we-online.com/pbs/datasheet/7447715906.pdf
+Choke Shielded Power Inductor WE-PD TypLS Wuerth
+0
+2
+2
+Inductor_SMD
+L_Wuerth_WE-PD-Typ-M-Typ-S
+Shielded Power Inductor, Wuerth Elektronik, WE-PD, SMT, Typ M, Typ S, https://katalog.we-online.com/pbs/datasheet/744778005.pdf
+Choke Shielded Power Inductor WE-PD TypM TypS Wuerth
+0
+2
+2
+Inductor_SMD
+L_Wuerth_WE-PD-Typ-M-Typ-S_Handsoldering
+Shielded Power Inductor, Wuerth Elektronik, WE-PD, SMT, Typ M, Typ S, Handsoldering, https://katalog.we-online.com/pbs/datasheet/744778005.pdf
+Choke Shielded Power Inductor WE-PD TypM TypS Wuerth
+0
+2
+2
+Inductor_SMD
+L_Wuerth_WE-PD2-Typ-L
+Power Inductor, Wuerth Elektronik, WE-PD2, SMD, Typ L, , https://katalog.we-online.com/pbs/datasheet/74477510.pdf
+Choke Power Inductor WE-PD2 TypL Wuerth
+0
+2
+2
+Inductor_SMD
+L_Wuerth_WE-PD2-Typ-MS
+Power Inductor, Wuerth Elektronik, WE-PD2, SMD, Typ MS, https://katalog.we-online.com/pbs/datasheet/744774022.pdf
+Choke Power Inductor WE-PD2 TypMS Wuerth
+0
+2
+2
+Inductor_SMD
+L_Wuerth_WE-PD2-Typ-XL
+Power Inductor, Wuerth Elektronik, WE-PD2, SMT, Typ XL, https://katalog.we-online.com/pbs/datasheet/744776012.pdf
+Choke Power Inductor WE-PD2 TypXL Wuerth
+0
+2
+2
+Inductor_SMD
+L_Wuerth_WE-PD4-Typ-X
+Power Inductor, Wuerth Elektronik, WE-PD4, SMT, Typ X, https://katalog.we-online.de/pbs/datasheet/74458001.pdf
+Choke Power Inductor WE-PD4 TypX Wuerth
+0
+2
+2
+Inductor_SMD
+L_Wuerth_WE-PDF
+Shielded Power Inductor, Wuerth Elektronik, WE-PDF, SMD, https://katalog.we-online.de/pbs/datasheet/7447797022.pdf
+Choke Shielded Power Inductor WE-PDF Wuerth
+0
+2
+2
+Inductor_SMD
+L_Wuerth_WE-PDF_Handsoldering
+Shielded Power Inductor, Wuerth Elektronik, WE-PDF, SMD, Handsoldering, https://katalog.we-online.de/pbs/datasheet/7447797022.pdf
+Choke Shielded Power Inductor WE-PDF Wuerth Handsoldering
+0
+2
+2
+Inductor_SMD
+L_Wuerth_WE-TPC-3816
+L_Wuerth_WE-TPC-3816 StepUp generated footprint, http://katalog.we-online.de/pbs/datasheet/7440310047.pdf
+wurth wuerth smd inductor
+0
+2
+2
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
@@ -11696,6 +14874,517 @@ solder jumper open
 0
 5
 3
+LED_SMD
+LED-APA102-2020
+http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
+LED RGB SPI
+0
+8
+6
+LED_SMD
+LED-L1T2_LUMILEDS
+http://www.lumileds.com/uploads/438/DS133-pdf
+LUMILEDS LUXEON TX L1T2 LED
+0
+3
+3
+LED_SMD
+LED_1W_3W_R8
+https://www.gme.cz/data/attachments/dsh.518-234.1.pdf
+LED 1W 3W 5W
+0
+3
+3
+LED_SMD
+LED_0201_0603Metric
+LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+LED
+0
+4
+2
+LED_SMD
+LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder
+LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+4
+2
+LED_SMD
+LED_0402_1005Metric
+LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+LED_SMD
+LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder
+LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD
+LED_0603_1608Metric
+LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+LED_SMD
+LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder
+LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD
+LED_0805_2012Metric
+LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+LED
+0
+2
+2
+LED_SMD
+LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD
+LED_1206_3216Metric
+LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+LED_SMD
+LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD
+LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm
+LED SMD 1206 (3216 Metric), reverse mount, square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode reverse
+0
+2
+2
+LED_SMD
+LED_1210_3225Metric
+LED SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+LED_SMD
+LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder
+LED SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD
+LED_1812_4532Metric
+LED SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+LED_SMD
+LED_1812_4532Metric_Pad1.30x3.40mm_HandSolder
+LED SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD
+LED_2010_5025Metric
+LED SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+LED_SMD
+LED_2010_5025Metric_Pad1.52x2.65mm_HandSolder
+LED SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD
+LED_2512_6332Metric
+LED SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+LED_SMD
+LED_2512_6332Metric_Pad1.52x3.35mm_HandSolder
+LED SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD
+LED_ASMB-KTF0-0A306
+2220 Tricolor PLCC-4 LED, https://docs.broadcom.com/docs/ASMB-KTF0-0A306-DS100
+Tricolor LED
+0
+4
+4
+LED_SMD
+LED_Avago_PLCC4_3.2x2.8mm_CW
+https://docs.broadcom.com/docs/AV02-4186EN
+LED Avago PLCC-4 ASMB-MTB0-0A3A2
+0
+4
+4
+LED_SMD
+LED_Avago_PLCC6_3x2.8mm
+https://docs.broadcom.com/docs/AV02-3793EN
+LED Avago PLCC-6 ASMT-YTB7-0AA02
+0
+6
+6
+LED_SMD
+LED_CSP_Samsung_LH181B_2.36x2.36mm
+High Power CSP LED, 2.36mm x 2.36mm, 1.4A max, https://cdn.samsung.com/led/file/resource/2021/01/Data_Sheet_LH181B_Rev.4.0.pdf
+LED Samsung LH181B
+0
+2
+2
+LED_SMD
+LED_Cree-PLCC4_2x2mm_CW
+2.0mm x 2.0mm PLCC4 LED, http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/HB/Data-Sheets/CLMVBFKA.pdf
+LED Cree PLCC-4
+0
+4
+4
+LED_SMD
+LED_Cree-PLCC4_3.2x2.8mm_CCW
+3.2mm x 2.8mm PLCC4 LED, http://www.cree.com/led-components/media/documents/CLV1AFKB(874).pdf
+LED Cree PLCC-4
+0
+4
+4
+LED_SMD
+LED_Cree-PLCC4_5x5mm_CW
+5.0mm x 5.0mm PLCC4 LED
+LED Cree PLCC-4
+0
+4
+4
+LED_SMD
+LED_Cree-PLCC6_4.7x1.5mm
+4.7mm x 1.5mm PLCC6 LED, http://www.cree.com/led-components/media/documents/1381-QLS6AFKW.pdf
+LED Cree PLCC-6
+0
+6
+6
+LED_SMD
+LED_Cree-XB
+http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/XLampXBD.pdf
+LED Cree XB
+0
+5
+3
+LED_SMD
+LED_Cree-XH
+http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/ds-XHB.pdf
+LED Cree XH
+0
+8
+2
+LED_SMD
+LED_Cree-XHP35
+http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/ds--XHP35.pdf
+LED Cree XHP35
+0
+6
+3
+LED_SMD
+LED_Cree-XHP50_6V
+Cree XHP50, 6V footprint, http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP50.pdf
+LED Cree XHP50
+0
+15
+3
+LED_SMD
+LED_Cree-XHP50_12V
+Cree XHP50, 12V footprint, http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP50.pdf
+LED XHP50 Cree
+0
+15
+3
+LED_SMD
+LED_Cree-XHP70_6V
+Cree XHP70 LED, 6V version, http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP70.pdf
+LED Cree XHP70
+0
+15
+3
+LED_SMD
+LED_Cree-XHP70_12V
+Cree XHP70 LED, 12V version, http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP70.pdf
+LED Cree XHP70
+0
+15
+3
+LED_SMD
+LED_Cree-XP
+LED Cree-XP http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/XLampXPE2.pdf
+LED Cree XP
+0
+6
+3
+LED_SMD
+LED_Cree-XP-G
+LED Cree-XP-G http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/XLampXPG.pdf
+LED Cree XP-G
+0
+6
+3
+LED_SMD
+LED_Cree-XQ
+LED Cree-XQ http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/ds-XQB.pdf
+LED Cree XQ
+0
+2
+2
+LED_SMD
+LED_Cree-XQ_HandSoldering
+LED Cree-XQ handsoldering pads http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/ds-XQB.pdf
+LED Cree XQ
+0
+2
+2
+LED_SMD
+LED_Dialight_591
+LED SMD 3mm Right Angle series (http://www.dialightsignalsandcomponents.com/Assets/Drawings/2D_Drawings_DrawingDetailedSpec/C17354.pdf)
+LED Dialight 591
+0
+2
+2
+LED_SMD
+LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm
+http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf
+RGB LED NeoPixel addressable
+0
+4
+4
+LED_SMD
+LED_Kingbright_AAA3528ESGCT
+Kingbright, dual LED, 3.5 x 2.8 mm Surface Mount LED Lamp (http://www.kingbrightusa.com/images/catalog/SPEC/AAA3528ESGCT.pdf)
+dual led smd
+0
+4
+4
+LED_SMD
+LED_Kingbright_APFA3010_3x1.5mm_Horizontal
+LED RGB, APFA3010, http://www.kingbrightusa.com/images/catalog/SPEC/APFA3010LSEEZGKQBKC.pdf
+LED RGB APFA3010 KINGBRIGHT 3x1.5mm
+0
+4
+4
+LED_SMD
+LED_Kingbright_APHBM2012_2x1.25mm
+Dual LED SMD https://www.kingbrightusa.com/KCpack.asp?txtPack=APHBM2012
+LED Kingbright APHM2012
+0
+4
+4
+LED_SMD
+LED_Kingbright_KPBD-3224
+Kingbright, dual LED, red-green, dome lens, 3.2 x 2.4 mm Surface Mount LED Lamp (https://www.kingbright.com/attachments/file/psearch/000/00/00/KPBD-3224SURKCGKC(Ver.20A).pdf)
+Kingbright dual LED KPBD-3224
+0
+4
+4
+LED_SMD
+LED_LiteOn_LTST-C19HE1WT
+LiteOn RGB LED; https://optoelectronics.liteon.com/upload/download/DS22-2008-0044/LTST-C19HE1WT.pdf
+LED RGB Chip SMD
+0
+4
+4
+LED_SMD
+LED_LiteOn_LTST-S326
+http://optoelectronics.liteon.com/upload/download/DS22-2000-287/LTST-S326KGJRKT.PDF
+LED SMD right angle  CCA
+0
+3
+3
+LED_SMD
+LED_Lumex_SML-LX0303SIUPGUSB
+Lumex RGB LED, clear, SMD, https://www.lumex.com/spec/SML-LX0303SIUPGUSB.pdf
+LED RGB
+0
+4
+4
+LED_SMD
+LED_Lumex_SML-LX0404SIUPGUSB
+Lumex RGB LED, clear, SMD, https://www.lumex.com/spec/SML-LX0404SIUPGUSB.pdf
+LED RGB
+0
+4
+4
+LED_SMD
+LED_Luminus_MP-3030-1100_3.0x3.0mm
+Mid Power LED, Luminus MP-3030-1100, 3.0x3.0mm, 816mW, https://download.luminus.com/datasheets/Luminus_MP3030_1100_Datasheet.pdf
+LED Luminus MP-3030-1100
+0
+5
+2
+LED_SMD
+LED_Osram_Lx_P47F_D2mm_ReverseMount
+OSRAM, reverse-mount LED, SMD, 2mm diameter, http://www.farnell.com/datasheets/2711587.pdf
+LED ReverseMount Reverse
+0
+4
+2
+LED_SMD
+LED_PLCC-2
+LED PLCC-2 SMD package
+LED PLCC-2 SMD
+0
+2
+2
+LED_SMD
+LED_PLCC_2835
+https://www.luckylight.cn/media/component/data-sheet/R2835BC-B2M-M10.pdf
+LED
+0
+2
+2
+LED_SMD
+LED_PLCC_2835_Handsoldering
+https://www.luckylight.cn/media/component/data-sheet/R2835BC-B2M-M10.pdf
+LED
+0
+2
+2
+LED_SMD
+LED_RGB_1210
+RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
+LED 3227
+0
+4
+4
+LED_SMD
+LED_RGB_5050-6
+http://cdn.sparkfun.com/datasheets/Components/LED/5060BRG4.pdf
+RGB LED 5050-6
+0
+6
+6
+LED_SMD
+LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm
+http://www.farnell.com/datasheets/2003905.pdf
+LED RGB PLCC-6 CLP6C-FBK
+0
+6
+6
+LED_SMD
+LED_RGB_Everlight_EASV3015RGBA0_Horizontal
+LED, RGB, right-angle, clear, https://everlightamericas.com/index.php?controller=attachment&id_attachment=3220
+LED RGB right-angle
+0
+4
+4
+LED_SMD
+LED_RGB_Getian_GT-P6PRGB4303
+https://www.gme.sk/img/cache/doc/518/177/vykonova-led-getian-gt-p6prgb4303-datasheet-1.pdf
+LED RGB 
+0
+7
+7
+LED_SMD
+LED_RGB_PLCC-6
+RGB LED PLCC-6
+RGB LED PLCC-6
+0
+6
+6
+LED_SMD
+LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100
+3.2mm x 2.8mm PLCC4 LED, https://www.we-online.de/katalog/datasheet/150141M173100.pdf
+LED RGB Wurth PLCC-4
+0
+4
+4
+LED_SMD
+LED_ROHM_SMLVN6
+https://www.rohm.com/datasheet/SMLVN6RGB1U
+LED ROHM SMLVN6
+0
+6
+6
+LED_SMD
+LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm
+https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf
+LED RGB NeoPixel Nano
+0
+4
+4
+LED_SMD
+LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm
+https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+LED RGB NeoPixel Mini
+0
+4
+4
+LED_SMD
+LED_SK6812_EC15_1.5x1.5mm
+http://www.newstar-ledstrip.com/product/20181119172602110.pdf
+LED RGB NeoPixel
+0
+4
+4
+LED_SMD
+LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm
+https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf
+LED RGB NeoPixel
+0
+4
+4
+LED_SMD
+LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
+https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+LED RGB NeoPixel
+0
+4
+4
+LED_SMD
+LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm
+https://cdn-shop.adafruit.com/datasheets/WS2812.pdf
+LED RGB NeoPixel
+0
+6
+6
+LED_SMD
+LED_Yuji_5730
+LED,Yuji,5730,https://cdn.shopify.com/s/files/1/0344/6401/files/YJWJ014-1.1_YJ-BC-5730L-G02.pdf
+LED Yuji 5730
+0
+3
+2
+LED_SMD
+LED_miniPLCC_2315
+https://docs.broadcom.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadername3=MDT-Type&blobheadervalue1=attachment%3Bfilename%3DAV02-2205EN_DS_ASMT-TxBM_2014-05-09.pdf&blobheadervalue2=application%2Fx-download&blobheadervalue3=abinary%253B%2Bcharset%253DUTF-8&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1430858274704&ssbinary=true
+LED
+0
+2
+2
+LED_SMD
+LED_miniPLCC_2315_Handsoldering
+https://docs.broadcom.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadername3=MDT-Type&blobheadervalue1=attachment%3Bfilename%3DAV02-2205EN_DS_ASMT-TxBM_2014-05-09.pdf&blobheadervalue2=application%2Fx-download&blobheadervalue3=abinary%253B%2Bcharset%253DUTF-8&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1430858274704&ssbinary=true
+LED
+0
+2
+2
 MountingHole
 MountingHole_2.1mm
 Mounting Hole 2.1mm, no annular
@@ -12858,6 +16547,1336 @@ mounting hole 8.4mm m8
 0
 9
 1
+Package_TO_SOT_SMD
+ATPAK-2
+ATPAK SMD package, http://www.onsemi.com/pub/Collateral/ENA2192-D.PDF
+ATPAK 
+0
+7
+3
+Package_TO_SOT_SMD
+Analog_KS-4
+Analog Devices KS-4, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/sc70ks/ks_4.pdf
+Analog Devices KS-4 (like EIAJ SC-82)
+0
+4
+4
+Package_TO_SOT_SMD
+Diodes_SOT-553
+Diodes SOT-553, https://www.diodes.com/assets/Package-Files/SOT553.pdf
+SOT-553
+0
+5
+5
+Package_TO_SOT_SMD
+HVSOF5
+HVSOF5, http://rohmfs.rohm.com/en/techdata_basic/ic/package/hvsof5_1-e.pdf, http://rohmfs.rohm.com/en/products/databook/datasheet/ic/sensor/hall/bu52001gul-e.pdf
+HVSOF5
+0
+5
+5
+Package_TO_SOT_SMD
+HVSOF6
+HVSOF6, http://rohmfs.rohm.com/en/techdata_basic/ic/package/hvsof6_1-e.pdf, http://rohmfs.rohm.com/en/products/databook/datasheet/ic/audio_video/video_amplifier/bh76106hfv-e.pdf
+HVSOF6
+0
+7
+7
+Package_TO_SOT_SMD
+Infineon_PG-HDSOP-10-1
+Infineon PG-HDSOP-10-1 (DDPAK), 20.96x6.5x2.3mm, slug up (https://www.infineon.com/cms/en/product/packages/PG-HDSOP/PG-HDSOP-10-1/)
+hdsop 10 ddpak
+0
+10
+10
+Package_TO_SOT_SMD
+Infineon_PG-HSOF-8-1
+HSOF-8-1 [TOLL] power MOSFET (http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-1/)
+mosfet hsof toll
+0
+53
+3
+Package_TO_SOT_SMD
+Infineon_PG-HSOF-8-1_ThermalVias
+HSOF-8-1 [TOLL] power MOSFET (http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-1/)
+mosfet hsof toll thermal vias
+0
+96
+3
+Package_TO_SOT_SMD
+Infineon_PG-HSOF-8-2
+HSOF-8-2 [TOLL] power MOSFET (http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-2/)
+mosfet hsof toll
+0
+12
+4
+Package_TO_SOT_SMD
+Infineon_PG-HSOF-8-2_ThermalVias
+HSOF-8-2 [TOLL] power MOSFET (http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-2/)
+mosfet hsof toll thermal vias
+0
+97
+4
+Package_TO_SOT_SMD
+Infineon_PG-HSOF-8-2_ThermalVias2
+HSOF-8-2 [TOLL] power MOSFET (http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-2/, https://www.infineon.com/dgdl/Infineon-ApplicationNote_600V_CoolMOS_C7_Gold_TOLL-AN-v01_00-EN.pdf?fileId=5546d4625b10283a015b144a1af70df6)
+mosfet hsof toll thermal vias
+0
+159
+4
+Package_TO_SOT_SMD
+Infineon_PG-HSOF-8-3
+HSOF-8-3 power MOSFET (http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-3/)
+mosfet hsof
+0
+25
+4
+Package_TO_SOT_SMD
+Infineon_PG-HSOF-8-3_ThermalVias
+HSOF-8-3 power MOSFET (http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-3/)
+mosfet hsof
+0
+64
+4
+Package_TO_SOT_SMD
+Infineon_PG-TO-220-7Lead_TabPin8
+Infineon PG-TO-220-7, Tab as Pin 8, see e.g. https://www.infineon.com/dgdl/Infineon-BTS50055-1TMC-DS-v01_00-EN.pdf?fileId=5546d4625a888733015aa9b0007235e9
+Infineon PG-TO-220-7
+0
+12
+8
+Package_TO_SOT_SMD
+LFPAK33
+LFPAK33 SOT-1210 https://assets.nexperia.com/documents/outline-drawing/SOT1210.pdf
+LFPAK33 SOT-1210
+0
+17
+5
+Package_TO_SOT_SMD
+LFPAK56
+LFPAK56 https://assets.nexperia.com/documents/outline-drawing/SOT669.pdf
+LFPAK56 SOT-669 Power-SO8
+0
+18
+5
+Package_TO_SOT_SMD
+Nexperia_CFP15_SOT-1289
+Nexperia CFP15 (SOT-1289), https://assets.nexperia.com/documents/outline-drawing/SOT1289.pdf
+SOT-1289 CFP15
+0
+8
+3
+Package_TO_SOT_SMD
+OnSemi_ECH8
+On Semiconductor ECH8, https://www.onsemi.com/pub/Collateral/318BF.PDF
+ECH8 SOT28-FL SOT-28-FL
+0
+8
+8
+Package_TO_SOT_SMD
+PQFN_8x8
+Low Profile 8x8mm PQFN, Dual Cool 88, https://www.onsemi.com/pub/Collateral/FDMT80080DC-D.pdf
+pqfn vdfn mosfet
+0
+9
+3
+Package_TO_SOT_SMD
+PowerMacro_M234_NoHole
+TO-50-4 Power Macro Package Style M234
+TO-50-4 Power Macro Package Style M234
+0
+4
+4
+Package_TO_SOT_SMD
+PowerMacro_M234_WithHole
+TO-50-4 Power Macro Package Style M234
+TO-50-4 Power Macro Package Style M234
+0
+4
+4
+Package_TO_SOT_SMD
+Rohm_HRP7
+Rohm HRP7 SMD package, http://rohmfs.rohm.com/en/techdata_basic/ic/package/hrp7_1-e.pdf, http://rohmfs.rohm.com/en/products/databook/datasheet/ic/motor/dc/bd621x-e.pdf
+Rohm HRP7 SMD
+0
+69
+7
+Package_TO_SOT_SMD
+SC-59
+SC-59, https://lib.chipdip.ru/images/import_diod/original/SOT-23_SC-59.jpg
+SC-59
+0
+3
+3
+Package_TO_SOT_SMD
+SC-59_Handsoldering
+SC-59, hand-soldering varaint, https://lib.chipdip.ru/images/import_diod/original/SOT-23_SC-59.jpg
+SC-59 hand-soldering
+0
+3
+3
+Package_TO_SOT_SMD
+SC-70-8
+SC70-8
+SC70-8
+0
+8
+8
+Package_TO_SOT_SMD
+SC-70-8_Handsoldering
+SC70-8, Handsoldering
+SC70-8 Handsoldering
+0
+8
+8
+Package_TO_SOT_SMD
+SC-82AA
+SC-82AA
+SC-82AA
+0
+4
+4
+Package_TO_SOT_SMD
+SC-82AA_Handsoldering
+SC-82AA
+SC-82AA
+0
+4
+4
+Package_TO_SOT_SMD
+SC-82AB
+SC-82AB
+SC-82AB
+0
+4
+4
+Package_TO_SOT_SMD
+SC-82AB_Handsoldering
+SC-82AB
+SC-82AB
+0
+4
+4
+Package_TO_SOT_SMD
+SOT-23
+SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+3
+3
+Package_TO_SOT_SMD
+SOT-23-5
+SOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+5
+5
+Package_TO_SOT_SMD
+SOT-23-5_HandSoldering
+5-pin SOT23 package
+SOT-23-5 hand-soldering
+0
+5
+5
+Package_TO_SOT_SMD
+SOT-23-6
+SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+6
+6
+Package_TO_SOT_SMD
+SOT-23-6_Handsoldering
+6-pin SOT-23 package, Handsoldering
+SOT-23-6 Handsoldering
+0
+6
+6
+Package_TO_SOT_SMD
+SOT-23-8
+SOT, 8 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant BA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+8
+8
+Package_TO_SOT_SMD
+SOT-23-8_Handsoldering
+8-pin SOT-23 package, Handsoldering, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/sot-23rj/rj_8.pdf
+SOT-23-8 Handsoldering
+0
+8
+8
+Package_TO_SOT_SMD
+SOT-23W
+SOT-23W http://www.allegromicro.com/~/media/Files/Datasheets/A112x-Datasheet.ashx?la=en&hash=7BC461E058CC246E0BAB62433B2F1ECA104CA9D3
+SOT-23W
+0
+3
+3
+Package_TO_SOT_SMD
+SOT-23W_Handsoldering
+SOT-23W http://www.allegromicro.com/~/media/Files/Datasheets/A112x-Datasheet.ashx?la=en&hash=7BC461E058CC246E0BAB62433B2F1ECA104CA9D3
+SOT-23W for handsoldering
+0
+3
+3
+Package_TO_SOT_SMD
+SOT-23_Handsoldering
+SOT-23, Handsoldering
+SOT-23
+0
+3
+3
+Package_TO_SOT_SMD
+SOT-89-3
+SOT-89-3, http://ww1.microchip.com/downloads/en/DeviceDoc/3L_SOT-89_MB_C04-029C.pdf
+SOT-89-3
+0
+3
+3
+Package_TO_SOT_SMD
+SOT-89-3_Handsoldering
+SOT-89-3 Handsoldering
+SOT-89-3 Handsoldering
+0
+3
+3
+Package_TO_SOT_SMD
+SOT-89-5
+SOT-89-5, http://www.e-devices.ricoh.co.jp/en/products/product_power/pkg/sot-89-5.pdf
+SOT-89-5
+0
+5
+5
+Package_TO_SOT_SMD
+SOT-89-5_Handsoldering
+SOT-89-5, http://www.e-devices.ricoh.co.jp/en/products/product_power/pkg/sot-89-5.pdf
+SOT-89-5
+0
+5
+5
+Package_TO_SOT_SMD
+SOT-143
+SOT-143 https://www.nxp.com/docs/en/package-information/SOT143B.pdf
+SOT-143
+0
+4
+4
+Package_TO_SOT_SMD
+SOT-143R
+SOT-143R, reverse pinning, https://www.nxp.com/docs/en/package-information/SOT143R.pdf
+SOT-143R Reverse
+0
+4
+4
+Package_TO_SOT_SMD
+SOT-143R_Handsoldering
+SOT-143R, reverse pinning, Handsoldering, https://www.nxp.com/docs/en/package-information/SOT143R.pdf
+SOT-143 Reverse Handsoldering
+0
+4
+4
+Package_TO_SOT_SMD
+SOT-143_Handsoldering
+SOT-143 Handsoldering https://www.nxp.com/docs/en/package-information/SOT143B.pdf
+SOT-143 Handsoldering
+0
+4
+4
+Package_TO_SOT_SMD
+SOT-223
+module CMS SOT223 4 pins
+CMS SOT
+0
+4
+4
+Package_TO_SOT_SMD
+SOT-223-3_TabPin2
+module CMS SOT223 4 pins
+CMS SOT
+0
+4
+3
+Package_TO_SOT_SMD
+SOT-223-5
+module CMS SOT223 5 pins, http://ww1.microchip.com/downloads/en/DeviceDoc/51751a.pdf
+CMS SOT
+0
+5
+5
+Package_TO_SOT_SMD
+SOT-223-6
+module CMS SOT223 6 pins, http://www.ti.com/lit/ds/symlink/tps737.pdf
+CMS SOT
+0
+6
+6
+Package_TO_SOT_SMD
+SOT-223-6_TabPin3
+module CMS SOT223 6 pins, http://www.ti.com/lit/ds/symlink/tps737.pdf
+CMS SOT
+0
+6
+5
+Package_TO_SOT_SMD
+SOT-223-8
+module CMS SOT223 8 pins, https://www.diodes.com/assets/Datasheets/ZXSBMR16PT8.pdf
+CMS SOT
+0
+8
+8
+Package_TO_SOT_SMD
+SOT-323_SC-70
+SOT-323, SC-70
+SOT-323 SC-70
+0
+3
+3
+Package_TO_SOT_SMD
+SOT-323_SC-70_Handsoldering
+SOT-323, SC-70 Handsoldering
+SOT-323 SC-70 Handsoldering
+0
+3
+3
+Package_TO_SOT_SMD
+SOT-343_SC-70-4
+SOT-343, SC-70-4
+SOT-343 SC-70-4
+0
+4
+4
+Package_TO_SOT_SMD
+SOT-343_SC-70-4_Handsoldering
+SOT-343, SC-70-4, Handsoldering
+SOT-343 SC-70-4 Handsoldering
+0
+4
+4
+Package_TO_SOT_SMD
+SOT-353_SC-70-5
+SOT-353, SC-70-5
+SOT-353 SC-70-5
+0
+5
+5
+Package_TO_SOT_SMD
+SOT-353_SC-70-5_Handsoldering
+SOT-353, SC-70-5, Handsoldering
+SOT-353 SC-70-5 Handsoldering
+0
+5
+5
+Package_TO_SOT_SMD
+SOT-363_SC-70-6
+SOT-363, SC-70-6
+SOT-363 SC-70-6
+0
+6
+6
+Package_TO_SOT_SMD
+SOT-363_SC-70-6_Handsoldering
+SOT-363, SC-70-6, Handsoldering
+SOT-363 SC-70-6 Handsoldering
+0
+6
+6
+Package_TO_SOT_SMD
+SOT-383F
+8-pin SOT-383F, http://www.mouser.com/ds/2/80/CPDVR085V0C-HF-RevB-10783.pdf
+SOT-383F
+0
+9
+9
+Package_TO_SOT_SMD
+SOT-383FL
+8-pin SOT-383FL package, http://www.onsemi.com/pub_link/Collateral/ENA2267-D.PDF
+SOT-383FL
+0
+8
+8
+Package_TO_SOT_SMD
+SOT-416
+SOT-416, https://www.nxp.com/docs/en/package-information/SOT416.pdf
+SOT-416
+0
+3
+3
+Package_TO_SOT_SMD
+SOT-523
+SOT523, https://www.diodes.com/assets/Package-Files/SOT523.pdf
+SOT-523
+0
+3
+3
+Package_TO_SOT_SMD
+SOT-543
+SOT-543 4 lead surface package
+SOT-543 SC-107A EMD4
+0
+4
+4
+Package_TO_SOT_SMD
+SOT-553
+SOT553
+SOT-553
+0
+5
+5
+Package_TO_SOT_SMD
+SOT-563
+SOT563
+SOT-563
+0
+6
+6
+Package_TO_SOT_SMD
+SOT-665
+SOT665
+SOT-665
+0
+5
+5
+Package_TO_SOT_SMD
+SOT-666
+SOT666
+SOT-666
+0
+6
+6
+Package_TO_SOT_SMD
+SOT-723
+http://toshiba.semicon-storage.com/info/docget.jsp?did=5879&prodName=RN1104MFV
+sot 723
+0
+3
+3
+Package_TO_SOT_SMD
+SOT-883
+SOT-883, https://assets.nexperia.com/documents/outline-drawing/SOT883.pdf
+SOT-883
+0
+3
+3
+Package_TO_SOT_SMD
+SOT-886
+SOT-886
+SOT-886
+0
+6
+6
+Package_TO_SOT_SMD
+SOT-963
+SOT 963 6 pins package 1x0.8mm pitch 0.35mm
+SOT 963 6 pins package 1x0.8mm pitch 0.35mm
+0
+6
+6
+Package_TO_SOT_SMD
+SOT-1123
+SOT-1123 small outline transistor (see http://www.onsemi.com/pub/Collateral/NST3906F3-D.PDF)
+SOT-1123 transistor
+0
+3
+3
+Package_TO_SOT_SMD
+SOT-1333-1
+SOT-1333-1 
+SOT-1333-1 
+0
+9
+9
+Package_TO_SOT_SMD
+SOT-1334-1
+SOT-1334-1
+SOT-1334-1
+0
+14
+14
+Package_TO_SOT_SMD
+SuperSOT-3
+3-pin SuperSOT package https://www.fairchildsemi.com/package-drawings/MA/MA03B.pdf
+SuperSOT-3 SSOT-3
+0
+3
+3
+Package_TO_SOT_SMD
+SuperSOT-6
+6-pin SuperSOT package http://www.mouser.com/ds/2/149/FMB5551-889214.pdf
+SuperSOT-6 SSOT-6
+0
+6
+6
+Package_TO_SOT_SMD
+SuperSOT-8
+8-pin SuperSOT package, http://www.icbank.com/icbank_data/semi_package/ssot8_dim.pdf
+SuperSOT-8 SSOT-8
+0
+8
+8
+Package_TO_SOT_SMD
+TDSON-8-1
+Power MOSFET package, TDSON-8-1, 5.15x5.9mm (https://www.infineon.com/cms/en/product/packages/PG-TDSON/PG-TDSON-8-1/)
+tdson 
+0
+14
+5
+Package_TO_SOT_SMD
+TO-50-3_LongPad-NoHole_Housing
+TO-50-3 Macro T Package Style M236
+TO-50-3 Macro T Package Style M236
+0
+3
+3
+Package_TO_SOT_SMD
+TO-50-3_LongPad-WithHole_Housing
+TO-50-3 Macro T Package Style M236
+TO-50-3 Macro T Package Style M236
+0
+3
+3
+Package_TO_SOT_SMD
+TO-50-3_ShortPad-NoHole_Housing
+TO-50-3 Macro T Package Style M236
+TO-50-3 Macro T Package Style M236
+0
+3
+3
+Package_TO_SOT_SMD
+TO-50-3_ShortPad-WithHole_Housing
+TO-50-3 Macro T Package Style M236
+TO-50-3 Macro T Package Style M236
+0
+3
+3
+Package_TO_SOT_SMD
+TO-50-4_LongPad-NoHole_Housing
+TO-50-4 Macro X Package Style M238
+TO-50-4 Macro X Package Style M238
+0
+4
+4
+Package_TO_SOT_SMD
+TO-50-4_LongPad-WithHole_Housing
+TO-50-4 Macro X Package Style M238
+TO-50-4 Macro X Package Style M238
+0
+4
+4
+Package_TO_SOT_SMD
+TO-50-4_ShortPad-NoHole_Housing
+TO-50-4 Macro X Package Style M238
+TO-50-4 Macro X Package Style M238
+0
+4
+4
+Package_TO_SOT_SMD
+TO-50-4_ShortPad-WithHole_Housing
+TO-50-4 Macro X Package Style M238
+TO-50-4 Macro X Package Style M238
+0
+4
+4
+Package_TO_SOT_SMD
+TO-252-2
+TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/
+DPAK TO-252 DPAK-3 TO-252-3 SOT-428
+0
+7
+3
+Package_TO_SOT_SMD
+TO-252-2_TabPin1
+TO-252-2, tab to pin 1 https://www.wolfspeed.com/media/downloads/87/CSD01060.pdf
+TO-252-2 diode
+0
+7
+2
+Package_TO_SOT_SMD
+TO-252-3_TabPin2
+TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/
+DPAK TO-252 DPAK-3 TO-252-3 SOT-428
+0
+8
+3
+Package_TO_SOT_SMD
+TO-252-3_TabPin4
+TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/
+DPAK TO-252 DPAK-3 TO-252-3 SOT-428
+0
+8
+4
+Package_TO_SOT_SMD
+TO-252-4
+TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-5-11/
+DPAK TO-252 DPAK-5 TO-252-5
+0
+9
+5
+Package_TO_SOT_SMD
+TO-252-5_TabPin3
+TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-5-11/
+DPAK TO-252 DPAK-5 TO-252-5
+0
+10
+5
+Package_TO_SOT_SMD
+TO-252-5_TabPin6
+TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-5-11/
+DPAK TO-252 DPAK-5 TO-252-5
+0
+10
+6
+Package_TO_SOT_SMD
+TO-263-2
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-3-1/
+D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404
+0
+7
+3
+Package_TO_SOT_SMD
+TO-263-2_TabPin1
+TO-263 / D2PAK / DDPAK SMD package, tab to pin 1, https://www.wolfspeed.com/media/downloads/137/C3D06060G.pdf
+D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404 diode
+0
+7
+2
+Package_TO_SOT_SMD
+TO-263-3_TabPin2
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-3-1/
+D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404
+0
+8
+3
+Package_TO_SOT_SMD
+TO-263-3_TabPin4
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-3-1/
+D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404
+0
+8
+4
+Package_TO_SOT_SMD
+TO-263-4
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-5-1/
+D2PAK DDPAK TO-263 D2PAK-5 TO-263-5 SOT-426
+0
+9
+5
+Package_TO_SOT_SMD
+TO-263-5_TabPin3
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-5-1/
+D2PAK DDPAK TO-263 D2PAK-5 TO-263-5 SOT-426
+0
+10
+5
+Package_TO_SOT_SMD
+TO-263-5_TabPin6
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-5-1/
+D2PAK DDPAK TO-263 D2PAK-5 TO-263-5 SOT-426
+0
+10
+6
+Package_TO_SOT_SMD
+TO-263-6
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-7-1/
+D2PAK DDPAK TO-263 D2PAK-7 TO-263-7 SOT-427
+0
+11
+7
+Package_TO_SOT_SMD
+TO-263-7_TabPin4
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-7-1/
+D2PAK DDPAK TO-263 D2PAK-7 TO-263-7 SOT-427
+0
+12
+7
+Package_TO_SOT_SMD
+TO-263-7_TabPin8
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-7-1/
+D2PAK DDPAK TO-263 D2PAK-7 TO-263-7 SOT-427
+0
+12
+8
+Package_TO_SOT_SMD
+TO-263-9_TabPin5
+TO-263 / D2PAK / DDPAK SMD package, http://www.ti.com/lit/ds/symlink/lm4755.pdf
+D2PAK DDPAK TO-263 D2PAK-9 TO-263-9
+0
+14
+9
+Package_TO_SOT_SMD
+TO-263-9_TabPin10
+TO-263 / D2PAK / DDPAK SMD package, http://www.ti.com/lit/ds/symlink/lm4755.pdf
+D2PAK DDPAK TO-263 D2PAK-9 TO-263-9
+0
+14
+10
+Package_TO_SOT_SMD
+TO-268-2
+TO-268/D3PAK SMD package, http://www.icbank.com/icbank_data/semi_package/to268aa_dim.pdf
+D3PAK TO-268 D3PAK-3 TO-268-3
+0
+7
+3
+Package_TO_SOT_SMD
+TO-269AA
+SMD package TO-269AA (e.g. diode bridge), see http://www.vishay.com/docs/88854/padlayouts.pdf
+TO-269AA MBS diode bridge
+0
+4
+4
+Package_TO_SOT_SMD
+TO-277A
+Thermal enhanced ultra thin SMD package; 3 leads; body: 4.3x6.1x0.43mm, https://www.vishay.com/docs/95570/to-277asmpc.pdf
+TO-277A SMPC
+0
+12
+3
+Package_TO_SOT_SMD
+TO-277B
+TO-227B https://media.digikey.com/pdf/Data%20Sheets/Littelfuse%20PDFs/DST2050S.pdf
+TO-277B
+0
+9
+3
+Package_TO_SOT_SMD
+TSOT-23
+3-pin TSOT23 package, http://www.analog.com.tw/pdf/All_In_One.pdf
+TSOT-23
+0
+3
+3
+Package_TO_SOT_SMD
+TSOT-23-5
+TSOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/MO-193D.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOT TO_SOT_SMD
+0
+5
+5
+Package_TO_SOT_SMD
+TSOT-23-5_HandSoldering
+5-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_5_05-08-1635.pdf
+TSOT-23-5 Hand-soldering
+0
+5
+5
+Package_TO_SOT_SMD
+TSOT-23-6
+TSOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/MO-193D.pdf variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOT TO_SOT_SMD
+0
+6
+6
+Package_TO_SOT_SMD
+TSOT-23-6_HandSoldering
+6-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_6_05-08-1636.pdf
+TSOT-23-6 MK06A TSOT-6 Hand-soldering
+0
+6
+6
+Package_TO_SOT_SMD
+TSOT-23-8
+TSOT, 8 Pin (https://www.jedec.org/sites/default/files/docs/MO-193D.pdf variant BA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOT TO_SOT_SMD
+0
+8
+8
+Package_TO_SOT_SMD
+TSOT-23-8_HandSoldering
+8-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_8_05-08-1637.pdf
+TSOT-23-8 Hand-soldering
+0
+8
+8
+Package_TO_SOT_SMD
+TSOT-23_HandSoldering
+5-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_5_05-08-1635.pdf
+TSOT-23 Hand-soldering
+0
+3
+3
+Package_TO_SOT_SMD
+Texas_DRT-3
+Texas Instrument DRT-3 1x0.8mm Pitch 0.7mm http://www.ti.com/lit/ds/symlink/tpd2eusb30.pdf
+DRT-3 1x0.8mm Pitch 0.7mm
+0
+3
+3
+Package_TO_SOT_SMD
+Texas_NDQ
+Texas Instruments, NDQ, 5 pin (https://www.ti.com/lit/ml/mmsf022/mmsf022.pdf)
+ti pfm dap
+0
+6
+6
+Package_TO_SOT_SMD
+Texas_NDY0011A
+TO-PMOD-11 11-pin switching regulator package, http://www.ti.com/lit/ml/mmsf025/mmsf025.pdf
+Texas TO-PMOD NDY00011A
+0
+12
+12
+Package_TO_SOT_SMD
+Texas_R-PDSO-G6
+R-PDSO-G6, http://www.ti.com/lit/ds/slis144b/slis144b.pdf
+R-PDSO-G6 SC-70-6
+0
+6
+6
+Package_TO_SOT_SMD
+VSOF5
+VSOF5
+VSOF5
+0
+5
+5
+Package_TO_SOT_SMD
+Vishay_PowerPAK_SC70-6L_Dual
+Vishay PowerPAK SC70 dual transistor package http://www.vishay.com/docs/70487/70487.pdf
+powerpak sc70 sc-70 dual
+0
+8
+6
+Package_TO_SOT_SMD
+Vishay_PowerPAK_SC70-6L_Single
+Vishay PowerPAK SC70 single transistor package http://www.vishay.com/docs/70486/70486.pdf
+powerpak sc70 sc-70
+0
+6
+3
+Resistor_SMD
+R_0201_0603Metric
+Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+resistor
+0
+4
+2
+Resistor_SMD
+R_0201_0603Metric_Pad0.64x0.40mm_HandSolder
+Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+4
+2
+Resistor_SMD
+R_0402_1005Metric
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Resistor_SMD
+R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+Resistor_SMD
+R_0603_1608Metric
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Resistor_SMD
+R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+Resistor_SMD
+R_0612_1632Metric
+Resistor SMD 0612 (1632 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20019/rcwe.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Resistor_SMD
+R_0612_1632Metric_Pad1.18x3.40mm_HandSolder
+Resistor SMD 0612 (1632 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20019/rcwe.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+Resistor_SMD
+R_0805_2012Metric
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Resistor_SMD
+R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+Resistor_SMD
+R_0815_2038Metric
+Resistor SMD 0815 (2038 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.susumu.co.jp/common/pdf/n_catalog_partition07_en.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Resistor_SMD
+R_0815_2038Metric_Pad1.20x4.05mm_HandSolder
+Resistor SMD 0815 (2038 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.susumu.co.jp/common/pdf/n_catalog_partition07_en.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+Resistor_SMD
+R_01005_0402Metric
+Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
+resistor
+0
+4
+2
+Resistor_SMD
+R_01005_0402Metric_Pad0.57x0.30mm_HandSolder
+Resistor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+4
+2
+Resistor_SMD
+R_1020_2550Metric
+Resistor SMD 1020 (2550 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20019/rcwe.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Resistor_SMD
+R_1020_2550Metric_Pad1.33x5.20mm_HandSolder
+Resistor SMD 1020 (2550 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20019/rcwe.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+Resistor_SMD
+R_1206_3216Metric
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Resistor_SMD
+R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+Resistor_SMD
+R_1210_3225Metric
+Resistor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Resistor_SMD
+R_1210_3225Metric_Pad1.30x2.65mm_HandSolder
+Resistor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+Resistor_SMD
+R_1218_3246Metric
+Resistor SMD 1218 (3246 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20035/dcrcwe3.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Resistor_SMD
+R_1218_3246Metric_Pad1.22x4.75mm_HandSolder
+Resistor SMD 1218 (3246 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20035/dcrcwe3.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+Resistor_SMD
+R_1812_4532Metric
+Resistor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Resistor_SMD
+R_1812_4532Metric_Pad1.30x3.40mm_HandSolder
+Resistor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+Resistor_SMD
+R_2010_5025Metric
+Resistor SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Resistor_SMD
+R_2010_5025Metric_Pad1.40x2.65mm_HandSolder
+Resistor SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+Resistor_SMD
+R_2512_6332Metric
+Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Resistor_SMD
+R_2512_6332Metric_Pad1.40x3.35mm_HandSolder
+Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+Resistor_SMD
+R_2816_7142Metric
+Resistor SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Resistor_SMD
+R_2816_7142Metric_Pad3.20x4.45mm_HandSolder
+Resistor SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+Resistor_SMD
+R_4020_10251Metric
+Resistor SMD 4020 (10251 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://datasheet.octopart.com/HVC0603T5004FET-Ohmite-datasheet-26699797.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Resistor_SMD
+R_4020_10251Metric_Pad1.65x5.30mm_HandSolder
+Resistor SMD 4020 (10251 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://datasheet.octopart.com/HVC0603T5004FET-Ohmite-datasheet-26699797.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+Resistor_SMD
+R_Array_Concave_2x0603
+Thick Film Chip Resistor Array, Wave soldering, Vishay CRA06P (see cra06p.pdf)
+resistor array
+0
+4
+4
+Resistor_SMD
+R_Array_Concave_4x0402
+Thick Film Chip Resistor Array, Wave soldering, Vishay CRA04P (see cra04p.pdf)
+resistor array
+0
+8
+8
+Resistor_SMD
+R_Array_Concave_4x0603
+Thick Film Chip Resistor Array, Wave soldering, Vishay CRA06P (see cra06p.pdf)
+resistor array
+0
+8
+8
+Resistor_SMD
+R_Array_Convex_2x0402
+Chip Resistor Network, ROHM MNR02 (see mnr_g.pdf)
+resistor array
+0
+4
+4
+Resistor_SMD
+R_Array_Convex_2x0603
+Chip Resistor Network, ROHM MNR12 (see mnr_g.pdf)
+resistor array
+0
+4
+4
+Resistor_SMD
+R_Array_Convex_2x0606
+Precision Thin Film Chip Resistor Array, VISHAY (see http://www.vishay.com/docs/28770/acasat.pdf)
+resistor array
+0
+4
+4
+Resistor_SMD
+R_Array_Convex_2x1206
+Chip Resistor Network, ROHM MNR32 (see mnr_g.pdf)
+resistor array
+0
+4
+4
+Resistor_SMD
+R_Array_Convex_4x0402
+Chip Resistor Network, ROHM MNR04 (see mnr_g.pdf)
+resistor array
+0
+8
+8
+Resistor_SMD
+R_Array_Convex_4x0603
+Chip Resistor Network, ROHM MNR14 (see mnr_g.pdf)
+resistor array
+0
+8
+8
+Resistor_SMD
+R_Array_Convex_4x0612
+Precision Thin Film Chip Resistor Array, VISHAY (see http://www.vishay.com/docs/28770/acasat.pdf)
+resistor array
+0
+8
+8
+Resistor_SMD
+R_Array_Convex_4x1206
+Chip Resistor Network, ROHM MNR34 (see mnr_g.pdf)
+resistor array
+0
+8
+8
+Resistor_SMD
+R_Array_Convex_5x0603
+Chip Resistor Network, ROHM MNR15 (see mnr_g.pdf)
+resistor array
+0
+10
+10
+Resistor_SMD
+R_Array_Convex_5x1206
+Chip Resistor Network, ROHM MNR35 (see mnr_g.pdf)
+resistor array
+0
+10
+10
+Resistor_SMD
+R_Array_Convex_8x0602
+Chip Resistor Network, ROHM MNR18 (see mnr_g.pdf)
+resistor array
+0
+16
+16
+Resistor_SMD
+R_Cat16-2
+SMT resistor net, Bourns CAT16 series, 2 way
+SMT resistor net Bourns CAT16 series 2 way
+0
+4
+4
+Resistor_SMD
+R_Cat16-4
+SMT resistor net, Bourns CAT16 series, 4 way
+SMT resistor net Bourns CAT16 series 4 way
+0
+8
+8
+Resistor_SMD
+R_Cat16-8
+SMT resistor net, Bourns CAT16 series, 8 way
+SMT resistor net Bourns CAT16 series 8 way
+0
+16
+16
+Resistor_SMD
+R_MELF_MMB-0207
+Resistor, MELF, MMB-0207, http://www.vishay.com/docs/28713/melfprof.pdf
+MELF Resistor
+0
+2
+2
+Resistor_SMD
+R_MicroMELF_MMU-0102
+Resistor, MicroMELF, MMU-0102, http://www.vishay.com/docs/28713/melfprof.pdf
+MicroMELF Resistor
+0
+2
+2
+Resistor_SMD
+R_MiniMELF_MMA-0204
+Resistor, MiniMELF, MMA-0204, http://www.vishay.com/docs/28713/melfprof.pdf
+MiniMELF Resistor
+0
+2
+2
+Resistor_SMD
+R_Shunt_Ohmite_LVK12
+4 contact shunt resistor
+shunt resistor 4 contacts
+0
+4
+4
+Resistor_SMD
+R_Shunt_Ohmite_LVK20
+4 contacts shunt resistor, https://www.ohmite.com/assets/docs/res_lvk.pdf
+4 contacts resistor smd
+0
+4
+4
+Resistor_SMD
+R_Shunt_Ohmite_LVK24
+4 contacts shunt resistor,https://www.ohmite.com/assets/docs/res_lvk.pdf
+4 contacts resistor smd
+0
+4
+4
+Resistor_SMD
+R_Shunt_Ohmite_LVK25
+4 contacts shunt resistor,https://www.ohmite.com/assets/docs/res_lvk.pdf
+4 contacts resistor smd
+0
+4
+4
+Resistor_SMD
+R_Shunt_Vishay_WSK2512_6332Metric_T1.19mm
+Shunt Resistor SMD 2512 (6332 Metric), 2.6mm thick, Vishay WKS2512, Terminal length (T) 1.19mm, 5 to 200 milli Ohm (http://http://www.vishay.com/docs/30108/wsk.pdf)
+resistor shunt WSK2512
+0
+4
+4
+Resistor_SMD
+R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm
+Shunt Resistor SMD 2512 (6332 Metric), 2.6mm thick, Vishay WKS2512, Terminal length (T) 2.21mm, 1 to 4.9 milli Ohm (http://http://www.vishay.com/docs/30108/wsk.pdf)
+resistor shunt WSK2512
+0
+4
+4
+Resistor_SMD
+R_Shunt_Vishay_WSK2512_6332Metric_T2.66mm
+Shunt Resistor SMD 2512 (6332 Metric), 2.6mm thick, Vishay WKS2512, Terminal length (T) 2.66mm, 0.5 to 0.99 milli Ohm (http://http://www.vishay.com/docs/30108/wsk.pdf)
+resistor shunt WSK2512
+0
+4
+4
+Resistor_SMD
+R_Shunt_Vishay_WSKW0612
+https://www.vishay.com/docs/30332/wskw0612.pdf
+4-Terminal SMD Shunt
+0
+4
+4
+Resistor_SMD
+R_Shunt_Vishay_WSR2_WSR3
+Power Metal Strip Resistors 0.005 to 0.2, https://www.vishay.com/docs/30101/wsr.pdf
+SMD Shunt Resistor
+0
+2
+2
+Resistor_SMD
+R_Shunt_Vishay_WSR2_WSR3_KelvinConnection
+Power Metal Strip Resistors 0.005 to 0.2, https://www.vishay.com/docs/30101/wsr.pdf
+SMD Shunt Resistor
+0
+4
+2
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
@@ -14258,3 +19277,255 @@ test point THT pad
 0
 1
 1
+Transformer_SMD
+Pulse_P0926NL
+SMT Gate Drive Transformer, 1:1:1, 8.0x6.3x5.3mm (https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf)
+pulse pa0926nl
+0
+6
+6
+Transformer_SMD
+Pulse_PA1323NL
+SMT Gate Drive Transformer, 1:1, 9.5x7.1x5.3mm (https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf)
+pulse pa1323nl
+0
+6
+6
+Transformer_SMD
+Pulse_PA2001NL
+SMT Gate Drive Transformer, 1:1, 8.6x6.7x2.5mm (https://productfinder.pulseeng.com/products/datasheets/P663.pdf)
+pulse pa2001nl pe-68386nl
+0
+4
+4
+Transformer_SMD
+Pulse_PA2002NL-PA2008NL-PA2009NL
+SMT Gate Drive Transformer, 1:1:1 or 2:1:1 or 2.5:1:1 or 1:1, 9.0x8.6x7.6mm (https://productfinder.pulseeng.com/products/datasheets/P663.pdf)
+pulse pa2002nl pa2008nl pa2009nl p0544nl pa0184nl pa0297nl pa0510nl
+0
+6
+6
+Transformer_SMD
+Pulse_PA2004NL
+SMT Gate Drive Transformer, 1:1:1, 8.6x6.7x3.6mm (https://productfinder.pulseeng.com/products/datasheets/P663.pdf)
+pulse pa2004nl pa0264nl
+0
+6
+6
+Transformer_SMD
+Pulse_PA2005NL
+SMT Gate Drive Transformer, 1:1:1, 11.8x8.8x4.0mm (https://productfinder.pulseeng.com/products/datasheets/P663.pdf)
+pulse pa2005nl pa0173nl
+0
+6
+6
+Transformer_SMD
+Pulse_PA2006NL
+SMT Gate Drive Transformer, 1:1, 11.8x8.8x4.0mm (https://productfinder.pulseeng.com/products/datasheets/P663.pdf)
+pulse pa2006nl pa0186nl
+0
+4
+4
+Transformer_SMD
+Pulse_PA2007NL
+SMT Gate Drive Transformer, 1:1, 9.0x8.6x7.6mm (https://productfinder.pulseeng.com/products/datasheets/P663.pdf)
+pulse pa2007nl
+0
+4
+4
+Transformer_SMD
+Pulse_PA2777NL
+SMT Gate Drive Transformer, 1:1, 7.1x6.1x5.5mm (https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf)
+pulse pa2777nl
+0
+8
+8
+Transformer_SMD
+Pulse_PA3493NL
+SMT Gate Drive Transformer, 1.25:1, 10.9x9.7x2.7mm (https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf)
+pulse pa3493nl
+0
+4
+4
+Transformer_SMD
+Transformer_Coilcraft_CST1
+Current sense transformer, SMD, 8.0x8.13x5.3mm (https://www.coilcraft.com/pdfs/cst.pdf)
+Transformer current sense SMD
+0
+8
+8
+Transformer_SMD
+Transformer_Coilcraft_CST2
+Current sense transformer, SMD, 8.0x8.13x5.3mm (https://www.coilcraft.com/pdfs/cst.pdf)
+Transformer current sense SMD
+0
+8
+8
+Transformer_SMD
+Transformer_Coilcraft_CST2010
+Current sense transformer, SMD, 14.55x19.91x10.50mm (https://www.coilcraft.com/pdfs/cst2010.pdf)
+Transformer current sense SMD
+0
+12
+12
+Transformer_SMD
+Transformer_CurrentSense_8.4x7.2mm
+Transformer current sense SMD 8.4x7.2mm
+Transformer current sense SMD
+0
+8
+8
+Transformer_SMD
+Transformer_Ethernet_Bel_S558-5999-T7-F
+Ethernet Transformer, Bel S558-5999-T7-F, https://www.belfuse.com/resources/ICMs/lan-/S558-5999-T7-F.pdf
+Ethernet Transformer
+0
+16
+16
+Transformer_SMD
+Transformer_Ethernet_Bourns_PT61017PEL
+https://www.bourns.com/docs/Product-Datasheets/PT61017PEL.pdf
+Transformer Ethernet Single Center-Tap
+0
+16
+16
+Transformer_SMD
+Transformer_Ethernet_HALO_TG111-MSC13
+Transformer Ethernet SMD, https://www.haloelectronics.com/pdf/discrete-genesus.pdf
+Transformer Ethernet SMD
+0
+24
+24
+Transformer_SMD
+Transformer_Ethernet_Halo_N2_SO-16_7.11x12.7mm
+Halo N2 SO, 16 Pin (https://www.haloelectronics.com/pdf/discrete-ultra-100baset.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+Halo SO Transformer_SMD
+0
+16
+16
+Transformer_SMD
+Transformer_Ethernet_Halo_N5_SO-16_7.11x12.7mm
+Halo N5 SO, 16 Pin (https://www.haloelectronics.com/pdf/discrete-ultra-100baset.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+Halo SO Transformer_SMD
+0
+16
+16
+Transformer_SMD
+Transformer_Ethernet_Halo_N6_SO-16_7.11x14.73mm
+Halo N6 SO, 16 Pin (https://www.haloelectronics.com/pdf/discrete-ultra-100baset.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+Halo SO Transformer_SMD
+0
+16
+16
+Transformer_SMD
+Transformer_Ethernet_Wuerth_749013011A
+Ethernet Transformer, Wuerth 749013011A, https://www.we-online.com/katalog/datasheet/749013011A.pdf
+Ethernet Transformer
+0
+16
+16
+Transformer_SMD
+Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm
+YDS 30F-51NL SO, 24 Pin (https://datasheet.lcsc.com/lcsc/1811051610_Shanghai-YDS-Tech-30F-51NL_C123168.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+YDS SO Transformer_SMD
+0
+24
+24
+Transformer_SMD
+Transformer_MACOM_SM-22
+https://cdn.macom.com/datasheets/ETC1-1-13.pdf
+RF Transformer
+0
+5
+5
+Transformer_SMD
+Transformer_Murata_78250JC
+Murata 78250JC https://www.murata-ps.com/datasheet?/data/magnetics/kmp_78250j.pdf
+Murata transformer
+0
+6
+6
+Transformer_SMD
+Transformer_NF_ETAL_P2781
+NF-Transformer, ETAL, P2781, SMD,
+NF-Transformer ETAL P2781 SMD 
+0
+8
+7
+Transformer_SMD
+Transformer_NF_ETAL_P2781_HandSoldering
+NF-Transformer, ETAL, P2781, SMD, Handsoldering
+NF-Transformer ETAL P2781 SMD Handsoldering 
+0
+8
+7
+Transformer_SMD
+Transformer_NF_ETAL_P3000
+NF-Reansformer, ETAL, P3000, SMD,
+NF-Reansformer ETAL P3000 SMD 
+0
+15
+13
+Transformer_SMD
+Transformer_NF_ETAL_P3000_HandSoldering
+NF-Reansformer, ETAL, P3000, SMD, Handsoldering,
+NF-Reansformer ETAL P3000 SMD Handsoldering 
+0
+15
+13
+Transformer_SMD
+Transformer_NF_ETAL_P3181
+NF-Transformer, ETAL, P3181, SMD,
+NF-Transformer ETAL P3181 SMD 
+0
+7
+6
+Transformer_SMD
+Transformer_NF_ETAL_P3181_HandSoldering
+NF-Transformer, ETAL, P3181, SMD, Hand Soldering,
+NF-Transformer ETAL P3181 SMD Hand Soldering 
+0
+7
+6
+Transformer_SMD
+Transformer_NF_ETAL_P3188
+NF-Transformer, ETAL, P3188, SMD,
+NF-Transformer ETAL P3188 SMD 
+0
+8
+6
+Transformer_SMD
+Transformer_NF_ETAL_P3188_HandSoldering
+NF-Transformer, ETAL, P3188, SMD, Handsoldering,
+NF-Transformer ETAL P3188 SMD Handsoldering 
+0
+8
+6
+Transformer_SMD
+Transformer_NF_ETAL_P3191
+NF-Transformer, ETAL, P3191, SMD,
+NF-Transformer ETAL P3191 SMD 
+0
+8
+6
+Transformer_SMD
+Transformer_NF_ETAL_P3191_HandSoldering
+NF-Transformer, ETAL, P3191, SMD, Handsoldering,
+NF-Transformer ETAL P3191 SMD Handsoldering 
+0
+8
+6
+Transformer_SMD
+Transformer_Pulse_H1100NL
+For H1100NL, H1101NL, H1102NL, H1121NL, H1183NL, H1199NL, HX1188NL, HX1198NL and H1302NL. https://productfinder.pulseeng.com/doc_type/WEB301/doc_num/H1102NL/doc_part/H1102NL.pdf
+H1100NL H1101NL H1102NL H1121NL H1183NL H1199NL HX1188NL HX1198NL H1302N
+0
+16
+16
+Transformer_SMD
+Transformer_Wuerth_750315371
+Power Transformer, horizontal core with bobbin, 6 pin, 2.54mm pitch, 11.24mm row spacing, 12.6x8.3x4.1mm
+transformer flyback
+0
+6
+6

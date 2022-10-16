@@ -120,7 +120,8 @@
       },
       "track_widths": [
         0.0,
-        0.15
+        0.15,
+        0.5
       ],
       "via_dimensions": [
         {
@@ -385,8 +386,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "../assets/S3-44-to-33-FPC.step",
+      "vrml": "../assets/S3-44-to-33-FPC.wrl"
     },
     "page_layout_descr_file": ""
   },
