@@ -1815,7 +1815,7 @@
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000606b755b)
     (property "Reference" "L1" (id 0) (at 100.33 68.58 0))
-    (property "Value" "10uH" (id 1) (at 96.52 66.04 0))
+    (property "Value" "10uH1.2A" (id 1) (at 96.52 66.04 0))
     (property "Footprint" "footprint:SWPA4030S1R0NT" (id 2) (at 102.87 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2056,8 +2056,8 @@
   (symbol (lib_id "Device:R") (at 66.04 95.25 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 26f0ec47-762d-48be-8b02-92b36d0b4747)
-    (property "Reference" "R1" (id 0) (at 66.04 90.17 90))
-    (property "Value" "10K" (id 1) (at 66.04 92.71 90))
+    (property "Reference" "R1" (id 0) (at 64.77 92.71 90))
+    (property "Value" "10K" (id 1) (at 66.04 95.25 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 66.04 97.028 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2753,7 +2753,7 @@
       (reference "JP1") (unit 1) (value "selector") (footprint "footprint:switch-MK-12C02-G020")
     )
     (path "/00000000-0000-0000-0000-0000606b755b"
-      (reference "L1") (unit 1) (value "10uH") (footprint "footprint:SWPA4030S1R0NT")
+      (reference "L1") (unit 1) (value "10uH1.2A") (footprint "footprint:SWPA4030S1R0NT")
     )
     (path "/1a5d76b5-2b80-407b-8008-ac6c52d49a13"
       (reference "Q1") (unit 1) (value "Si1308") (footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
