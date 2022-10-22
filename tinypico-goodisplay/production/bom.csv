@@ -1,0 +1,14 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"C5,C8,C4,C6";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";4;"1uF";;;
+2;"C1,C7,C9,C2,C10,C3";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";6;"4.7uF";;;
+3;"Q1";"SOT-323_SC-70";1;"Si1308";;;
+4;"R3";"R_0603_1608Metric";1;"3R";;;
+5;"C12";"C_0603_1608Metric";1;"4.7uF";;;
+6;"JP1";"switch-MK-12C02-G020";1;"selector";;;
+7;"D1,D3,D2";"D_SOD-123";3;"MBR0530";;;
+8;"R2";"R_0603_1608Metric";1;"0.47R";;;
+9;"L1";"SWPA4030S1R0NT";1;"10uH";;;
+10;"R1";"R_0603_1608Metric";1;"10K";;;
+11;"U1";"TinyESP32";1;"TinypicoESP32_Symbol";;;
+12;"J1";"AFC24-S24FIC-00";1;"AFC24-S24FIC-00";;;
+13;"C11";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";1;"4.7uF 50V";;;
