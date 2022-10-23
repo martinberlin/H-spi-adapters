@@ -1,4 +1,4 @@
-5182437880162086
+5184121482015385
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -21836,6 +21836,13 @@ footprint
 C964716_LR44
 
 
+0
+2
+2
+footprint
+CR12202ZX
+CR1220-2ZX
+Integrated Circuit
 0
 2
 2
