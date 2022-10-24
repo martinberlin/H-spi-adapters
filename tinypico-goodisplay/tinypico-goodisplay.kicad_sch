@@ -2257,6 +2257,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8caf6be2-fa2e-4d8c-ad93-c98bd6c20fa2)
   )
+  (text "This are ESP32 IOs. Corresponding pins for \nS3 are in the PCB Silkscreen on the back"
+    (at 199.39 68.58 0)
+    (effects (font (size 1.4 1.4)) (justify left bottom))
+    (uuid 98e5e969-7d12-4341-9c31-cc0c1d59e798)
+  )
   (text "S" (at 66.04 92.71 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 9fd2e9c7-6f7d-4d02-8ad5-e1e8ec19c253)
