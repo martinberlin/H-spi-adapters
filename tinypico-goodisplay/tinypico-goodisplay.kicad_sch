@@ -2266,11 +2266,6 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 9fd2e9c7-6f7d-4d02-8ad5-e1e8ec19c253)
   )
-  (text "NO pins to put INT\nit will be exposed\nin a Touch Point"
-    (at 171.45 54.61 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid a2f98d3b-3a69-43f8-8fc2-e614cb361c2e)
-  )
   (text "VGL" (at 41.91 110.49 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ad8e174b-aa98-40a9-b500-b13ea2ac7525)
