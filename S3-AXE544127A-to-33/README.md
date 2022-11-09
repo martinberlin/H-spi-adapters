@@ -12,7 +12,4 @@ In short: The aim of this adapter is to use a cheap Lilygo S3 board with all it'
 
 ![3d](assets/3D-top.png)
 
-How it will fit the Lilygo S3 board:
-
-![Lilygo S3 PCB](assets/Lilygo-S3-board.jpg)
 
