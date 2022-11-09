@@ -9,6 +9,8 @@
     (date "2022-09-23")
     (rev "1.0")
     (company "Fasani Corp.")
+    (comment 1 "Please check Tindie product page for more details")
+    (comment 2 "https://github.com/martinberlin/H-spi-adapters/tree/master/S3-AXE544127A-to-33")
   )
 
   (lib_symbols
