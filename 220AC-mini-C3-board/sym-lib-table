@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "PBO")(type "KiCad")(uri "${KIPRJMOD}/parts/PBO-3C.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32S3")(type "KiCad")(uri "${KIPRJMOD}/parts/ESP32-C3-MINI-1-N4.kicad_sym")(options "")(descr ""))
+)
