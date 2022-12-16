@@ -1,4 +1,4 @@
-5223500008129090
+5225173217984071
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -21897,6 +21897,13 @@ transformer flyback
 6
 footprint
 5STP 1.25-R
+
+
+0
+2
+2
+footprint
+CC1808KKX7RCBB102
 
 
 0
