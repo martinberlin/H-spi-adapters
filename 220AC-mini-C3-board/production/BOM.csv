@@ -1,0 +1,11 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"C3";"CP_Elec_10x10";1;"C 150uF";;;
+2;"C2";"CP_Elec_10x10";1;"C";;;
+3;"C1";"CP_Elec_16x17.5";1;"C";;;
+4;"R1";"SMW212RJT";1;"R";;;
+5;"F1";"5STP 1.25-R";1;"Fuse";;;
+6;"J1,J2";"Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork";2;"Conn_01x01";;;
+7;"CY1";"CC1808KKX7RCBB102";1;"C";;;
+8;"U1";"PBO-3C-3";1;"PBO-3C-3";;;
+9;"J3";"PinHeader_1x02_P2.00mm_Vertical";1;"Conn_01x02_Female";;;
+10;"L1";"SMDRI127-470MT";1;"L";;;
