@@ -47,10 +47,9 @@
   (pad "6" smd rect (at -1.25 -1.139) (size 0.3048 0.8128) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f6c9d325-c577-4101-9e29-9e581ac75872))
   (pad "7" smd rect (at -2.250001 1.374122) (size 0.4064 0.8128) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp faaf9f5d-b441-4ce9-a6ed-9974052bfd42))
   (pad "8" smd rect (at 2.250001 1.374122) (size 0.4064 0.8128) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5522b276-1a6a-456c-807f-c62956d719be))
-  (model "${KIPRJMOD}/components/3d/FH34SRJ-6S-0.5SH50-Hirose.step"
+  (model "${KIPRJMOD}/parts/3d/FH34SRJ-6S-0.5SH50-Hirose.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
-

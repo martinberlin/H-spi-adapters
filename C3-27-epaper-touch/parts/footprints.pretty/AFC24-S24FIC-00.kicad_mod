@@ -65,8 +65,8 @@
   (pad "25" smd rect (at -7.4 0.954399) (size 1.8034 2.0066) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ce78fa1f-be8a-4df9-98ed-0a8e6bd5479c))
   (pad "26" smd rect (at 7.4 0.954399) (size 1.8034 2.0066) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 85afd85e-6260-420a-9529-09af184b3810))
   (model "${KIPRJMOD}/parts/3d/FH12-24S-0.5SH_55_.step"
-    (offset (xyz 15.95 -10 -117.95))
+    (offset (xyz 16 -10 -118))
     (scale (xyz 1 1 1))
-    (rotate (xyz -180 90 0))
+    (rotate (xyz 90 90 90))
   )
 )

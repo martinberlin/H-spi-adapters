@@ -48,7 +48,7 @@
   (pad "2" smd rect (at 1.4986 0) (size 1.0922 3.7084) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d89abfb4-a991-4c64-bb57-1eb3ba30159c))
   (model "${KIPRJMOD}/parts/3d/L-40xx.STEP"
     (offset (xyz 0 0 0))
-    (scale (xyz 0.8 0.8 1))
+    (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
 )
