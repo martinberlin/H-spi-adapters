@@ -40,4 +40,9 @@
   (pad "1" thru_hole rect (at 0 0) (size 1.3208 1.3208) (drill 0.8128) (layers *.Cu *.Mask) (tstamp 37d31f07-38d5-4e5e-9d8c-73d082ff48a2))
   (pad "2" thru_hole circle (at 2.6 0) (size 1.3208 1.3208) (drill 0.8128) (layers *.Cu *.Mask) (tstamp a0d605c8-b4a2-46f4-9007-a4eb9d12529b))
   (pad "3" thru_hole circle (at 5.2 0) (size 1.3208 1.3208) (drill 0.8128) (layers *.Cu *.Mask) (tstamp 50380930-d847-4597-a16a-74a8dbb12e4f))
+  (model "${KIPRJMOD}/parts/3d/TO-92-3L_5P33X5P2_ONS.step"
+    (offset (xyz 0 0 0.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

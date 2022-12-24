@@ -1,4 +1,4 @@
-7746057971885896
+7747729867125362
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -32493,6 +32493,13 @@ CC1808KKX7RCBB102
 0
 2
 2
+footprint
+HF163FL24HL2T
+HF163F-L/24-HL2T-2
+Relay or Contactor
+0
+5
+5
 footprint
 MountingHole_2.2mm_M2
 Mounting Hole 2.2mm, no annular, M2
