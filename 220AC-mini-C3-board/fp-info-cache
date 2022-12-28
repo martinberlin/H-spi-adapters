@@ -1,4 +1,4 @@
-7747729867125362
+7749402373878957
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -32476,6 +32476,13 @@ footprint
 0443001.DR
 
 
+0
+2
+2
+footprint
+1729128-screw-terminal
+1729128
+Connector
 0
 2
 2
