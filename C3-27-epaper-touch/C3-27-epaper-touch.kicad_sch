@@ -4036,6 +4036,23 @@
     (pin "9" (uuid 338370e4-e619-4a89-82b9-6e3803ebad2a))
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 133.35 184.15 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 695e7040-9eb8-4818-b432-6ea83223f7af)
+    (property "Reference" "H6" (id 0) (at 135.89 183.3153 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "MountingHole" (id 1) (at 135.89 185.8522 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "footprint:MountingHole_2.2mm_M2" (id 2) (at 133.35 184.15 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 133.35 184.15 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+
   (symbol (lib_id "footprint:FH12-24S-0.5SV55") (at 26.67 134.62 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 6ad2aaea-fb53-41ed-b7e7-999d0a4913f1)
@@ -5194,6 +5211,9 @@
     )
     (path "/800404c9-7b4d-4076-a0ce-50ba67a38ebd"
       (reference "H5") (unit 1) (value "MountingSwitch") (footprint "MountingHole:MountingHole_3.2mm_M3")
+    )
+    (path "/695e7040-9eb8-4818-b432-6ea83223f7af"
+      (reference "H6") (unit 1) (value "MountingHole") (footprint "footprint:MountingHole_2.2mm_M2")
     )
     (path "/6ad2aaea-fb53-41ed-b7e7-999d0a4913f1"
       (reference "J1") (unit 1) (value "AFC24-S24FIC-00") (footprint "footprint:AFC24-S24FIC-00")
