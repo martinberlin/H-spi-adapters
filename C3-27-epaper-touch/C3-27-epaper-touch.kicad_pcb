@@ -860,7 +860,7 @@
     (property "Sheetfile" "C3-27-epaper-touch.kicad_sch")
     (property "Sheetname" "")
     (path "/a2119d02-11b3-4a1c-8846-8419cdb75107")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "H3" (at 0 -4.2) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4f70a8f7-de75-408c-be37-934f360b8aab)
