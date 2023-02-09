@@ -64,4 +64,9 @@
   (pad "25" smd rect (at -0.144198 4.394886) (size 0.7112 0.7112) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7e180594-868f-44f6-bef6-14f123942245))
   (pad "26" smd rect (at 0.955802 4.394886) (size 0.7112 0.7112) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9ac23ce3-cc7a-40e7-9302-b8d2bf6cfb50))
   (pad "27" smd rect (at 2.055802 4.394886) (size 0.7112 0.7112) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 36186be9-fe56-46f2-bdfd-1103ecfabf95))
+  (model "${KIPRJMOD}/parts/3d/ESP32-C3-WROOM-02-H4.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
