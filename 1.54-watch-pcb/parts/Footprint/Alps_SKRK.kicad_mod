@@ -33,12 +33,7 @@
   (fp_circle (center 0 0) (end 1 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp 97fe9c60-586f-4895-8504-4d3729f5f81a))
   (pad "1" smd roundrect (at -2.1 0) (size 0.8 2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 42713045-fffd-4b2d-ae1e-7232d705fb12))
   (pad "2" smd roundrect (at 2.1 0) (size 0.8 2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 1a1ab354-5f85-45f9-938c-9f6c4c8c3ea2))
-  (model "${KISYS3DMOD}/Button_Switch_SMD.3dshapes/SW_Push_SPST_NO_Alps_SKRK.wrl"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
-  (model "${KIPRJMOD}/components/3dmodels/SKRKAH.STEP"
+  (model "${KIPRJMOD}/parts/3d/Button_SKRKAH.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

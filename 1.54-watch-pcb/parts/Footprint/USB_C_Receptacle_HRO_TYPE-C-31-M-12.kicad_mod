@@ -51,7 +51,7 @@
   (pad "S1" thru_hole oval (at 4.32 1.05) (size 1 1.6) (drill oval 0.6 1.2) (layers *.Cu *.Mask) (tstamp 5c421e01-c1bc-49a2-a0b4-d45836251d1e))
   (pad "S1" thru_hole oval (at -4.32 -3.13) (size 1 2.1) (drill oval 0.6 1.7) (layers *.Cu *.Mask) (tstamp a45c305b-c96c-4194-adeb-b3356fc5ed1b))
   (pad "S1" thru_hole oval (at -4.32 1.05) (size 1 1.6) (drill oval 0.6 1.2) (layers *.Cu *.Mask) (tstamp d37b178e-4547-4693-af98-5aaea3b4578a))
-  (model "${KIPRJMOD}/parts/3d/HRO_TYPE-C-31-M-12.step"
+  (model "${KIPRJMOD}/parts/3d/USB_TYPE-C-31-M-12.step"
     (offset (xyz -4.5 -3.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
