@@ -4,6 +4,19 @@ H stands for Hardware.
 
 In this repository we will keep PCB designs done in KiCAD for SPI adapters we use. 
 
+### ESP32-C3 24 pin Good-Display epaper controller with touch
+
+Along with the 220AC-3.3DC converter with Latch relay this PCB can be used to make a light wall switch but is also great to experiment with SPI epapers and UX design. Here a preview showing front and back Cooper layers plus 3D view:
+
+![Fr cu](https://user-images.githubusercontent.com/2692928/218306190-1fd7f464-35e3-41fd-bcc0-3b9c66186e00.png)
+
+![Back cu](https://user-images.githubusercontent.com/2692928/218306195-ac2b6d8f-d0d7-4895-9ebe-9b89c95623e5.png)
+
+![Silkscreen](https://user-images.githubusercontent.com/2692928/218306225-3c7058b8-ede4-449a-a41e-439912fd12bd.png)
+
+![3D-view](https://user-images.githubusercontent.com/2692928/218306248-25cc7c8f-0f09-4286-9bbc-a478964cdd3d.png)
+
+This PCB will be offered only in our [Lectronz store](https://lectronz.com/stores/fasani/). Last unit is available only till end of February 2023.
 
 ### UC8156 SPI adapter for Tinypico
 
