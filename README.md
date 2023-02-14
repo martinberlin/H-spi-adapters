@@ -2,7 +2,8 @@
 
 H stands for Hardware.
 
-In this repository we will keep PCB designs done in KiCAD for SPI adapters we use. 
+In this repository we will keep PCB designs done in KiCAD for SPI adapters we use. This PCB hardware work uses the [CERN Open Hardware Licence Version 2](https://github.com/martinberlin/H-spi-adapters/blob/master/LICENSE) in the weakly reciprocal version.
+Be aware that this is experimental work mostly done for research and **mass-producing this PCB's is not permitted without our written consent**. Fabricating and selling hardware also implies that you need to provide support / fixes and maintain your code examples up to date.
 
 ### ESP32-C3 24 pin Good-Display epaper controller with touch
 
