@@ -396,7 +396,7 @@
       "netlist": "",
       "specctra_dsn": "",
       "step": "",
-      "vrml": "schematics/C3-27-epaper-touch.wrl"
+      "vrml": "3D/C3-27-epaper-touch.wrl"
     },
     "page_layout_descr_file": ""
   },
