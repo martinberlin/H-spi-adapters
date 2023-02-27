@@ -7,6 +7,7 @@ Be aware that this is experimental work mostly done for research and **mass-prod
 
 ### ESP32-C3 24 pin Good-Display epaper controller with touch
 
+Latest versions of this PCB idea are moved to the [Bistable-smart-switch repository](https://github.com/martinberlin/bistable-smart-switch). Will leave this initial version here for historic reasons.
 Along with the 220AC-3.3DC converter with Latch relay this PCB can be used to make a light wall switch but is also great to experiment with SPI epapers and UX design. Here a preview showing front and back Cooper layers plus 3D view:
 
 ![Fr cu](https://user-images.githubusercontent.com/2692928/218306190-1fd7f464-35e3-41fd-bcc0-3b9c66186e00.png)
