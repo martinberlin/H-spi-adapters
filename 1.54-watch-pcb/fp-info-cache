@@ -1,4 +1,4 @@
-21435126887469101
+21436845864513097
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -89354,6 +89354,13 @@ ESP32-C3-MINI-1-N4
 0
 61
 61
+footprint
+ESP32-C3-WROOM-02-N4
+
+
+0
+27
+27
 footprint
 FH34SRJ-6S-0.5SH50-Hirose
 
