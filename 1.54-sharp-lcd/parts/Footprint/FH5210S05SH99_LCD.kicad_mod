@@ -61,4 +61,9 @@
   (pad "10" smd rect (at 2.25 -2.975) (size 0.3 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6636d3b4-1388-4029-b42f-51144da4c20a))
   (pad "MP1" smd rect (at -3.95 0.2) (size 0.8 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 83358266-c22b-4ea4-90d7-2e6a9dc49dfb))
   (pad "MP2" smd rect (at 3.95 0.2) (size 0.8 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 23aa3eda-c038-4f31-98b1-94e72b521b4f))
+  (model "${KIPRJMOD}/parts/3d/LCD-10S-0.5SH.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

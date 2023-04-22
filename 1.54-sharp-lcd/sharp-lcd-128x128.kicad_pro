@@ -176,7 +176,6 @@
       ],
       "track_widths": [
         0.0,
-        0.2,
         0.3,
         0.35,
         0.5
@@ -185,10 +184,6 @@
         {
           "diameter": 0.0,
           "drill": 0.0
-        },
-        {
-          "diameter": 0.45,
-          "drill": 0.25
         },
         {
           "diameter": 0.5,
@@ -425,7 +420,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "154-watch.kicad_pro",
+    "filename": "sharp-lcd-128x128.kicad_pro",
     "version": 1
   },
   "net_settings": {

@@ -39,6 +39,7 @@
       9,
       10,
       11,
+      12,
       13,
       14,
       15,
@@ -67,7 +68,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "154-watch.kicad_prl",
+    "filename": "sharp-lcd-128x128.kicad_prl",
     "version": 3
   },
   "project": {
