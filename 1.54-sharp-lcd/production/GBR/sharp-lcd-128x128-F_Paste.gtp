@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,7.0.1-3b83917a11~172~ubuntu22.04.1*
-G04 #@! TF.CreationDate,2023-04-23T17:42:43+02:00*
+G04 #@! TF.CreationDate,2023-04-24T23:34:59+02:00*
 G04 #@! TF.ProjectId,sharp-lcd-128x128,73686172-702d-46c6-9364-2d3132387831,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Paste,Top*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.1-3b83917a11~172~ubuntu22.04.1) date 2023-04-23 17:42:43*
+G04 Created by KiCad (PCBNEW 7.0.1-3b83917a11~172~ubuntu22.04.1) date 2023-04-24 23:34:59*
 %MOMM*%
 %LPD*%
 G01*
@@ -162,9 +162,6 @@ X90249999Y-34262200D03*
 X90249999Y-36980000D03*
 X91200000Y-36980000D03*
 X92150001Y-36980000D03*
-D16*
-X82650000Y-47350000D03*
-X82650000Y-49000000D03*
 D22*
 X94925000Y-42400000D03*
 X93275000Y-42400000D03*
