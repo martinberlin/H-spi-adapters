@@ -3635,8 +3635,8 @@
   (symbol (lib_id "ESP32-C3:ESP32-C3-WROOM-02-N4") (at 285.75 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5a414474-4270-4fbd-8371-07d974537516)
-    (property "Reference" "U3" (at 306.07 79.2304 0)
-      (effects (font (size 1.524 1.524)))
+    (property "Reference" "U1" (at 306.07 78.2617 0)
+      (effects (font (size 3 3)))
     )
     (property "Value" "ESP32-C3-WROOM-02-N4" (at 306.07 81.4846 0)
       (effects (font (size 1.524 1.524)))
@@ -3677,7 +3677,7 @@
     (instances
       (project "sharp-lcd-128x128"
         (path "/ea6fde00-59dc-4a79-a647-7e38199fae0e"
-          (reference "U3") (unit 1)
+          (reference "U1") (unit 1)
         )
       )
     )
