@@ -1915,6 +1915,9 @@
   (junction (at 246.38 92.71) (diameter 0) (color 0 0 0 0)
     (uuid a25db305-2db2-42fd-83a0-8bb196a5a455)
   )
+  (junction (at 278.13 196.85) (diameter 0) (color 0 0 0 0)
+    (uuid a7885ff8-5ad6-4660-98c8-7c6cbd49a6d3)
+  )
   (junction (at 377.19 92.71) (diameter 0) (color 0 0 0 0)
     (uuid ac84e3d4-f9db-4828-aa05-2408b783f454)
   )
@@ -2080,7 +2083,7 @@
     (stroke (width 0) (type default))
     (uuid 307035f5-8fba-4d15-a861-4d210a6e6cc9)
   )
-  (wire (pts (xy 271.78 196.85) (xy 285.75 196.85))
+  (wire (pts (xy 271.78 196.85) (xy 278.13 196.85))
     (stroke (width 0) (type default))
     (uuid 3281eef4-b995-489b-803f-0968cfd93224)
   )
@@ -2558,6 +2561,10 @@
   (wire (pts (xy 285.75 194.31) (xy 285.75 196.85))
     (stroke (width 0) (type default))
     (uuid f5a6e61b-d684-4138-8434-f77640d80992)
+  )
+  (wire (pts (xy 278.13 196.85) (xy 285.75 196.85))
+    (stroke (width 0) (type default))
+    (uuid ffcd8086-dcf9-466e-8a45-529ce3d1b777)
   )
 
   (rectangle (start 57.15 120.65) (end 129.54 184.15)
@@ -4358,6 +4365,36 @@
       (project "sharp-lcd-128x128"
         (path "/ea6fde00-59dc-4a79-a647-7e38199fae0e"
           (reference "J6") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Connector:TestPoint") (at 278.13 196.85 0) (mirror y) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid b5121af2-5996-4be6-ab6b-5a5a1e78fc77)
+    (property "Reference" "TP3" (at 279.4 194.31 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Value" "RTC_INT" (at 279.527 195.2502 0)
+      (effects (font (size 1.27 1.27)) (justify right) hide)
+    )
+    (property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm" (at 274.32 200.66 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 273.05 196.85 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid fdd03ea6-ce06-4e72-821d-0f8131616d4e))
+    (instances
+      (project "C3-27-epaper-touch"
+        (path "/42575459-fa0a-4761-8328-0238c17cbdda"
+          (reference "TP3") (unit 1)
+        )
+      )
+      (project "sharp-lcd-128x128"
+        (path "/ea6fde00-59dc-4a79-a647-7e38199fae0e"
+          (reference "TP2") (unit 1)
         )
       )
     )
