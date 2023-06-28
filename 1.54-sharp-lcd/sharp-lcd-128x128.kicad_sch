@@ -6,7 +6,7 @@
 
   (title_block
     (title "Sharp LCD 10 pin adapter with touch")
-    (rev "1.0")
+    (rev "1.1")
     (company "FASANI CORPORATION")
     (comment 3 "digital watch or similar project.")
     (comment 4 "This is an experimental project to make a small")
