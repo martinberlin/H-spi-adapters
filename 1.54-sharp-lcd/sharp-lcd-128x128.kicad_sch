@@ -2590,7 +2590,7 @@
     (effects (font (size 1.8 1.8) (color 255 255 255 1)) (justify left top))
     (uuid 625dc49c-18ab-469e-87c4-7f8ed730cbc9)
   )
-  (text_box "    Sharp Memory Display Connector as detailed in Datashet\n    https://cdn.sparkfun.com/assets/d/e/8/9/7/LS013B7DH03_datasheet.pdf\n    ------------------------------------\n    Pin   Function        Notes\n    ==   =======  ===========================\n      1   SCLK            Serial Clock\n      2   MOSI            Serial Data Input\n      3   CS              Serial Chip Select\n      4   EXTCOMIN       External COM Inversion Signal <- Fed by RTC_SQW\n      5   DISP            Display On(High)/Off(Low)\n      6   3V3             3.3V out\n      7   VIN              3.3-5.0V (into LDO supply)\n      8   EXTMODE        COM Inversion Select (Low = SW clock/serial)\n      9   GND\n      10  VSSA  -> GND"
+  (text_box "    Sharp Memory Display Connector as detailed in Datashet\n    https://cdn.sparkfun.com/assets/d/e/8/9/7/LS013B7DH03_datasheet.pdf\n    ------------------------------------\n    Pin   Function        Notes\n    ==   =======  ===========================\n      1   SCLK            Serial Clock\n      2   MOSI            Serial Data Input\n      3   CS              Serial Chip Select\n      4   EXTCOMIN       External COM Inversion Signal <- Fed by RTC_SQW\n      5   DISP            Display On(High)/Off(Low)\n      6   VDDA            Analog power supply\n      7   VDD             Digital 3.3-5.0V (into LDO supply)\n      8   EXTMODE        COM Inversion Select (Low = SW clock/serial)\n      9   GND\n      10  VSSA  -> GND"
     (at 118.11 76.2 0) (size 80.01 36.83)
     (stroke (width 0) (type default))
     (fill (type none))
