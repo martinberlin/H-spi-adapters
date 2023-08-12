@@ -178,7 +178,8 @@
         0.0,
         0.3,
         0.35,
-        0.5
+        0.5,
+        0.6
       ],
       "via_dimensions": [
         {
@@ -420,7 +421,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "sharp-lcd-128x128.kicad_pro",
+    "filename": "sharp-lcd-27.kicad_pro",
     "version": 1
   },
   "net_settings": {
